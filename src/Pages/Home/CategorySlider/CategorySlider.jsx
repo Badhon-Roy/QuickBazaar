@@ -18,7 +18,7 @@ const CategorySlider = () => {
                     categories.map(category => <Link key={category._id} to={`/products/${category?.category}`}><div  className=" bg-base-100 shadow-xl">
                         <figure><img className="w-full md:h-[200px] h-[250px] object-cover" src={category?.image} alt="Shoes" /></figure>
                         <div className="card-body">
-                            <h2 className="card-title">{category?.category}</h2>
+                            <h2 className="card-title capitalize">{category?.category}</h2>
                         </div>
                     </div></Link>)
                 }
