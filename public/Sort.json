@@ -1,0 +1,47 @@
+[
+    {
+        "name": "t_Shirt",
+        "label": "T-Shirt",
+        "width": "95px"
+    },
+    {
+        "name": "pent",
+        "label": "Pent",
+        "width": "80px"
+    },
+    {
+        "name": "belt",
+        "label": "Belt",
+        "width": "75px"
+    },
+    {
+        "name": "Shari",
+        "label": "Shari",
+        "width": "95px"
+    },
+    {
+        "name": "pent",
+        "label": "Pent",
+        "width": "80px"
+    },
+    {
+        "name": "belt",
+        "label": "Belt",
+        "width": "75px"
+    },
+    {
+        "name": "t_Shirt",
+        "label": "T-Shirt",
+        "width": "95px"
+    },
+    {
+        "name": "pent",
+        "label": "Pent",
+        "width": "80px"
+    },
+    {
+        "name": "belt",
+        "label": "Belt",
+        "width": "75px"
+    }
+]

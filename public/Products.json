@@ -1,0 +1,793 @@
+[
+    {
+        "category_name": "men",
+        "images": [
+            "https://media.e-valy.com/cms/products/images/109ae480-bc57-4872-a401-2be3a5154c63",
+            "https://static-01.daraz.com.bd/p/f77c9081c2ef1c3b382aa39237658180.jpg",
+            "https://stateofmatterapparel.com/cdn/shop/products/T-Shirt_Navy_Front_CROPPED.jpg?v=1686335802"
+        ],
+        "type": "t-shirt",
+        "price": 24.99,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "Classic Men's T-Shirt",
+        "product_details": "Indulge in comfort and style with our classic Men's T-Shirt. Crafted from 100% premium cotton, this T-shirt offers a soft and breathable feel, making it perfect for everyday wear. The versatile navy blue color adds a touch of sophistication to your casual wardrobe. The regular fit ensures comfort without compromising on style, while the ribbed crew neck adds durability to the design. Whether you're heading out for a casual day with friends or relaxing at home, this T-shirt is a wardrobe essential.",
+        "features": [
+            "100% cotton material",
+            "Available in multiple sizes",
+            "Machine washable",
+            "Ribbed crew neck for durability",
+            "Regular fit for all-day comfort"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPDdaYMyFbWZmZ_ZVe28PkCBiJt2RzUcPVjGKJsVdIALrTVKYEZhmG26HXUWE5L6VxMkk&usqp=CAU",
+            "https://img01.ztat.net/article/spp-media-p1/85206c2bf4624dbe92b825e25c52c693/8d03b6468d7d4941a68798c75c837840.jpg?imwidth=1800",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQf-UAIqXYIBNrobO5k5bcC10E7LqbKCMzjA&usqp=CAU"
+        ],
+        "type": "skirt",
+        "price": 34.99,
+        "rating": 4,
+        "product_color": "green",
+        "product_name": "Women's A-line Skirt in Blush Pink",
+        "product_details": "Elevate your style with our elegant Women's A-line Skirt in Blush Pink. Made from a soft and breathable fabric, this skirt offers comfort and a flattering fit. The A-line silhouette adds a touch of sophistication, making it suitable for both formal and casual occasions. The elastic waistband ensures a comfortable and adjustable fit, while the versatile design allows you to pair it with a variety of tops. Available in different sizes, this skirt is a wardrobe staple for any fashion-forward woman.",
+        "features": [
+            "Soft and breathable fabric",
+            "Elastic waistband for a comfortable fit",
+            "Versatile for various occasions",
+            "Available in different sizes",
+            "A-line fit for a flattering silhouette"
+        ],
+        "fit": "A-line Fit"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://5.imimg.com/data5/DK/FA/NX/GLADMIN-51628136/mens-denim-skinny-jeans.jpg",
+            "https://5.imimg.com/data5/YM/QG/MY-45492291/mens-blue-jeans-500x500.jpg",
+            "https://static.aadi.com.bd/__sized__/products/18081-30266-jeans-chinos-blue-spring-fashions-62778-1-thumbnail-1080x1080-70.jpg"
+        ],
+        "type": "jeans",
+        "price": 49.99,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "Men's Dark Blue Jeans",
+        "product_details": "Upgrade your denim collection with our Men's Dark Blue Jeans. Crafted from high-quality denim, these jeans offer both style and durability. The dark blue color adds a touch of sophistication, making them suitable for various occasions. The classic fit ensures comfort, while the versatile design makes them easy to pair with your favorite tops. Elevate your casual look with these stylish and reliable jeans.",
+        "features": [
+            "Premium denim material",
+            "Classic fit",
+            "Zip fly with button closure",
+            "Five-pocket styling",
+            "Versatile for casual wear"
+        ],
+        "fit": "Classic Fit"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://getethnic.com/wp-content/uploads/2020/05/14gfgfgfggfgScreenshot_1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfnRJs3YUwyTIUZJFijhLGLywTGjbbpx4v_UIqjC4R4uGYB1QRrDeKKdW0Z41ahVua_8&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkFIIRrpldbHhzFwThbPOlmN1EeQxsY_WEXorOEpWPJehkVNwPWoFuC02RBYbxR9qp9w&usqp=CAU"
+        ],
+        "type": "blouse",
+        "price": 29.99,
+        "rating": 4,
+        "product_color": "red",
+        "product_name": "Women's red Blouse",
+        "product_details": "Enhance your wardrobe with our Women's red Blouse. Made from lightweight and breathable fabric, this blouse is perfect for both casual and semi-formal occasions. The red color adds a touch of elegance, while the versatile design makes it easy to pair with skirts, pants, or jeans. The comfortable fit and stylish details make this blouse a must-have for any fashion-conscious woman.",
+        "features": [
+            "Lightweight and breathable fabric",
+            "Versatile for various occasions",
+            "Comfortable fit",
+            "Button-front closure",
+            "Elegant ivory color"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://static-01.daraz.com.bd/p/f9af4a76128646fae86d1ebcb51b2949.jpg_750x400.jpg_.webp",
+            "https://ae01.alicdn.com/kf/Se7dbae9ee12b4112ae39a33e84f64e5dB/Tokyo-Ghoul-Eyes-Hoodie-Japanese-Anime-Ken-Kaneki-Graphic-Sweatshirts-Pullovers-Tops-Casual-Fashion-Long-Sleeve.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71gTF9niQVsWAWGOapHsjk4RCcPX6J-WeaIUz328Q8W6nMWE1P5QuRuC7OCGVmFGgBqU&usqp=CAU"
+        ],
+        "type": "hoodie",
+        "price": 39.99,
+        "rating": 3,
+        "product_color": "black",
+        "product_name": "stylish Men's Black Hoodie",
+        "product_details": "Stay warm and stylish with our Men's Black Hoodie. Crafted from a blend of cotton and polyester, this hoodie offers a cozy feel and durability. The Black color adds a modern touch, making it a versatile addition to your casual wardrobe. Featuring a front kangaroo pocket and adjustable drawstring hood, this hoodie is perfect for chilly days or casual outings.",
+        "features": [
+            "Cotton-polyester blend",
+            "Front kangaroo pocket",
+            "Adjustable drawstring hood",
+            "Comfortable and warm",
+            "Versatile for casual wear"
+        ],
+        "fit": "Relaxed Fit"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonUknA6Pc0WjfGalf2HTmtTXgM7-8p4RS9lUVX87FV5-y8wMWusE0TCW6pUiv1QfBsEw&usqp=CAU",
+            "https://i.pinimg.com/736x/e4/bd/9a/e4bd9a401ea953fa9613474587f247a0.jpg",
+            "https://5.imimg.com/data5/PS/GE/JP/ANDROID-369628/product-jpeg-500x500.jpg"
+        ],
+        "type": "dress",
+        "price": 59.99,
+        "rating": 4,
+        "product_color": "purple",
+        "product_name": "Women's purple Midi Dress",
+        "product_details": "Make a statement with our Women's purple Midi Dress. This elegant dress is perfect for special occasions or a night out. Made from high-quality fabric, it offers both comfort and style. The rich purple color adds a touch of sophistication, while the midi length and A-line silhouette create a flattering look. With its timeless design, this dress is a wardrobe staple for any fashion-forward woman.",
+        "features": [
+            "High-quality fabric",
+            "Midi length",
+            "A-line silhouette",
+            "Versatile for special occasions",
+            "Back zipper closure"
+        ],
+        "fit": "A-line Fit"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://static-01.daraz.com.bd/p/52f87aabaa435c2b6d992f4d6816258a.jpg_750x750.jpg_.webp",
+            "https://fcity.in/images/products/50200947/bohfi_256.jpg",
+            "https://m.media-amazon.com/images/I/612XpCDvoOL._AC_UY300_.jpg"
+        ],
+        "type": "sneakers",
+        "price": 79.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Style with our Men's White Sneakers",
+        "product_details": "Step out in style with our Men's White Sneakers. These sneakers are not just comfortable but also on-trend. The crisp white color adds a fresh and modern touch, making them perfect for casual outings. With a lace-up closure and a durable rubber sole, these sneakers offer both style and functionality. Elevate your everyday look with these versatile and fashionable sneakers.",
+        "features": [
+            "Lace-up closure",
+            "Durable rubber sole",
+            "Comfortable for all-day wear",
+            "Versatile for casual outfits",
+            "Modern and on-trend"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://static-01.daraz.com.bd/p/1fa713912bdc9f7b919bb8a296744b66.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCP2GlVhoMM1YX8Pvkx5Rn7BB2Ywna0lk9A&usqp=CAU",
+            "https://down-sg.img.susercontent.com/file/8171f0d7f06bf12f015aeffda49acbfa"
+        ],
+        "type": "handbag",
+        "price": 49.99,
+        "rating": 3,
+        "product_color": "purple",
+        "product_name": "Japan And Korean Style Fashion Brand Women Bags High",
+        "product_details": "Complete your look with our Women's Cognac Handbag. This stylish handbag is perfect for carrying your essentials in style. Crafted from faux leather, it offers a luxurious feel without compromising on sustainability. The rich cognac color adds warmth and sophistication to your ensemble. With multiple compartments and a detachable shoulder strap, this handbag is both practical and chic.",
+        "features": [
+            "Faux leather material",
+            "Multiple compartments",
+            "Detachable shoulder strap",
+            "Stylish and practical",
+            "Cognac color for a classic look"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://th-test-11.slatic.net/p/726b1989c84f513e72ce6af238af0803.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO2ROB72r_VUeT-kWYYd6Zwr4APe3JkE6_RJmy3HRgkzsjSmFryJwiP9I5ObP1mo-RW34&usqp=CAU",
+            "https://ph-live-01.slatic.net/p/71913606d7eaa9b158b35e5bc635e36f.jpg"
+        ],
+        "type": "hoodie",
+        "price": 39.99,
+        "rating": 3,
+        "product_color": "yellow",
+        "product_name": "Korean Hot Hoodie Jacket With Two Combination Colors",
+        "product_details": "Stay warm and stylish with our Men's yellow Hoodie. Crafted from a blend of cotton and polyester, this hoodie offers a cozy feel and durability. The yellow color adds a modern touch, making it a versatile addition to your casual wardrobe. Featuring a front kangaroo pocket and adjustable drawstring hood, this hoodie is perfect for chilly days or casual outings.",
+        "features": [
+            "Cotton-polyester blend",
+            "Front kangaroo pocket",
+            "Adjustable drawstring hood",
+            "Comfortable and warm",
+            "Versatile for casual wear"
+        ],
+        "fit": "Relaxed Fit"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://m.media-amazon.com/images/I/71IThbDPbHL._AC_SX342_.jpg",
+            "https://m.media-amazon.com/images/I/71MVGQwd9vL._AC_UY580_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71IThbDPbHL._AC_UL600_SR600,600_.jpg"
+        ],
+        "type": "dress",
+        "price": 59.99,
+        "rating": 4,
+        "product_color": "black",
+        "product_name": "Celucke Women's V-Neck Three Quarter Sleeve Long Dress",
+        "product_details": "Make a statement with our Women's black Midi Dress. This elegant dress is perfect for special occasions or a night out. Made from high-quality fabric, it offers both comfort and style. The rich black color adds a touch of sophistication, while the midi length and A-line silhouette create a flattering look. With its timeless design, this dress is a wardrobe staple for any fashion-forward woman.",
+        "features": [
+            "High-quality fabric",
+            "Midi length",
+            "A-line silhouette",
+            "Versatile for special occasions",
+            "Back zipper closure"
+        ],
+        "fit": "A-line Fit"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://i.pinimg.com/564x/4c/4a/ff/4c4afff442c363ea296e4162c88e0255.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6EqpY9g-EYo0JYKWlIOULof9iNP_WPKN1Q&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIESfY-O3nV5zrgG8A-_62h3XZXT6VMMfFTDtKrJ22Q1-a63zCJ23BtKDcpY_v6O3WLk8&usqp=CAU"
+        ],
+        "type": "sneakers",
+        "price": 79.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Style with our Men's White Sneakers",
+        "product_details": "Step out in style with our Men's White Sneakers. These sneakers are not just comfortable but also on-trend. The crisp white color adds a fresh and modern touch, making them perfect for casual outings. With a lace-up closure and a durable rubber sole, these sneakers offer both style and functionality. Elevate your everyday look with these versatile and fashionable sneakers.",
+        "features": [
+            "Lace-up closure",
+            "Durable rubber sole",
+            "Comfortable for all-day wear",
+            "Versatile for casual outfits",
+            "Modern and on-trend"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://images.hindustantimes.com/img/2022/07/18/1600x900/handbags_for_girls_1658129264261_1658129298381_1658129298381.jpg",
+            "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61szA88w2gL._AC_SR175,263_QL70_.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-n-klt8erHTIoeVfaiMFLhG-6PUVtqO3oOBXC7ZB4BnmcolrmbcymDd8lDPd6uYbrfU&usqp=CAU"
+        ],
+        "type": "handbag",
+        "price": 49.99,
+        "rating": 3,
+        "product_color": "pink",
+        "product_name": "Complete your look with our Women's Cognac Handbag",
+        "product_details": "Complete your look with our Women's Cognac Handbag. This stylish handbag is perfect for carrying your essentials in style. Crafted from faux leather, it offers a luxurious feel without compromising on sustainability. The rich cognac color adds warmth and sophistication to your ensemble. With multiple compartments and a detachable shoulder strap, this handbag is both practical and chic.",
+        "features": [
+            "Faux leather material",
+            "Multiple compartments",
+            "Detachable shoulder strap",
+            "Stylish and practical",
+            "Cognac color for a classic look"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61ERk4mf2eL._AC_SL1297_.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5YgDzaB5S5yBpCd6hVFM6oKEds9Ls6xHT7uq6LdOOgw6IW9zn6KGeUvukHRQN5HBIif4&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1luwl7fzZgOBd8B9xfO_AdfxiwYyX0GPUg&usqp=CAU"
+        ],
+        "type": "t-shirts",
+        "price": 39.99,
+        "rating": 4,
+        "product_color": "black",
+        "product_name": "Matching shirts for couples",
+        "product_details": "Celebrate togetherness with our Couple's Matching T-Shirts in Black. Crafted from high-quality cotton, these shirts offer a soft and comfortable fit. The black color adds a touch of elegance, and the matching design symbolizes unity. Perfect for outings, anniversaries, or simply expressing your connection, these matching t-shirts make a stylish statement for couples.",
+        "features": [
+            "High-quality cotton material",
+            "Matching design for couples",
+            "Comfortable fit for both",
+            "Ideal for outings and anniversaries",
+            "Available in multiple sizes"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71V6D8L-EGL._AC_UY350_.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPVlvGHkBJk0GAiJfS623yTw9jLi8DNUEZUPvfmgza2kFrhLwSE5B8PEpvWik2ds1Y2U&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL5mXReLMiNDW7c9hYt_Cuz3JJ8L-4asROsa2JNf567F5DTmsulNMz0rYwfiKwrp8UrT8&usqp=CAU"
+        ],
+        "type": "watches",
+        "price": 99.99,
+        "rating": 4,
+        "product_name": "Matching watches for couples",
+        "product_color": "gold",
+        "product_details": "Enhance your bond with our His and Hers Rose Gold Watches. These elegant timepieces are crafted with precision and style. The rose gold color adds a romantic touch, making them perfect for couples. With a durable stainless steel band and water-resistant features, these watches are not just a symbol of your connection but also functional accessories for everyday wear.",
+        "features": [
+            "Rose gold-tone design for both watches",
+            "Stainless steel bands",
+            "Water-resistant features",
+            "Perfect gift for couples",
+            "Durable and stylish"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://images.meesho.com/images/products/286010672/dsrdh_512.webp",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNY5k1qSEiTqtr-Xg7l5Ytn_VFYG2hvKh7Rsdj6ERI2n4xAgTglfhaHugT3FR42dfFNhE&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvrlT6CWRJHjHLkQM0JrX2ouVkcSIceX6IzTneRe16jm_DYd_r4FT-sjXGPauWGUBKHU&usqp=CAU"
+        ],
+        "type": "dress",
+        "price": 29.99,
+        "rating": 4,
+        "product_color": "black",
+        "product_name": "Baby boy dress super hot",
+        "product_details": "Dress your little ones in style with our Children's Bright Blue Kidswear Set. This adorable set includes a comfortable t-shirt and matching shorts, perfect for active play. Made from soft and breathable materials, the bright blue color adds a cheerful vibe. Whether they're heading to the playground or a family gathering, this kidswear set ensures both comfort and cuteness.",
+        "features": [
+            "Soft and breathable materials",
+            "Adorable t-shirt and shorts set",
+            "Bright blue color for a cheerful look",
+            "Comfortable for active play",
+            "Available in various children's sizes"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK2zTo6Pn1I6hzVgKGG3FgDC-8lJDNH-qYSn1CLLCEnJdpeDXT-4kZmYS3MoQHFBn4LkI&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql4TpIXWH0FDpQVqLsGapu9YsENg4ClPC15-6sHPIJZEzWOd1-N3nNuRYP_ZrQLlHSp0&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnKHwEewAEYg3K6bcURBoa5yuVp5YzoKNrJIThzEw_nCb0Kha3kvNZP84aIjoxB5NH7_4&usqp=CAU"
+        ],
+        "type": "backpack",
+        "price": 19.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Kids Backpack Sailors Bay",
+        "product_details": "Let your child express their personality with our Children's Pink Floral Backpack. This backpack is not just practical but also stylish, featuring a vibrant pink floral pattern. With multiple compartments and adjustable straps, it's perfect for school, day trips, or family outings. Give your child a fun and functional accessory that they'll love to carry everywhere.",
+        "features": [
+            "Vibrant pink floral pattern",
+            "Multiple compartments for storage",
+            "Adjustable shoulder straps",
+            "Ideal for school or day trips",
+            "Stylish and practical design"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://babai.com.bd/wp-content/uploads/2023/11/1205-ORI-BLUE-2-600x600.jpg",
+            "https://ae01.alicdn.com/kf/S46f4f2b779e3449fa65d0fbe319b844dB/Children-Cotton-Shoes-Winter-Boys-Sports-Shoes-High-Top-Plush-Children-Casual-Board-Shoes-Baby-Sneakers.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT805rhGBMe1xdYGIUhH8d-X0UkExRJyQzprKuKQ10V-KbSwRcmChEoQYUhw_Wnp4s9FX0&usqp=CAU"
+        ],
+        "type": "sneakers",
+        "price": 34.99,
+        "rating": 5,
+        "product_color": "blue",
+        "product_name": "Children's Casual Warm Shoes",
+        "product_details": "Keep your child's feet stylish and comfortable with our Children's blue Sneakers. Crafted with care, these sneakers feature a blue color that adds a playful touch. The lace-up closure ensures a secure fit, and the durable rubber sole provides support for all their adventures. Perfect for school or casual outings, these sneakers are a must-have for young trendsetters.",
+        "features": [
+            "blue color for a playful look",
+            "Lace-up closure for a secure fit",
+            "Durable rubber sole",
+            "Ideal for school and casual wear",
+            "Available in various children's sizes"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://cdn.littlebluehouse.com/product_images/rainbow-unicorns-kids-pajama-set/PJAUNCO009_jpg/pdp_zoom.jpg?c=1587592122&locale=us_en",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcVPZiuf-aco6sMJ8XMRVVw-voXwcRxxBXDpOk5xbmAwWtvruPWsqaRSfxvNCnFPmXHk&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHSR6QPbgI_kOaZTY57hyQo6h8YAlU273ByLncHU3Z1L5fpQXxaKUX2_prtjnKsQHlS4&usqp=CAU"
+        ],
+        "type": "pajama",
+        "price": 26.99,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "Hatley Christmas Whale Pajamas",
+        "product_details": "Ensure sweet dreams with our Children's blue Pajama Set. Made from soft and cozy fabric, this pajama set features an adorable print with cute animals. The elastic waistband provides a comfortable fit, and the matching top and bottom make bedtime fun. Create magical bedtime moments for your little ones with this charming pajama set.",
+        "features": [
+            "Soft and cozy fabric",
+            "Adorable animals print",
+            "Elastic waistband for comfort",
+            "Matching top and bottom",
+            "Ideal for bedtime"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL1cvTUVESUFYXzc5MjQ1Mi1UMS9pbWFnZXMvSS82MTlJcjhmOGxVTC5fU1M0MDBfLmpwZw.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDteJ_o7G6_MrbhGGtly_Z8Uj-7HZhxIMRNw5YKIJ4uSM9Z7IXzDpQZz8OJR-agxHAOmQ&usqp=CAU",
+            "https://img.fruugo.com/product/4/45/516090454_max.jpg"
+        ],
+        "type": "art",
+        "price": 19.99,
+        "rating": 4,
+        "product_color": "pink",
+        "product_name": "Kids Art Set Deluxe Drawing Set, Painting, Drawing",
+        "product_details": "Unleash your child's creativity with our Children's pink Art Supplies Set. This set includes a variety of art materials, from colored pencils to sketch pads. The vibrant pink add excitement to every artistic endeavor. Encourage your little artist to explore their imagination and create masterpieces with this fun and educational art supplies set.",
+        "features": [
+            "pink color for creativity",
+            "Various art materials included",
+            "Ideal for young artists",
+            "Encourages creativity and imagination",
+            "Perfect for arts and crafts"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2022/2/PW/WA/XU/25608534/printed-kids-umbrella-500x500.jpg",
+            "https://cpimg.tistatic.com/08345484/b/4/Kids-Printed-Umbrella.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3wXRZh0ECOiEplSoJzP8ailUeXs9VVze9xQvbqkSkEzFJYUeapZ46AhLVcEZBelkSB_s&usqp=CAU"
+        ],
+        "type": "umbrella",
+        "price": 14.99,
+        "rating": 5,
+        "product_color": "green",
+        "product_name": "RAINPOPSON Umbrella for Kids",
+        "product_details": "Brighten rainy days with our Children's green Umbrella. This playful umbrella features a vibrant green design that adds joy to any gloomy weather. The child-friendly size and easy-to-grip handle make it perfect for little hands. Keep your child dry and happy with this colorful and practical accessory.",
+        "features": [
+            "Vibrant green design",
+            "Child-friendly size",
+            "Easy-to-grip handle",
+            "Perfect for rainy days",
+            "Durable and practical"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "children",
+        "images": [
+            "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//h/i/hooper-hp-s16148m-c1-sunglasses_g_1651_09_11_23.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Gco_t4--VJeOy3bh7M3vlTHrM97wpJL4eXZ8agFBEOxb6mZhUL3coJXbL_wN5P6pGrk&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOdYC1jZHjaRCD4FzoXgLP0J6IbiZfT0WcB8VhzFV4LN5cXqmOF-c7azOGpgqlYs2FQo&usqp=CAU"
+        ],
+        "type": "sunglasses",
+        "price": 16.99,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "Ultra Kids Sunglasses Rubber Flexible Childrens Sunglasses",
+        "product_details": "Protect your child's eyes with our Children's Blue Sunglasses. These sunglasses not only provide UV protection but also add a cool factor to their look. The blue color adds a playful touch, and the durable frame ensures long-lasting wear. Whether it's a sunny day or a stylish accessory, these sunglasses are perfect for young fashionistas.",
+        "features": [
+            "UV protection",
+            "Playful blue color",
+            "Durable frame",
+            "Cool and stylish",
+            "Ideal for sunny days"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqw99G9Jfn9TL5u9HW2dzzi8ENIJQPan3oJ65GmF8u6SOPc6BLDJTpKkZwbLKMDdce5Q&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWB1jjVXG3733QOnEFLERHIvI5xsVMCRQqyP2DY2GUUiODkOcOQHnzeAdnwF0YfFM-Xc&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXxXw-gm1osJe-TyezcM-bhLodZ3F9gP4WVCaDRJh0rDEdX0oiH_ZqRdiLw-oNYGBm0M&usqp=CAU"
+        ],
+        "type": "t-shirts",
+        "price": 39.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Born To Love Her /him Couple Half Sleeve T-Shirt",
+        "product_details": "Celebrate togetherness with our Couple's Matching T-Shirts in White. Crafted from high-quality cotton, these shirts offer a soft and comfortable fit. The black color adds a touch of elegance, and the matching design symbolizes unity. Perfect for outings, anniversaries, or simply expressing your connection, these matching t-shirts make a stylish statement for couples.",
+        "features": [
+            "High-quality cotton material",
+            "Matching design for couples",
+            "Comfortable fit for both",
+            "Ideal for outings and anniversaries",
+            "Available in multiple sizes"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkV77eYPZfYLc6Zb1e-K1Lkj0vn_heUbRU8etNvBo9VcTZfBq-KMUAI_6DaORNIHTGQ4&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEC4-AKCI5msnckukzxzMJnqAbXI0Pp-uusfXTYokK53Jq7LBYXsMdf_3iZNExYqh0_Y&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjgEh1A8NyQXXoQ13JHKIrmXa_IQkz3P7_wmUA2GPptI7Qrlq2fSL-zU-VFSljPBFAQzg&usqp=CAU"
+        ],
+        "type": "watches",
+        "price": 99.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Chapman His & Her Couple Watch Set",
+        "product_details": "Enhance your bond with our His and Hers white Watches. These elegant timepieces are crafted with precision and style. The white color adds a romantic touch, making them perfect for couples. With a durable stainless steel band and water-resistant features, these watches are not just a symbol of your connection but also functional accessories for everyday wear.",
+        "features": [
+            "white-tone design for both watches",
+            "Stainless steel bands",
+            "Water-resistant features",
+            "Perfect gift for couples",
+            "Durable and stylish"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61AOLx4uI4L._AC_UF894,1000_QL80_.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDM6wTorocp8nipNqrdPE-0cDXBZ-0QuSSyKBtc7x5hGosep2fRI8Rdk-KWglRDVKeds&usqp=CAU",
+            "https://ae01.alicdn.com/kf/S27ba764fb67a482ab23ac9679977c7b17.jpg_640x640Q90.jpg_.webp"
+        ],
+        "type": "phone_cases",
+        "price": 29.99,
+        "rating": 4,
+        "product_color": "black",
+        "product_name": "Minimalist Line Sexy Phone Case For Iphone",
+        "product_details": "Stay connected with our Couple's Matching Phone Cases in black. Crafted from durable materials, these cases not only protect your phones but also showcase your connection. The complementary black colors add a playful touch. Perfect for couples who want to share their style and keep their phones safe in tandem.",
+        "features": [
+            "Durable phone case material",
+            "Matching design for couples",
+            "black color combination",
+            "Protects against scratches and bumps",
+            "Fits various phone models"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://static-01.daraz.com.bd/p/e8b1694a937d8c8a650b46f0e79274a7.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHRnLM1Ho3Nn6vIZrgjCjTXnDdZExvUO0aZsZp06kGDJqOw_CTbktLw0sd82B_ekW4o4&usqp=CAU",
+            "https://5.imimg.com/data5/SELLER/Default/2023/7/324810841/VF/SI/VZ/186354407/mr-right-and-mrs-always-right-couples-coffee-mugs-with-gift-bo-500x500.jpg"
+        ],
+        "type": "coffee_mugs",
+        "price": 19.99,
+        "rating": 5,
+        "product_color": "white",
+        "product_name": "Mr Right and Mrs Always Right Couples Coffee Mugs",
+        "product_details": "Start your mornings together with our Couples White Coffee Mugs. Crafted from high-quality ceramic, these mugs feature a minimalist design in classic white. The set includes two mugs, each with a comfortable handle for easy sipping. Share your favorite beverages and moments with your significant other using these stylish and timeless coffee mugs.",
+        "features": [
+            "High-quality ceramic material",
+            "Set of two mugs for couples",
+            "Comfortable handles for easy sipping",
+            "Perfect for sharing favorite beverages",
+            "Timeless and elegant design"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://static.wixstatic.com/media/c6ce55_b756ce2ac2ef430bbb00ac952c5c8d56~mv2.jpg/v1/fill/w_560,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c6ce55_b756ce2ac2ef430bbb00ac952c5c8d56~mv2.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtZDigaglp9Xp7oNBTs2ywXXDcYLoVZMvFsJxZSIWY2y67Lb-sEfGZ7GBU_DR5d_eSiRQ&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKi8kizOu62s8Drhv4azBkm7vv2mxXqJx0NjLQlZiUcHNvF0wg6jiIlQ3DlTxPRLEJU4&usqp=CAU"
+        ],
+        "type": "hoodies",
+        "price": 49.99,
+        "rating": 4,
+        "product_color": "yellow",
+        "product_name": "Will Never End Our Love Story Couple Hoodie",
+        "product_details": "Cozy up in style with our Couple's Matching Hoodies in versatile yellow. Crafted from a blend of cotton and polyester, these hoodies offer warmth and comfort. The matching design not only showcases your connection but also adds a touch of casual charm. Perfect for chilly evenings or casual outings, these matching hoodies are a must-have for couples who love to stay comfy and coordinated.",
+        "features": [
+            "Cotton-polyester blend for warmth",
+            "Matching design for couples",
+            "Comfortable fit for both",
+            "Ideal for chilly evenings",
+            "Available in multiple sizes"
+        ],
+        "fit": "Relaxed Fit"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://i.ebayimg.com/images/g/6WEAAOSwh0xhyriT/s-l1200.webp",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HtR8HmqcG_uUq-PA31zGehe-eLpuLd_hPbxEttSDH7vPJC-MSEi7z_7hmHjnx0MQlIw&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwdqvVN1d0pJSe1ipk7mVn9-Hmez_a_UTUbfxkkk0JmmijU2KCusd2ftqdpY7m05tESpI&usqp=CAU"
+        ],
+        "type": "necklaces",
+        "price": 29.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_details": "Celebrate your everlasting love with our Couples white Necklaces. This set includes two beautifully crafted necklaces, each featuring a unique pendant. The white-tone design adds a touch of elegance, making them perfect for both formal and casual occasions. Share a symbol of your connection with these exquisite and meaningful couples' necklaces.",
+        "features": [
+            "Set of two necklaces for couples",
+            "Unique pendant design",
+            "white-tone for elegance",
+            "Perfect for formal and casual wear",
+            "Ideal as a heartfelt gift"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://m.media-amazon.com/images/I/81-ZxG3LMyL._AC_UF350,350_QL80_.jpg",
+            "https://m.media-amazon.com/images/I/81Gr1djr2ML._AC_UF350,350_QL80_.jpg",
+            "https://m.media-amazon.com/images/I/81dgOjDYCFL._AC_UF350,350_QL80_.jpg"
+        ],
+        "type": "blanket",
+        "price": 69.99,
+        "rating": 5,
+        "product_color": "red",
+        "product_name": "Monsterzeug XXL Couple Blanket with Sleeves",
+        "product_details": "Snuggle up with our Couples red Blanket and create cozy memories together. Crafted from soft and luxurious fleece, this blanket is perfect for movie nights or lazy Sundays. The classic red pattern adds a timeless touch, making it a stylish addition to your home. Enjoy warmth and comfort with your loved one under this charming couples' blanket.",
+        "features": [
+            "Soft and luxurious fleece material",
+            "Classic red pattern",
+            "Generous size for two",
+            "Ideal for movie nights and lazy days",
+            "Perfect as a gift"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://datenightguide.com/wp-content/uploads/2017/03/couple-board-game-858.png",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0eplaWt7X1iHPGHenQPVRFeFmpu46jIO0cTcJxuHyM7-PajMH7EgcYnnt_QDPy-mkNl8&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrvFHHBTKYryKVdCOw_qCg4aMGR9Z0hGv-PEP0DJV1b_kciqxgt2opK0qNhu9EOpQiQcc&usqp=CAU"
+        ],
+        "type": "game",
+        "price": 34.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Board Games For Date Night You Will Love",
+        "product_details": "Elevate your game nights with our Couples white Board Game. Crafted with attention to detail, this board game is designed for two players. The white finish adds a touch of sophistication, making it a stylish addition to your entertainment collection. Enjoy quality time and friendly competition with your partner using this beautifully crafted couples' board game.",
+        "features": [
+            "white color finish",
+            "Designed for two players",
+            "Perfect for game nights",
+            "Stylish addition to your collection",
+            "Great for quality time"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "women",
+        "images": [
+            "https://media.e-valy.com/cms/products/images/a6e37071-8208-4c43-946d-7bf6d9648930?h=1000&w=1000",
+            "https://assets.ajio.com/medias/sys_master/root/20230906/EwFl/64f8b6a0afa4cf41f5c69ce0/-473Wx593H-461418786-black-MODEL.jpg",
+            "https://assets.ajio.com/medias/sys_master/root/20221126/59L1/6381fd3baeb269659cb8be54/-473Wx593H-464412235-black-MODEL.jpg"
+        ],
+        "type": "blouse",
+        "price": 29.99,
+        "rating": 4,
+        "product_color": "black",
+        "product_name": "Flower Hand Blouse For Women - Black - BH-01",
+        "product_details": "Enhance your wardrobe with our Women's Ivory Blouse. Made from lightweight and breathable fabric, this blouse is perfect for both casual and semi-formal occasions. The ivory color adds a touch of elegance, while the versatile design makes it easy to pair with skirts, pants, or jeans. The comfortable fit and stylish details make this blouse a must-have for any fashion-conscious woman.",
+        "features": [
+            "Lightweight and breathable fabric",
+            "Versatile for various occasions",
+            "Comfortable fit",
+            "Button-front closure",
+            "Elegant ivory color"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "couple",
+        "images": [
+            "https://images-cdn.ubuy.co.in/634e4879d30fb3063557f23f-couples-coffee-mugs-set-let-s-have.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEl2Lfadk483bGUitt-LIJ3OAGUWcmsGSLZnUNYyWDTEqMtHI56SLD-u77N0oD7aWT3ZA&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIdCWah8l-Qv80awHPFxkFH1FMNSjryl5DnHUZLGGyTupFAJfgpzT_S0aZysvlJIaEpg&usqp=CAU"
+        ],
+        "type": "coffee_mugs",
+        "price": 24.99,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "All You Need is Love And More Coffee Printed Mugs Coffee Tea",
+        "product_details": "Explore the world together with our Couples white Travel Mug Set. Crafted for on-the-go adventures, these travel mugs are durable and stylish. The white construction ensures beverage freshness, while the sleek design adds a modern touch. Share your favorite drinks on your travels with this practical and chic couples' travel mug set.",
+        "features": [
+            "white construction",
+            "Durable and stylish",
+            "Ideal for on-the-go adventures",
+            "Sleek design for a modern touch",
+            "Perfect for sharing drinks"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/5/w/g/m-plain-striped-pipeing-all-colors-casual-shirts-mentific-original-imagsyc74hk7chgz.jpeg?q=90",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DxXqJv8malIZXJimFk_70t4Ez04kqSQO8Wtj3QsEI5JuTyVrlkhS6J2tmHKiVsE37Fg&usqp=CAU",
+            "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/z/9/z/xl-new-chex-collar-shirt-jeny-fashion-original-imagnrfmmjxfsfhg.jpeg?q=90"
+        ],
+        "type": "shirt",
+        "price": 49.99,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "jeny fashion Men Solid Casual Light Blue Shirt ",
+        "product_details": "Elevate your casual style with our Men's blue Casual Shirt. Crafted from breathable cotton, this shirt combines comfort with a modern fit. The blue color adds versatility, making it suitable for various occasions. Whether you're heading to the office or a weekend outing, this casual shirt is a wardrobe essential for the modern man.",
+        "features": [
+            "Breathable cotton material",
+            "Modern fit for comfort",
+            "Versatile blue color",
+            "Perfect for office and casual wear",
+            "Available in multiple sizes"
+        ],
+        "fit": "Slim Fit"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://www.kablewala.com.bd/images/detailed/42/318.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyNbu4YR28VxoBZ3fUyd6uyJL-f6v__3Ee8_ohAvFGC1K1GS80x1l16gzHRcW8hTVevQ&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1Am4fVmqDTBW61cSgb-MMeZlyibIRUuNEucPD9LXbz_15FSqPYmkveAXTiR6wp-vVIs&usqp=CAU"
+        ],
+        "type": "watch",
+        "price": 79.99,
+        "rating": 4.2,
+        "product_color": "black",
+        "product_name": "Rhobos Special D-116 Plus Smart Watch Bracelets Fitness Tracker",
+        "product_details": "Stay active and stylish with our Men's bl black Sports Watch. Designed for performance, this watch features a durable black and red design. With water-resistant features and multiple functionalities, it's perfect for workouts or everyday use. Elevate your fitness routine and stay on time with this sleek and functional sports watch for men.",
+        "features": [
+            "Durable and sporty design",
+            "Water-resistant features",
+            "Multiple functionalities",
+            "Ideal for workouts and everyday use",
+            "Adjustable strap for a comfortable fit"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://image.made-in-china.com/2f0j00eonckKThSLqd/Modern-Classic-Leisure-Suit-Wedding-Suit-Jacket-Olive-Suit-Men-Suits.webp",
+            "https://i.etsystatic.com/26738587/r/il/5e1466/2849224742/il_570xN.2849224742_6ji6.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQLXn_T8V9lWp8IKQLnE98ThOdXyYuQNqJcsnJrIXsGCb5PtiwG7NEv_NDdGtXaoK1Q0&usqp=CAU"
+        ],
+        "type": "suit",
+        "price": 199.99,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "Swallow-Tailed Coat Classic Plain Men Wedding Suit Jacket",
+        "product_details": "Make a statement in our Men's blue Classic Suit. Tailored for a sophisticated look, this classic suit exudes timeless elegance. The blue color adds a touch of refinement, making it perfect for formal events or professional settings. Elevate your style with this impeccably crafted suit for the modern gentleman.",
+        "features": [
+            "Sophisticated and timeless design",
+            "Tailored for a refined look",
+            "blue color for versatility",
+            "Perfect for formal events and professional wear",
+            "Available in various sizes"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://static-01.daraz.com.bd/p/df0974e197f3c8fcf7e9dc1dfb61189c.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLURcDVJf3gBJwu4qaXZPJysxg7g-F8zhwkKa2KN7xKumJsfBGMhpM8qwnmWHGrrOKQ5c&usqp=CAU",
+            "https://m.media-amazon.com/images/I/51Q80Fj-XGL._AC_SY580_.jpg"
+        ],
+        "type": "wallet",
+        "price": 29.99,
+        "rating": 4,
+        "product_color": "brown",
+        "product_name": "Spiffy Faux Leather Wallet For Men Men's Wallet Men Wallet",
+        "product_details": "Organize your essentials with our Men's Brown Leather Wallet. Crafted from genuine leather, this wallet combines functionality with style. The rich brown color adds a classic touch, and the compact design fits comfortably in your pocket. Stay organized and make a statement with this essential accessory for the modern man.",
+        "features": [
+            "Genuine leather construction",
+            "Compact and functional design",
+            "Classic brown color",
+            "Ideal for organizing essentials",
+            "Stylish accessory for everyday use"
+        ],
+        "fit": "One Size"
+    },
+    {
+        "category_name": "men",
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2020/10/YO/FE/TX/36863503/nike-epic-react-gray-running-sdl955962151-1-790b5-500x500.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCFAyc-kDZzKqHFMU2oDaKp6rRX_De7GczknAjowOmL1klB-0fdJMAObvTfuhVoMM6l4&usqp=CAU",
+            "https://5.imimg.com/data5/TL/CW/GLADMIN-47396260/nike-epic-react-flyknit.png"
+        ],
+        "type": "shoes",
+        "price": 69.99,
+        "rating": 4.4,
+        "product_color": "gray",
+        "product_name": "Men Nike Epic React Grey Running Shoes",
+        "product_details": "Step into comfort and performance with our Men's gray Running Shoes. Designed for runners, these shoes feature a lightweight and breathable construction. The gray and blue color combination adds a modern flair, making them suitable for both workouts and casual wear. Experience the perfect blend of style and functionality with these versatile running shoes.",
+        "features": [
+            "Lightweight and breathable design",
+            "Ideal for running and workouts",
+            "Modern gray and blue color combination",
+            "Comfortable fit for active lifestyles",
+            "Available in various sizes"
+        ],
+        "fit": "Regular Fit"
+    }
+]

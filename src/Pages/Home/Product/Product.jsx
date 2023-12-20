@@ -1,16 +1,14 @@
 
 
 const Product = ({ product }) => {
-    const {price} = product;
+    const {category_name, images, type, price, rating, product_color, product_name,product_details, features, fit} = product;
     return (
         <div className="card bg-base-100 shadow-xl">
-            <figure><img src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" /></figure>
+            <figure><img className="w-full h-[250px] object-cover" src={images[0]} alt="Shoes" /></figure>
             <div className="card-body">
-                <h2 className="card-title">{price}</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
-                <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Buy Now</button>
-                </div>
+                <h2 className="card-title">{product_name}</h2>
+                <p>Price : ${price}</p>
+                <p>Rating : {rating}</p>
             </div>
         </div>
     );
