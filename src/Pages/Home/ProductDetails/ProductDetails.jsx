@@ -14,23 +14,23 @@ const ProductDetails = () => {
     const { category_name, images, type, price, rating, product_color, product_name, product_details = ' ', features, fit } = product;
     return (
         <div className="max-w-[1400px] mx-auto md:px-8 px-4 my-16">
-            <div className="flex justify-between gap-8">
+            <div className="md:flex justify-between gap-8">
                 <div className="flex-1">
                     {images && images.length > 0 ? (
                         <>
                            <a target="_blank" rel="noopener noreferrer" href={images[0]}>
-                                <img className="w-full h-[500px] object-cover rounded-2xl hover:border-blue-600 hover:border" src={images[0]} alt="" />
+                                <img className="w-full md:h-[500px] h-[350px] object-cover rounded-2xl hover:border-blue-600 hover:border" src={images[0]} alt="" />
                             </a>
                             {images.length > 1 && (
                                 <div className="flex justify-between gap-8 my-8">
                                     <div className="flex-1">
                                         <a target="_blank" rel="noopener noreferrer" href={images[1]}>
-                                            <img className="w-full h-[300px] object-cover rounded-xl hover:border-blue-600 hover:border" src={images[1]} alt="" />
+                                            <img className="w-full h-[200px] md:h-[300px] object-cover rounded-xl hover:border-blue-600 hover:border" src={images[1]} alt="" />
                                         </a>
                                     </div>
                                     <div className="flex-1">
                                         <a target="_blank" rel="noopener noreferrer" href={images[2]}>
-                                            {images.length > 2 && <img className="w-full h-[300px] rounded-xl object-cover hover:border-blue-600 hover:border" src={images[2]} alt="" />}
+                                            {images.length > 2 && <img className="w-full h-[200px] md:h-[300px] rounded-xl object-cover hover:border-blue-600 hover:border" src={images[2]} alt="" />}
                                         </a>
                                     </div>
                                 </div>
@@ -50,7 +50,7 @@ const ProductDetails = () => {
                         <p className="text-xl" >Color : <span className="font-bold capitalize">{product_color}</span></p>
                     </div>
 
-                    <span className="border-2 px-2 p-1 rounded-lg border-blue-600 text-blue-600 font-semibold">Price: {price}</span>
+                    <span className="border-2 px-2 p-1 rounded-lg border-blue-600 text-blue-600 font-semibold">Price: ${price}</span>
                     <div className="flex items-center gap-1 my-4">
                         <div className="rating">
                             <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
@@ -65,7 +65,7 @@ const ProductDetails = () => {
                             Description
                         </div>
                         <div className="collapse-content">
-                            <p>{product_details ? product_details.slice(0, 300) : ''}..</p>
+                            <p>{product_details ? product_details.slice(0, 200) : ''}..</p>
                         </div>
                     </div>
                     <div className="collapse collapse-plus bg-base-200 mt-4">
@@ -90,7 +90,7 @@ const ProductDetails = () => {
                             <p>{fit}</p>
                         </div>
                     </div>
-                    <div className="my-8 grid grid-cols-2 gap-5">
+                    <div className="my-8 grid lg:grid-cols-2 grid-cols-1 gap-5">
                         <div className="border p-4 rounded-lg">
                             <div className="flex items-center justify-center gap-5">
                                 <img className="w-[100px]" src="https://cdn-icons-png.flaticon.com/512/3375/3375305.png" alt="" />

@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
     return (
-        <div className="bg-gray-300">
+        <div className="bg-gray-300 sticky top-0 z-10">
             <div className="navbar max-w-[1400px] mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
