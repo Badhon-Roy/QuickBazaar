@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { NavLink, useNavigate } from "react-router-dom";
+import { Link, NavLink, useNavigate } from "react-router-dom";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import swal from "sweetalert";
 
@@ -134,10 +134,10 @@ const Navbar = () => {
                                     </div>
                                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                                         <li>
-                                            <a className="justify-between">
+                                            <Link to="/profile" className="justify-between">
                                                 Profile
                                                 <span className="badge">New</span>
-                                            </a>
+                                            </Link>
                                         </li>
                                         <li><button onClick={handleLogOut}>Logout</button></li>
                                     </ul>
