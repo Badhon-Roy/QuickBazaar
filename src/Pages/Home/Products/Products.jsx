@@ -70,7 +70,7 @@ const Products = () => {
             <p className="md:w-2/4">We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.</p>
             <div className="divider"></div>
             <div className="md:flex gap-8 my-16">
-                <div className="md:w-1/4 border-r-2">
+                <div className="md:w-1/4 border-r-2" >
 
                     <h2 className="text-2xl font-medium">Category</h2>
                     {Array.from(new Set(products.map((product) => product.type))).map((type) => (

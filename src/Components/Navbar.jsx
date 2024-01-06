@@ -1,10 +1,11 @@
 import { useContext } from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import swal from "sweetalert";
 
 const Navbar = () => {
     const { user,logOut } = useContext(AuthContext)
+    const navigate = useNavigate();
     const handleLogOut = () =>{
         swal({
             title: "Are you sure you want to log out?",
@@ -17,6 +18,7 @@ const Navbar = () => {
                     logOut()
                         .then(() => {
                             swal("Log Out", "successful", "success")
+                            navigate('/')
                         })
                         .catch(error => {
                             console.log(error);

@@ -1,24 +1,120 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { GoDotFill } from "react-icons/go";
+import { AuthContext } from "../../../AuthProvider/AuthProvider";
+import swal from "sweetalert";
+import { useQuery } from "@tanstack/react-query";
+import Review from "../Review/Review";
 
 const ProductDetails = () => {
     const { id } = useParams()
+    const { user } = useContext(AuthContext)
     const [product, setProduct] = useState({})
 
     useEffect(() => {
         axios.get(`http://localhost:5000/products/${id}`)
             .then(res => setProduct(res.data))
     }, [id])
+    const { data, refetch , isLoading } = useQuery({
+        queryKey: ['comment'],
+        queryFn: async () => {
+            const res = await axios.get(`http://localhost:5000/comment?product_id=${id}`)
+            return res.data
+        }
+    })
+    const [randomReviews, setRandomReviews] = useState([]);
+
+    useEffect(() => {
+        if (data && data.length > 0) {
+            const shuffledData = shuffle([...data]);
+            const selectedReviews = shuffledData.slice(0, 6);
+            setRandomReviews(selectedReviews);
+        }
+    }, [data]);
+
+    // Fisher-Yates shuffle algorithm
+    const shuffle = (array) => {
+        let currentIndex = array.length, randomIndex;
+
+        while (currentIndex !== 0) {
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex--;
+
+            [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+        }
+
+        return array;
+    };
+
+
+
+    const [currentDate, setCurrentDate] = useState('');
+    const [currentTime, setCurrentTime] = useState('');
+
+    useEffect(() => {
+        // Get current date and time
+        const currentDateObject = new Date();
+        const options = { month: 'long', day: 'numeric', year: 'numeric' };
+        const formattedDate = currentDateObject.toLocaleDateString('en-US', options);
+
+        setCurrentDate(formattedDate);
+        const formattedTime = currentDateObject.toLocaleTimeString();
+        setCurrentTime(`${formattedTime}`);
+    }, [currentDate]);
     const { category_name, images, type, price, rating, product_color, product_name, product_details = ' ', features, fit } = product;
+
+
+    const [comment, setComment] = useState('');
+
+    const handleComment = (event) => {
+        event.preventDefault();
+        const wordCount = comment.trim().split(/\s+/).length;
+        if (wordCount > 100) {
+            alert('Maximum 15 words allowed.');
+            return;
+        }
+        const commentData = {
+            comment,
+            product_id: id,
+            email: user?.email,
+            photo: user?.photoURL,
+            name: user?.displayName,
+            date: currentDate,
+            time: currentTime
+
+        }
+        axios.post('http://localhost:5000/comment', commentData)
+            .then(res => {
+                if (res.data.insertedId) {
+                    swal("Add Your Comment", "thank you 🤗", "success")
+                    refetch();
+                }
+            })
+        setComment('');
+    };
+
+    const handleChange = (e) => {
+        const currentWordCount = e.target.value.trim().split(/\s+/).length;
+        if (currentWordCount <= 100) {
+            setComment(e.target.value);
+        }
+    };
+
+    const wordCount = comment.trim().split(/\s+/).length;
+    if(isLoading){
+        <div className="flex justify-center items-center h-[50vh]">
+            <span className="loading loading-spinner loading-lg"></span>
+        </div>
+    }
+
     return (
         <div className="max-w-[1400px] mx-auto md:px-8 px-4 my-16">
             <div className="md:flex justify-between gap-8">
                 <div className="flex-1">
                     {images && images.length > 0 ? (
                         <>
-                           <a target="_blank" rel="noopener noreferrer" href={images[0]}>
+                            <a target="_blank" rel="noopener noreferrer" href={images[0]}>
                                 <img className="w-full md:h-[500px] h-[350px] object-cover rounded-2xl hover:border-blue-600 hover:border" src={images[0]} alt="" />
                             </a>
                             {images.length > 1 && (
@@ -128,8 +224,40 @@ const ProductDetails = () => {
                             </div>
                         </div>
                     </div>
+                    <div>
+                        <h2 className="text-3xl font-medium mb-4">Add Your Comment</h2>
+                        <form onSubmit={handleComment}>
+                            <textarea
+                                className="textarea textarea-accent w-full max-h-[150px] px-6 py-3"
+                                name="comment"
+                                placeholder={wordCount >= 100 ? 'Maximum 15 words reached' : 'Comment'}
+                                value={comment}
+                                onChange={handleChange}
+                            ></textarea>
+                            <div className="text-sm text-gray-500 mb-2">
+                                {`${wordCount} words / 100 words`}
+                            </div>
+                            <input
+                                type="submit"
+                                className="btn btn-block btn-success"
+                                value="Add"
+                                disabled={wordCount < 2}
+                            />
+                        </form>
+                    </div>
                 </div>
             </div>
+            <div className="divider mt-8 mb-16"></div>
+            {
+                data?.length > 0 && <div>
+                <h2 className="text-3xl font-medium">{data?.length} Product Review</h2>
+                <div className="grid lg:grid-cols-2 gap-8 my-10">
+                    {randomReviews?.map(review => (
+                        <Review key={review._id} review={review} />
+                    ))}
+                </div>
+            </div>
+            }
 
         </div>
     );
