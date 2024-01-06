@@ -1,6 +1,29 @@
+import { useContext } from "react";
 import { NavLink } from "react-router-dom";
+import { AuthContext } from "../AuthProvider/AuthProvider";
+import swal from "sweetalert";
 
 const Navbar = () => {
+    const { user,logOut } = useContext(AuthContext)
+    const handleLogOut = () =>{
+        swal({
+            title: "Are you sure you want to log out?",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true,
+        })
+            .then((willDelete) => {
+                if (willDelete) {
+                    logOut()
+                        .then(() => {
+                            swal("Log Out", "successful", "success")
+                        })
+                        .catch(error => {
+                            console.log(error);
+                        })
+                }
+            });
+    }
     return (
         <div className="bg-gray-300 sticky top-0 z-10">
             <div className="navbar max-w-[1400px] mx-auto">
@@ -99,23 +122,35 @@ const Navbar = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="dropdown dropdown-end">
-                            <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
-                                <div className="w-10 rounded-full">
-                                    <img alt="Tailwind CSS Navbar component" src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
-                                </div>
-                            </div>
-                            <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                                <li>
-                                    <a className="justify-between">
-                                        Profile
-                                        <span className="badge">New</span>
-                                    </a>
-                                </li>
-                                <li><a>Settings</a></li>
-                                <li><a>Logout</a></li>
-                            </ul>
+                        <div>
+                            {user && user?.email ?
+                                <div className="dropdown dropdown-end">
+                                    <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
+                                        <div className="w-10 rounded-full">
+                                            <img alt="Tailwind CSS Navbar component" src={user?.photoURL} />
+                                        </div>
+                                    </div>
+                                    <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                                        <li>
+                                            <a className="justify-between">
+                                                Profile
+                                                <span className="badge">New</span>
+                                            </a>
+                                        </li>
+                                        <li><button onClick={handleLogOut}>Logout</button></li>
+                                    </ul>
+                                </div> :
+                                <NavLink
+                                    to="/login"
+                                    className={({ isActive, isPending }) =>
+                                        isPending ? "pending" : isActive ? "active" : ""
+                                    }
+                                >
+                                    Login
+                                </NavLink>
+                            }
                         </div>
+
                     </div>
                 </div>
             </div>
