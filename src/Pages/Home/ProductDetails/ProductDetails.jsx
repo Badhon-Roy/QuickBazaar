@@ -6,17 +6,19 @@ import { AuthContext } from "../../../AuthProvider/AuthProvider";
 import swal from "sweetalert";
 import { useQuery } from "@tanstack/react-query";
 import Review from "../Review/Review";
+import useAddCartProducts from "../../../Components/useAddCartProducts";
 
 const ProductDetails = () => {
     const { id } = useParams()
     const { user } = useContext(AuthContext)
     const [product, setProduct] = useState({})
+    const [,cartRefetch] = useAddCartProducts()
 
     useEffect(() => {
         axios.get(`http://localhost:5000/products/${id}`)
             .then(res => setProduct(res.data))
     }, [id])
-    const { data, refetch , isLoading } = useQuery({
+    const { data, refetch, isLoading } = useQuery({
         queryKey: ['comment'],
         queryFn: async () => {
             const res = await axios.get(`http://localhost:5000/comment?product_id=${id}`)
@@ -33,7 +35,6 @@ const ProductDetails = () => {
         }
     }, [data]);
 
-    // Fisher-Yates shuffle algorithm
     const shuffle = (array) => {
         let currentIndex = array.length, randomIndex;
 
@@ -53,7 +54,6 @@ const ProductDetails = () => {
     const [currentTime, setCurrentTime] = useState('');
 
     useEffect(() => {
-        // Get current date and time
         const currentDateObject = new Date();
         const options = { month: 'long', day: 'numeric', year: 'numeric' };
         const formattedDate = currentDateObject.toLocaleDateString('en-US', options);
@@ -102,11 +102,46 @@ const ProductDetails = () => {
     };
 
     const wordCount = comment.trim().split(/\s+/).length;
-    if(isLoading){
+
+
+    // product add to cart
+    const handleAddCart = () => {
+        const productData = {
+            category_name : product?.category_name,
+            images : product?.images,
+            type : product?.type ,
+            price : product?.price,
+            rating : product?.rating,
+            product_color : product?.product_color,
+            product_name : product?.product_name,
+            product_details : product?.product_details,
+            features : product?.features,
+            fit : product?.fit,
+            email: user?.email,
+        };
+
+        axios.post('http://localhost:5000/addProducts', productData)
+            .then(res => {
+                if (res.data.insertedId) {
+                    swal("Product Added", "successful 👏", "success");
+                    cartRefetch();
+                } else {
+                    swal("Product Not Added", "an error occurred", "error");
+                }
+            })
+            .catch(error => {
+                console.error("Error while sending the request:", error);
+                swal("Error", "Failed to add product. Please try again later.", "error");
+            });
+    };
+
+
+    if (isLoading) {
         <div className="flex justify-center items-center h-[50vh]">
             <span className="loading loading-spinner loading-lg"></span>
         </div>
     }
+
 
     return (
         <div className="max-w-[1400px] mx-auto md:px-8 px-4 my-16">
@@ -153,7 +188,7 @@ const ProductDetails = () => {
                         </div>
                         <p className="mt-1 text-xl">{rating}</p>
                     </div>
-                    <button className="btn btn-block btn-primary my-4">Add to cart</button>
+                    <button onClick={handleAddCart} className="btn btn-block btn-primary my-4">Add to cart</button>
 
                     <div className="collapse collapse-plus bg-base-200 cursor-pointer">
                         <input type="radio" name="my-accordion-3" />
@@ -250,13 +285,13 @@ const ProductDetails = () => {
             <div className="divider mt-8 mb-16"></div>
             {
                 data?.length > 0 && <div>
-                <h2 className="text-3xl font-medium">{data?.length} Product Review</h2>
-                <div className="grid lg:grid-cols-2 gap-8 my-10">
-                    {randomReviews?.map(review => (
-                        <Review key={review._id} review={review} />
-                    ))}
+                    <h2 className="text-3xl font-medium">{data?.length} Product Review</h2>
+                    <div className="grid lg:grid-cols-2 gap-8 my-10">
+                        {randomReviews?.map(review => (
+                            <Review key={review._id} review={review} />
+                        ))}
+                    </div>
                 </div>
-            </div>
             }
 
         </div>
