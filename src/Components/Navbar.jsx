@@ -6,7 +6,7 @@ import useAddCartProducts from "./useAddCartProducts";
 
 const Navbar = () => {
     const { user, logOut } = useContext(AuthContext)
-    const [data] = useAddCartProducts();
+    const [data ,cartRefetch] = useAddCartProducts();
     const navigate = useNavigate();
     const handleLogOut = () => {
         swal({
@@ -20,6 +20,7 @@ const Navbar = () => {
                     logOut()
                         .then(() => {
                             swal("Log Out", "successful", "success")
+                            cartRefetch();
                             navigate('/')
                         })
                         .catch(error => {
@@ -124,7 +125,7 @@ const Navbar = () => {
                                     <span className="font-bold text-lg">{data?.length} Items</span>
                                     <span className="text-info">Subtotal: ${subTotalPrice}</span>
                                     <div className="card-actions">
-                                        <button className="btn btn-primary btn-block">View cart</button>
+                                        <Link to='/showAddCarts' className="btn btn-primary btn-block">View cart</Link>
                                     </div>
                                 </div>
                             </div>
