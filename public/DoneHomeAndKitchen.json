@@ -1,0 +1,50 @@
+[
+    {
+      "category_name": "Home and Kitchen",
+      "images": [
+        "https://thegermanoutlet.com/cdn/shop/products/RUBYREDBlender1_1024x.png?v=1651442054",
+        "https://ufesa-eshop.es/1003-home_default/jar-blender-bs4717-ruby-red.jpg",
+        "https://electrobousfiha.com/15542-home_default/blender-15l-500w-plastique-ufesa.jpg"
+      ],
+      "type": "Blender",
+      "price": 79.99,
+      "discount": 12,
+      "quantity": 100,
+      "rating": 4.5,
+      "product_color": "Ruby Red",
+      "product_name": "BlendMaster Ultra",
+      "product_details": "Create delicious and nutritious smoothies with the BlendMaster Ultra Blender. Equipped with a powerful motor and stainless steel blades, this blender effortlessly blends fruits, vegetables, and ice. The sleek Ruby Red design adds a pop of color to your kitchen, making it both functional and stylish.",
+      "features": [
+        "Powerful motor",
+        "Stainless steel blades",
+        "Ruby Red design",
+        "Multiple speed settings",
+        "Easy to clean"
+      ],
+      "fit": "Versatile and efficient"
+    },
+    {
+      "category_name": "Home and Kitchen",
+      "images": [
+        "https://www.grindmaster.com/wp-content/uploads/2020/02/coffee-grinders-300x300.jpg",
+        "https://www.plantbasedpros.com/wp-content/uploads/2021/11/131-890bsblack.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7BAtMQGhuON58pIlN9f7kfd0gLJHng7QCOBEeOQxCmri00IgbIPsJo-vdLGHNuByPSM&usqp=CAU"
+      ],
+      "type": "Coffee Grinder",
+      "price": 49.99,
+      "discount": 8,
+      "quantity": 100,
+      "rating": 4.7,
+      "product_color": "Brushed Stainless Steel",
+      "product_name": "GrindMaster Pro",
+      "product_details": "Enhance your coffee experience with the GrindMaster Pro Coffee Grinder. Featuring adjustable grind settings and durable stainless steel blades, this grinder ensures a consistent and precise grind for your favorite coffee beans. The sleek brushed stainless steel design adds a touch of elegance to your kitchen.",
+      "features": [
+        "Adjustable grind settings",
+        "Stainless steel blades",
+        "Brushed stainless steel design",
+        "Compact and efficient",
+        "Easy to clean"
+      ],
+      "fit": "Modern and versatile"
+    }
+]

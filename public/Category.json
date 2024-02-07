@@ -1,19 +1,64 @@
 [
     {
-      "image": "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
-      "category": "man"
+      "image": "https://media.istockphoto.com/id/182012526/photo/groom-with-best-man-and-groomsmen-at-wedding.jpg?s=612x612&w=0&k=20&c=U7pdXh7BLq89ILx6hAHSjrkYeobg4przBMH89cGEgwQ=",
+      "category": "men"
     },
     {
-      "image": "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+      "image": "https://images.herzindagi.info/image/2019/Mar/womens-day-special-other-woman.jpg",
       "category": "women"
     },
     {
-      "image": "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
-      "category": "Couple"
+      "image": "https://media.istockphoto.com/id/1464025799/photo/happy-young-man-proposing-to-girlfriend-offering-gold-ring-during-anniversary-celebration-at.jpg?s=612x612&w=0&k=20&c=SyPqrHV7_VydWWa-4_pdUzYYPc82bSmnF74fumptJNE=",
+      "category": "couple"
     },
     {
-      "image": "https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+      "image": "https://media.istockphoto.com/id/484053608/photo/kids-having-fun.jpg?s=612x612&w=0&k=20&c=WZbJwPcHSfP-clsJab13ZPh3ss_559FKSIh_sre_2jI=",
       "category": "children"
+    },
+    {
+      "image": "https://img.freepik.com/premium-vector/social-media-post-template-food-grocery-shop-advertising_155157-148.jpg",
+      "category": "Food and Groceries"
+    },
+    {
+      "image": "https://dynamic.brandcrowd.com/template/preview/design/67908134-bb56-42a6-90a5-6d39bdc76bbb?v=4&designTemplateVersion=2&size=design-preview-tall-1x",
+      "category": "Gadgets"
+    },
+    {
+      "image": "https://img.freepik.com/free-vector/kids-zone-cartoon-banner-design_1017-33744.jpg",
+      "category": "Kids Zone"
+    },
+    {
+      "image": "https://img.pikbest.com/origin/09/11/19/82zpIkbEsTi7h.jpg!w700wp",
+      "category": "Wireless Earbuds"
+    },
+    {
+      "image": "https://i.ibb.co/Yp08yQN/New-Arrival-Fashion-Sale-Banner-for-Instagram-Post-Design.jpg",
+      "category": "Fashion"
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1188462138/photo/variety-of-sport-accessories-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=y2l7DYNkxbVteZy-Kx_adCzm-soTRbiEypje4j8ENe0=",
+      "category": "Sports and Outdoors"
+    },
+    {
+      "image": "https://st2.depositphotos.com/4431055/11856/i/950/depositphotos_118565876-stock-photo-beautiful-woman-cooking.jpg",
+      "category": "Home and Kitchen"
+    },
+    {
+      "image": "https://e0.pxfuel.com/wallpapers/204/284/desktop-wallpaper-electronics-shopping-store-buy-home-kitchen-appliances-online-james-co.jpg",
+      "category": "Electronics"
     }
   ]
+
+  [ 
+    {
+    "category": "Food and Groceries",
+    "category": "Gadgets",
+    "category": "Kids Zone",
+    "category": "Wireless Earbuds",
+    "category": "Fashion",
+    "category": "Sports and Outdoors",
+    "category": "Electronics",
+    "category": "Home and Kitchen",
+  }
+]
   

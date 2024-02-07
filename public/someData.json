@@ -1,0 +1,122 @@
+[
+    {
+        "category_name": "Electronics",
+        "images": [
+            "https://example.com/product_image1.jpg",
+            "https://example.com/product_image2.jpg",
+            "https://example.com/product_image3.jpg"
+        ],
+        "type": "Smartphone",
+        "price": 599.99,
+        "discount": 15,
+        "quantity": 50,
+        "rating": 4.5,
+        "product_color": "Midnight Black",
+        "product_name": "TechMaster X1 - Premium Smartphone",
+        "product_details": "Introducing the TechMaster X1, a cutting-edge smartphone that redefines the standards of performance and style. Packed with advanced features and a sleek design, this device is perfect for tech enthusiasts who demand more from their mobile experience. The TechMaster X1 boasts a stunning 6.5-inch AMOLED display that delivers vibrant colors and sharp contrast. With a powerful octa-core processor and 8GB of RAM, multitasking is a breeze, ensuring smooth performance for even the most demanding applications. Capture every moment in incredible detail with the 48MP triple-camera system, and take stunning selfies with the 20MP front-facing camera. The device runs on the latest Android OS, providing a seamless and intuitive user experience. The TechMaster X1 is equipped with a long-lasting 4000mAh battery, keeping you connected throughout the day. Unlock your device effortlessly with the in-display fingerprint sensor for added security. Stay ahead in the tech game with the TechMaster X1 - where innovation meets elegance.",
+        "features": [
+            "6.5-inch AMOLED display",
+            "Octa-core processor",
+            "48MP triple-camera system",
+            "20MP front-facing camera",
+            "In-display fingerprint sensor"
+        ],
+        "fit": "Slim and ergonomic design"
+    },
+    {
+        "category_name": "Apparel",
+        "images": [
+            "https://example.com/product_image1.jpg",
+            "https://example.com/product_image2.jpg",
+            "https://example.com/product_image3.jpg"
+        ],
+        "type": "Men's Hoodie",
+        "price": 54.99,
+        "discount": 10,
+        "quantity": 100,
+        "rating": 4.8,
+        "product_color": "Charcoal Gray",
+        "product_name": "UrbanStyle Hoodie - Limited Edition",
+        "product_details": "Elevate your streetwear game with the UrbanStyle Hoodie - a limited edition masterpiece crafted for those who appreciate both comfort and style. This premium men's hoodie is made from a blend of high-quality cotton and polyester, ensuring a soft touch against the skin and long-lasting durability. The charcoal gray color adds a touch of sophistication, making it versatile for various occasions. The hoodie features a modern fit with ribbed cuffs and hem, providing a snug and comfortable feel. The intricate UrbanStyle logo is subtly embroidered on the chest, showcasing attention to detail. With a kangaroo pocket on the front, you can keep your hands warm or store small essentials. The hood is adjustable, allowing you to customize your look. Perfect for casual outings or cozy nights in, the UrbanStyle Hoodie is a must-have for any fashion-forward individual.",
+        "features": [
+            "Premium cotton-polyester blend",
+            "Modern fit with ribbed cuffs and hem",
+            "Embroidered UrbanStyle logo",
+            "Adjustable hood",
+            "Kangaroo pocket"
+        ],
+        "fit": "Modern and comfortable fit"
+    },
+    {
+        "category_name": "Electronics",
+        "images": [
+            "https://example.com/product1_image1.jpg",
+            "https://example.com/product1_image2.jpg",
+            "https://example.com/product1_image3.jpg"
+        ],
+        "type": "Smartphone",
+        "price": 799.99,
+        "discount": 10,
+        "quantity": 200,
+        "rating": 4.7,
+        "product_color": "Mystic Black",
+        "product_name": "TechElite X3",
+        "product_details": "Experience the future with TechElite X3 - a flagship smartphone that combines cutting-edge technology with stunning design. Featuring a 6.7-inch AMOLED display, triple-camera system, and a powerful Snapdragon processor, the TechElite X3 redefines what a smartphone can be. With 5G connectivity, facial recognition, and a sleek glass back, this device is as secure as it is stylish. The 4500mAh battery ensures all-day usage, and the included fast charger tops up your device in no time. Elevate your mobile experience with TechElite X3 - where innovation meets elegance.",
+        "features": [
+            "6.7-inch AMOLED display",
+            "Triple-camera system",
+            "Snapdragon processor",
+            "5G connectivity",
+            "Facial recognition"
+        ],
+        "fit": "Sleek and ergonomic design"
+    },
+    {
+        "category_name": "Fashion",
+        "images": [
+            "https://example.com/product2_image1.jpg",
+            "https://example.com/product2_image2.jpg",
+            "https://example.com/product2_image3.jpg"
+        ],
+        "type": "Women's Handbag",
+        "price": 129.99,
+        "discount": 15,
+        "quantity": 150,
+        "rating": 4.9,
+        "product_color": "Champagne Gold",
+        "product_name": "ChicGlam Tote",
+        "product_details": "Make a statement with the ChicGlam Tote - a luxurious handbag that effortlessly combines style and functionality. Crafted from high-quality faux leather, the tote features a spacious interior with multiple compartments, making it perfect for daily use or special occasions. The elegant champagne gold color adds a touch of sophistication, and the detachable shoulder strap provides versatility. Elevate your fashion ensemble with the timeless ChicGlam Tote - where glamour meets practicality.",
+        "features": [
+            "High-quality faux leather",
+            "Spacious interior",
+            "Multiple compartments",
+            "Detachable shoulder strap",
+            "Champagne gold color"
+        ],
+        "fit": "Versatile and stylish"
+    },
+    {
+        "category_name": "Home & Kitchen",
+        "images": [
+            "https://example.com/product3_image1.jpg",
+            "https://example.com/product3_image2.jpg",
+            "https://example.com/product3_image3.jpg"
+        ],
+        "type": "Robot Vacuum",
+        "price": 349.99,
+        "discount": 20,
+        "quantity": 100,
+        "rating": 4.5,
+        "product_color": "Silver",
+        "product_name": "SmartClean Pro",
+        "product_details": "Experience hassle-free cleaning with the SmartClean Pro Robot Vacuum. Equipped with advanced sensors and intelligent mapping technology, this robot vacuum efficiently navigates your home, tackling dust, dirt, and pet hair. The slim design allows it to reach tight spaces, and the HEPA filter ensures a thorough clean. Schedule cleaning sessions via the mobile app or control it with voice commands. Enjoy a cleaner home with the SmartClean Pro - where innovation meets convenience.",
+        "features": [
+            "Advanced sensors",
+            "Intelligent mapping",
+            "Slim design",
+            "HEPA filter",
+            "Mobile app control"
+        ],
+        "fit": "Efficient and convenient"
+    }
+]

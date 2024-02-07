@@ -1,0 +1,1274 @@
+[
+    {
+        "category_name": "Wireless Earbuds",
+        "images": [
+            "earbuds1.jpg",
+            "earbuds1.jpg",
+            "earbuds1.jpg"
+        ],
+        "type": "In-Ear",
+        "price": 79.99,
+        "discount": 10,
+        "quantity": 150,
+        "rating": 4.6,
+        "product_color": "Carbon Black",
+        "product_name": "SoundSync Elite",
+        "product_details": "Immerse yourself in a world of sound with SoundSync Elite wireless earbuds. These in-ear wonders deliver premium audio quality with deep bass and crisp highs. With Bluetooth 5.1 connectivity, touch controls, and a sleek Carbon Black design, the SoundSync Elite is your go-to choice for music on the move.",
+        "features": [
+            "Noise Isolation",
+            "Bluetooth 5.1",
+            "Water-resistant",
+            "All-day Battery Life",
+            "Touch Controls"
+        ],
+        "fit": "In-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": [
+            "earbuds2.jpg",
+            "earbuds2.jpg",
+            "earbuds2.jpg"
+        ],
+        "type": "In-Ear",
+        "price": 129.99,
+        "discount": 15,
+        "quantity": 100,
+        "rating": 4.8,
+        "product_color": "Pristine White",
+        "product_name": "PureTunes Air",
+        "product_details": "Elevate your audio experience with PureTunes Air. These stylish in-ear wireless earbuds deliver a pure and clear sound profile. Featuring an elegant Pristine White color, Bluetooth 5.2, and a comfortable fit, PureTunes Air is designed for those who demand excellence in their music companions.",
+        "features": [
+            "Active Noise Cancellation",
+            "Bluetooth 5.2",
+            "Sweat-resistant",
+            "Extended Battery Life",
+            "Intuitive Touch Controls"
+        ],
+        "fit": "In-Ear"
+    },
+    {
+        "category_name": "Over-Ear Headphones",
+        "images": [
+            "headphones1.jpg",
+            "headphones1.jpg",
+            "headphones1.jpg"
+        ],
+        "type": "Over-Ear",
+        "price": 199.99,
+        "discount": 25,
+        "quantity": 75,
+        "rating": 4.9,
+        "product_color": "Royal Blue",
+        "product_name": "SonicWave Pro",
+        "product_details": "Immerse yourself in pure sonic bliss with SonicWave Pro over-ear headphones. These premium headphones boast studio-quality sound, active noise cancellation, and a luxurious Royal Blue finish. With Bluetooth 5.2 connectivity and touch-sensitive controls, SonicWave Pro is the epitome of high-end audio.",
+        "features": [
+            "Studio-quality Sound",
+            "Active Noise Cancellation",
+            "Bluetooth 5.2",
+            "Foldable Design",
+            "Extended Battery Life"
+        ],
+        "fit": "Over-Ear"
+    },
+    {
+        "category_name": "Over-Ear Headphones",
+        "images": [
+            "headphones2.jpg",
+            "headphones2.jpg",
+            "headphones2.jpg"
+        ],
+        "type": "Over-Ear",
+        "price": 149.99,
+        "discount": 20,
+        "quantity": 120,
+        "rating": 4.7,
+        "product_color": "Graphite Gray",
+        "product_name": "Graphite Harmony HD",
+        "product_details": "Experience the harmony of superior audio with Graphite Harmony HD over-ear headphones. These headphones deliver rich bass, crisp highs, and immersive sound. The stylish Graphite Gray color, coupled with Bluetooth 5.1 connectivity and foldable design, makes Harmony HD your perfect audio companion.",
+        "features": [
+            "Rich Bass",
+            "Bluetooth 5.1",
+            "Foldable Design",
+            "Comfortable Ear Cups",
+            "Enhanced Durability"
+        ],
+        "fit": "Over-Ear"
+    },
+    {
+        "category_name": "Smartwatches",
+        "images": [
+            "smartwatch1.jpg",
+            "smartwatch1.jpg",
+            "smartwatch1.jpg"
+        ],
+        "type": "Fitness Tracker",
+        "price": 149.99,
+        "discount": 15,
+        "quantity": 80,
+        "rating": 4.6,
+        "product_color": "Slate Gray",
+        "product_name": "FitPulse Pro",
+        "product_details": "Achieve your fitness goals with FitPulse Pro, the ultimate fitness tracker smartwatch. This sleek Slate Gray smartwatch monitors your heart rate, tracks your workouts, and provides real-time fitness insights. With a high-resolution touch display, water-resistant design, and a variety of fitness modes, FitPulse Pro is your perfect workout companion.",
+        "features": [
+            "Heart Rate Monitoring",
+            "Fitness Tracking",
+            "Water-resistant",
+            "Smart Notifications",
+            "Multiple Workout Modes"
+        ],
+        "fit": "Wrist"
+    },
+    {
+        "category_name": "Smartwatches",
+        "images": [
+            "smartwatch2.jpg",
+            "smartwatch2.jpg",
+            "smartwatch2.jpg"
+        ],
+        "type": "Smartwatch",
+        "price": 229.99,
+        "discount": 20,
+        "quantity": 60,
+        "rating": 4.9,
+        "product_color": "Rose Gold",
+        "product_name": "TimeElegance Luxe",
+        "product_details": "Experience elegance and technology combined in TimeElegance Luxe smartwatch. The luxurious Rose Gold design complements your style, while the smart features keep you connected. With a high-definition AMOLED display, long battery life, and comprehensive health tracking, TimeElegance Luxe is the epitome of sophisticated functionality.",
+        "features": [
+            "AMOLED Display",
+            "Smart Notifications",
+            "Health Tracking",
+            "Long Battery Life",
+            "Premium Design"
+        ],
+        "fit": "Wrist"
+    },
+    {
+        "category_name": "Wireless Speakers",
+        "images": [
+            "speaker1.jpg",
+            "speaker1.jpg",
+            "speaker1.jpg"
+        ],
+        "type": "Portable Speaker",
+        "price": 79.99,
+        "discount": 10,
+        "quantity": 90,
+        "rating": 4.5,
+        "product_color": "Forest Green",
+        "product_name": "EchoSound Wanderer",
+        "product_details": "Take your music on the go with EchoSound Wanderer, the ultimate portable speaker. The Forest Green color adds a touch of nature to your adventures. With Bluetooth 5.0, water-resistant design, and a compact size, the Wanderer is perfect for outdoor escapades. Enjoy powerful and clear sound wherever your journey takes you.",
+        "features": [
+            "Bluetooth 5.0",
+            "Water-resistant",
+            "Compact Size",
+            "Rich Sound",
+            "Long Battery Life"
+        ],
+        "fit": "Portable"
+    },
+    {
+        "category_name": "Wireless Speakers",
+        "images": [
+            "speaker2.jpg",
+            "speaker2.jpg",
+            "speaker2.jpg"
+        ],
+        "type": "Home Speaker",
+        "price": 149.99,
+        "discount": 15,
+        "quantity": 70,
+        "rating": 4.8,
+        "product_color": "Copper Brown",
+        "product_name": "HarmonyWave Home",
+        "product_details": "Transform your home into a concert hall with HarmonyWave Home, the premium home speaker. The rich Copper Brown color and wooden finish blend seamlessly with your home decor. With Bluetooth connectivity, impressive bass, and easy controls, HarmonyWave Home delivers a superior audio experience for your living space.",
+        "features": [
+            "Bluetooth Connectivity",
+            "Impressive Bass",
+            "Wooden Finish",
+            "Easy Controls",
+            "Premium Design"
+        ],
+        "fit": "Home"
+    },
+    {
+        "category_name": "Fitness Trackers",
+        "images": [
+            "fitness_tracker1.jpg",
+            "fitness_tracker1.jpg",
+            "fitness_tracker1.jpg"
+        ],
+        "type": "Wristband",
+        "price": 49.99,
+        "discount": 10,
+        "quantity": 120,
+        "rating": 4.4,
+        "product_color": "Sky Blue",
+        "product_name": "VivoFit Flex",
+        "product_details": "Stay on top of your fitness goals with VivoFit Flex wristband. The vibrant Sky Blue color adds a pop of energy to your workouts. With 24/7 heart rate monitoring, sleep tracking, and a lightweight design, VivoFit Flex is the ideal fitness companion for your active lifestyle.",
+        "features": [
+            "24/7 Heart Rate Monitoring",
+            "Sleep Tracking",
+            "Water-resistant",
+            "Lightweight Design",
+            "Smart Notifications"
+        ],
+        "fit": "Wrist"
+    },
+    {
+        "category_name": "Fitness Trackers",
+        "images": [
+            "fitness_tracker2.jpg",
+            "fitness_tracker2.jpg",
+            "fitness_tracker2.jpg"
+        ],
+        "type": "Clip-on",
+        "price": 39.99,
+        "discount": 8,
+        "quantity": 100,
+        "rating": 4.5,
+        "product_color": "Onyx Black",
+        "product_name": "StealthFit Clip",
+        "product_details": "Achieve stealthy fitness tracking with StealthFit Clip, the discreet clip-on fitness tracker. The Onyx Black color seamlessly blends with your attire. Track your steps, calories burned, and more without sacrificing style. With a long-lasting battery and easy clip-on design, StealthFit Clip is your invisible fitness companion.",
+        "features": [
+            "Step Tracking",
+            "Calorie Burn Tracking",
+            "Sleep Analysis",
+            "Discreet Design",
+            "Long Battery Life"
+        ],
+        "fit": "Clip-on"
+    },
+    {
+        "category_name": "Smartphones",
+        "images": [
+            "smartphone1.jpg",
+            "smartphone1.jpg",
+            "smartphone1.jpg"
+        ],
+        "type": "Android",
+        "price": 699.99,
+        "discount": 15,
+        "quantity": 50,
+        "rating": 4.9,
+        "product_color": "Mystic Bronze",
+        "product_name": "Galaxy Prism X",
+        "product_details": "Unleash the power of innovation with the Galaxy Prism X Android smartphone. Featuring a stunning Mystic Bronze color, a large AMOLED display, and a powerful camera system, the Galaxy Prism X takes your mobile experience to new heights. With 5G connectivity, an all-day battery, and a sleek design, stay ahead in style and functionality.",
+        "features": [
+            "5G Connectivity",
+            "AMOLED Display",
+            "Triple Camera System",
+            "All-day Battery",
+            "Sleek Design"
+        ],
+        "fit": "Handheld"
+    },
+    {
+        "category_name": "Laptops",
+        "images": [
+            "laptop1.jpg",
+            "laptop1.jpg",
+            "laptop1.jpg"
+        ],
+        "type": "Ultrabook",
+        "price": 1299.99,
+        "discount": 10,
+        "quantity": 30,
+        "rating": 4.8,
+        "product_color": "Space Gray",
+        "product_name": "ZenBook Infinity 14",
+        "product_details": "Experience limitless possibilities with the ZenBook Infinity 14 Ultrabook. Encased in a sleek Space Gray aluminum body, this ultrabook combines power and portability. The Infinity 14 boasts a high-resolution display, a fast processor, and a durable build, making it the perfect companion for both work and entertainment.",
+        "features": [
+            "14-inch High-resolution Display",
+            "Powerful Processor",
+            "Aluminum Body",
+            "Lightweight Design",
+            "Long Battery Life"
+        ],
+        "fit": "Laptop Bag"
+    },
+    {
+        "category_name": "Digital Cameras",
+        "images": [
+            "camera1.jpg",
+            "camera1.jpg",
+            "camera1.jpg"
+        ],
+        "type": "Mirrorless",
+        "price": 899.99,
+        "discount": 12,
+        "quantity": 20,
+        "rating": 4.7,
+        "product_color": "Graphite Silver",
+        "product_name": "PixelCapture X5",
+        "product_details": "Capture every moment in stunning detail with the PixelCapture X5 Mirrorless Camera. The Graphite Silver finish adds a touch of sophistication to this powerful camera. Equipped with advanced imaging technology, a tilting touchscreen, and 4K video capabilities, the PixelCapture X5 is a versatile tool for both amateur and professional photographers.",
+        "features": [
+            "24MP Sensor",
+            "4K Video",
+            "Tilting Touchscreen",
+            "Wi-Fi Connectivity",
+            "Graphite Silver Finish"
+        ],
+        "fit": "Camera Bag"
+    },
+    {
+        "category_name": "Gaming Consoles",
+        "images": [
+            "console1.jpg",
+            "console1.jpg",
+            "console1.jpg"
+        ],
+        "type": "Next-Gen",
+        "price": 499.99,
+        "discount": 8,
+        "quantity": 40,
+        "rating": 4.9,
+        "product_color": "Abyss Blue",
+        "product_name": "UltimaSphere X",
+        "product_details": "Immerse yourself in the world of gaming with UltimaSphere X, the next-gen gaming console. The Abyss Blue color and futuristic design make a statement in your gaming setup. With high-performance graphics, ultra-fast loading times, and a vast library of games, UltimaSphere X delivers an unparalleled gaming experience.",
+        "features": [
+            "4K Graphics",
+            "Ultra-fast Loading",
+            "Large Game Library",
+            "Abyss Blue Design",
+            "Immersive Gaming"
+        ],
+        "fit": "Entertainment Center"
+    },
+    {
+        "category_name": "Smart Home Devices",
+        "images": [
+            "smart_home1.jpg",
+            "smart_home1.jpg",
+            "smart_home1.jpg"
+        ],
+        "type": "Smart Thermostat",
+        "price": 149.99,
+        "discount": 10,
+        "quantity": 60,
+        "rating": 4.5,
+        "product_color": "Champagne Gold",
+        "product_name": "EcoComfort Plus",
+        "product_details": "Optimize your home's comfort with the EcoComfort Plus Smart Thermostat. The sleek Champagne Gold finish adds a touch of elegance to your home. With intelligent temperature control, energy-saving features, and compatibility with smart home systems, EcoComfort Plus brings efficiency and style to your living space.",
+        "features": [
+            "Intelligent Temperature Control",
+            "Energy-saving Features",
+            "Smart Home Compatibility",
+            "Champagne Gold Finish",
+            "User-friendly Interface"
+        ],
+        "fit": "Wall-mounted"
+    },
+    {
+        "category_name": "Robot Vacuums",
+        "images": [
+            "robot_vacuum1.jpg",
+            "robot_vacuum1.jpg",
+            "robot_vacuum1.jpg"
+        ],
+        "type": "Smart Vacuum",
+        "price": 349.99,
+        "discount": 15,
+        "quantity": 35,
+        "rating": 4.6,
+        "product_color": "Ruby Red",
+        "product_name": "SmartSweep Pro",
+        "product_details": "Keep your home clean effortlessly with the SmartSweep Pro Robot Vacuum. The Ruby Red color adds a pop of vibrancy to your cleaning routine. Equipped with intelligent navigation, multiple cleaning modes, and app control, the SmartSweep Pro ensures a thorough and convenient cleaning experience.",
+        "features": [
+            "Intelligent Navigation",
+            "Multiple Cleaning Modes",
+            "App Control",
+            "Ruby Red Design",
+            "Long Battery Life"
+        ],
+        "fit": "Floor"
+    },
+    {
+        "category_name": "Coffee Machines",
+        "images": [
+            "coffee_machine1.jpg",
+            "coffee_machine1.jpg",
+            "coffee_machine1.jpg"
+        ],
+        "type": "Espresso Maker",
+        "price": 249.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.8,
+        "product_color": "Matte Black",
+        "product_name": "EspressoCraft Pro",
+        "product_details": "Indulge in the perfect cup of espresso with the EspressoCraft Pro Espresso Maker. The Matte Black finish adds a touch of sophistication to your kitchen. With a powerful brewing system, adjustable settings, and a compact design, EspressoCraft Pro brings the cafe experience to the comfort of your home.",
+        "features": [
+            "Powerful Brewing System",
+            "Adjustable Settings",
+            "Compact Design",
+            "Matte Black Finish",
+            "Easy-to-use"
+        ],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Portable Chargers",
+        "images": [
+            "portable_charger1.jpg",
+            "portable_charger1.jpg",
+            "portable_charger1.jpg"
+        ],
+        "type": "Power Bank",
+        "price": 39.99,
+        "discount": 8,
+        "quantity": 70,
+        "rating": 4.7,
+        "product_color": "Ocean Blue",
+        "product_name": "ChargeSwift Boost",
+        "product_details": "Stay powered on the go with the ChargeSwift Boost Power Bank. The Ocean Blue color adds a refreshing touch to this portable charger. With fast charging technology, multiple USB ports, and a compact design, ChargeSwift Boost ensures your devices stay charged wherever your adventures take you.",
+        "features": [
+            "Fast Charging",
+            "Multiple USB Ports",
+            "Compact Design",
+            "Ocean Blue Color",
+            "High Capacity"
+        ],
+        "fit": "Pocket"
+    },
+    {
+        "category_name": "Wireless Mice",
+        "images": [
+            "wireless_mouse1.jpg",
+            "wireless_mouse1.jpg",
+            "wireless_mouse1.jpg"
+        ],
+        "type": "Gaming Mouse",
+        "price": 69.99,
+        "discount": 10,
+        "quantity": 40,
+        "rating": 4.6,
+        "product_color": "Shadow Black",
+        "product_name": "VelocityGlide X",
+        "product_details": "Enhance your gaming setup with the VelocityGlide X Gaming Mouse. The Shadow Black color adds a touch of sleekness to this high-performance mouse. With customizable buttons, RGB lighting, and precise tracking, VelocityGlide X ensures a responsive and immersive gaming experience.",
+        "features": [
+            "Customizable Buttons",
+            "RGB Lighting",
+            "Precise Tracking",
+            "Shadow Black Color",
+            "High Performance"
+        ],
+        "fit": "Gaming Desk"
+    },
+    {
+        "category_name": "Smart Home Devices",
+        "images": ["smart_home2.jpg", "smart_home2.jpg", "smart_home2.jpg"],
+        "type": "Smart Lighting",
+        "price": 29.99,
+        "discount": 5,
+        "quantity": 50,
+        "rating": 4.5,
+        "product_color": "Crystal White",
+        "product_name": "GlowSmart Bulb",
+        "product_details": "Illuminate your space with the GlowSmart Bulb, a smart lighting solution. The Crystal White color adds a modern touch to your home. With compatibility with voice assistants, customizable colors, and energy efficiency, the GlowSmart Bulb allows you to create the perfect ambiance for any occasion.",
+        "features": ["Voice Assistant Compatibility", "Customizable Colors", "Energy-efficient", "Crystal White Design", "Long Lifespan"],
+        "fit": "Light Fixture"
+    },
+    {
+        "category_name": "Digital Cameras",
+        "images": ["camera2.jpg", "camera2.jpg", "camera2.jpg"],
+        "type": "DSLR",
+        "price": 1499.99,
+        "discount": 18,
+        "quantity": 25,
+        "rating": 4.9,
+        "product_color": "Classic Silver",
+        "product_name": "ProCapture X9",
+        "product_details": "Unleash your creativity with the ProCapture X9 DSLR Camera. The Classic Silver finish exudes sophistication and professionalism. With a high-resolution sensor, interchangeable lenses, and advanced shooting modes, the ProCapture X9 is a powerhouse for photographers who demand precision and control.",
+        "features": ["High-resolution Sensor", "Interchangeable Lenses", "Advanced Shooting Modes", "Classic Silver Finish", "Viewfinder"],
+        "fit": "Camera Bag"
+    },
+    {
+        "category_name": "Wireless Speakers",
+        "images": ["speaker3.jpg", "speaker3.jpg", "speaker3.jpg"],
+        "type": "Bookshelf Speaker",
+        "price": 179.99,
+        "discount": 10,
+        "quantity": 35,
+        "rating": 4.6,
+        "product_color": "Walnut Brown",
+        "product_name": "AcoustiCraft 5000",
+        "product_details": "Experience premium sound quality with the AcoustiCraft 5000 Bookshelf Speaker. The Walnut Brown finish adds a touch of warmth to your home. Featuring advanced audio technology, a compact design, and versatile connectivity options, the AcoustiCraft 5000 is perfect for audiophiles and music enthusiasts.",
+        "features": ["High-fidelity Audio", "Compact Design", "Versatile Connectivity", "Walnut Brown Finish", "Durable Construction"],
+        "fit": "Bookshelf"
+    },
+    {
+        "category_name": "Fitness Trackers",
+        "images": ["fitness_tracker3.jpg", "fitness_tracker3.jpg", "fitness_tracker3.jpg"],
+        "type": "Smart Band",
+        "price": 79.99,
+        "discount": 15,
+        "quantity": 60,
+        "rating": 4.7,
+        "product_color": "Lime Green",
+        "product_name": "VivoFit Pro 2",
+        "product_details": "Achieve your fitness goals in style with the VivoFit Pro 2 Smart Band. The vibrant Lime Green color adds a burst of energy to your workouts. With advanced fitness tracking, heart rate monitoring, and a sleek design, the VivoFit Pro 2 is your reliable companion for an active lifestyle.",
+        "features": ["Advanced Fitness Tracking", "Heart Rate Monitoring", "Sleep Analysis", "Lime Green Design", "Water-resistant"],
+        "fit": "Wrist"
+    },
+    {
+        "category_name": "Headphones",
+        "images": ["headphones3.jpg", "headphones3.jpg", "headphones3.jpg"],
+        "type": "On-Ear",
+        "price": 99.99,
+        "discount": 12,
+        "quantity": 45,
+        "rating": 4.8,
+        "product_color": "Charcoal Gray",
+        "product_name": "BeatFlow Studio",
+        "product_details": "Immerse yourself in superior audio quality with the BeatFlow Studio On-Ear Headphones. The Charcoal Gray color complements your style. Featuring noise isolation, a foldable design, and powerful bass, the BeatFlow Studio headphones are perfect for music enthusiasts who appreciate both comfort and performance.",
+        "features": ["Noise Isolation", "Foldable Design", "Powerful Bass", "Charcoal Gray Color", "Comfortable Ear Cushions"],
+        "fit": "On-Ear"
+    },
+    {
+        "category_name": "Smartwatches",
+        "images": ["smartwatch3.jpg", "smartwatch3.jpg", "smartwatch3.jpg"],
+        "type": "Hybrid Smartwatch",
+        "price": 199.99,
+        "discount": 18,
+        "quantity": 30,
+        "rating": 4.6,
+        "product_color": "Mahogany Brown",
+        "product_name": "TimeElegance Hybrid",
+        "product_details": "Combine classic style with modern functionality with the TimeElegance Hybrid Smartwatch. The Mahogany Brown color and genuine leather strap elevate your look. With fitness tracking, smart notifications, and a traditional analog watch face, the TimeElegance Hybrid is the perfect blend of sophistication and technology.",
+        "features": ["Fitness Tracking", "Smart Notifications", "Analog Watch Face", "Mahogany Brown Design", "Genuine Leather Strap"],
+        "fit": "Wrist"
+    },
+    {
+        "category_name": "Gaming Laptops",
+        "images": ["gaming_laptop1.jpg", "gaming_laptop1.jpg", "gaming_laptop1.jpg"],
+        "type": "High-Performance",
+        "price": 1799.99,
+        "discount": 15,
+        "quantity": 25,
+        "rating": 4.9,
+        "product_color": "RGB Spectrum",
+        "product_name": "ApexGamer Pro",
+        "product_details": "Unleash the power of gaming with the ApexGamer Pro High-Performance Laptop. The RGB Spectrum design adds a dynamic flair to your gaming setup. Featuring a high-refresh-rate display, powerful graphics, and customizable RGB lighting, the ApexGamer Pro is a gaming powerhouse for enthusiasts who demand the best.",
+        "features": ["High-refresh-rate Display", "Powerful Graphics", "Customizable RGB Lighting", "RGB Spectrum Design", "Backlit Keyboard"],
+        "fit": "Laptop Bag"
+    },
+    {
+        "category_name": "Smart Home Devices",
+        "images": ["smart_home3.jpg", "smart_home3.jpg", "smart_home3.jpg"],
+        "type": "Smart Doorbell",
+        "price": 149.99,
+        "discount": 12,
+        "quantity": 40,
+        "rating": 4.8,
+        "product_color": "Slate Gray",
+        "product_name": "SecureGuard 360",
+        "product_details": "Enhance your home security with the SecureGuard 360 Smart Doorbell. The Slate Gray color blends seamlessly with your home exterior. With HD video, two-way audio, and motion detection, the SecureGuard 360 ensures you stay connected and secure, even when you're away.",
+        "features": ["HD Video", "Two-way Audio", "Motion Detection", "Slate Gray Design", "Remote Access"],
+        "fit": "Front Door"
+    },
+    {
+        "category_name": "Bluetooth Keyboards",
+        "images": ["keyboard1.jpg", "keyboard1.jpg", "keyboard1.jpg"],
+        "type": "Mechanical",
+        "price": 129.99,
+        "discount": 10,
+        "quantity": 55,
+        "rating": 4.7,
+        "product_color": "Gunmetal Black",
+        "product_name": "MechanoTyper Pro",
+        "product_details": "Experience the tactile pleasure of typing with the MechanoTyper Pro Mechanical Keyboard. The Gunmetal Black finish adds an industrial touch to your desktop. With customizable RGB backlighting, responsive switches, and durable construction, this mechanical keyboard is perfect for gamers and typists alike.",
+        "features": ["Customizable RGB Backlighting", "Responsive Switches", "Durable Construction", "Gunmetal Black Design", "Detachable Wrist Rest"],
+        "fit": "Desktop"
+    },
+    {
+        "category_name": "Action Cameras",
+        "images": ["action_camera1.jpg", "action_camera1.jpg", "action_camera1.jpg"],
+        "type": "4K Action Cam",
+        "price": 159.99,
+        "discount": 15,
+        "quantity": 30,
+        "rating": 4.6,
+        "product_color": "Aqua Blue",
+        "product_name": "AquaCapture Pro",
+        "product_details": "Capture your adventures in stunning detail with the AquaCapture Pro 4K Action Camera. The Aqua Blue color adds a splash of vibrancy to your action shots. With waterproof design, 4K video recording, and a variety of mounting options, the AquaCapture Pro is the perfect companion for thrill-seekers.",
+        "features": ["4K Video Recording", "Waterproof Design", "Wide-angle Lens", "Aqua Blue Color", "Multiple Mounting Options"],
+        "fit": "Helmet"
+    },
+    {
+        "category_name": "External Hard Drives",
+        "images": ["hard_drive1.jpg", "hard_drive1.jpg", "hard_drive1.jpg"],
+        "type": "Portable HDD",
+        "price": 89.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.8,
+        "product_color": "Platinum Silver",
+        "product_name": "UltraStorage Plus",
+        "product_details": "Expand your storage capacity with the UltraStorage Plus Portable HDD. The Platinum Silver color adds a touch of sophistication to this external hard drive. With high-speed USB connectivity, large storage capacity, and a compact design, the UltraStorage Plus is your reliable solution for data backup and storage.",
+        "features": ["High-speed USB Connectivity", "Large Storage Capacity", "Compact Design", "Platinum Silver Color", "Plug-and-play"],
+        "fit": "Travel Bag"
+    },
+    {
+        "category_name": "Wireless Routers",
+        "images": ["router1.jpg", "router1.jpg", "router1.jpg"],
+        "type": "Mesh Wi-Fi System",
+        "price": 199.99,
+        "discount": 12,
+        "quantity": 35,
+        "rating": 4.7,
+        "product_color": "Arctic White",
+        "product_name": "MeshConnect Pro",
+        "product_details": "Eliminate Wi-Fi dead zones with the MeshConnect Pro Mesh Wi-Fi System. The Arctic White color seamlessly blends with your home decor. With advanced mesh technology, high-speed connectivity, and easy setup, MeshConnect Pro ensures a reliable and fast internet connection throughout your home.",
+        "features": ["Mesh Technology", "High-speed Connectivity", "Easy Setup", "Arctic White Design", "Secure Connection"],
+        "fit": "Home"
+    },
+    {
+        "category_name": "Smart Thermostats",
+        "images": ["thermostat1.jpg", "thermostat1.jpg", "thermostat1.jpg"],
+        "type": "Programmable",
+        "price": 129.99,
+        "discount": 10,
+        "quantity": 45,
+        "rating": 4.6,
+        "product_color": "Modern Silver",
+        "product_name": "EcoTemp Smart",
+        "product_details": "Optimize your home's energy efficiency with the EcoTemp Smart Programmable Thermostat. The Modern Silver color adds a contemporary touch to your home. With intuitive controls, energy-saving features, and smart home compatibility, the EcoTemp Smart keeps you comfortable while saving on energy costs.",
+        "features": ["Intuitive Controls", "Energy-saving Features", "Smart Home Compatibility", "Modern Silver Design", "Touchscreen Interface"],
+        "fit": "Wall-mounted"
+    },
+    {
+        "category_name": "Portable Projectors",
+        "images": ["projector1.jpg", "projector1.jpg", "projector1.jpg"],
+        "type": "Mini Projector",
+        "price": 159.99,
+        "discount": 15,
+        "quantity": 40,
+        "rating": 4.8,
+        "product_color": "Mystic Gold",
+        "product_name": "MiniView Cinema",
+        "product_details": "Transform any space into a cinema with the MiniView Cinema Mini Projector. The Mystic Gold color adds a touch of luxury to this compact projector. With HD resolution, built-in speakers, and portable design, the MiniView Cinema is your go-to entertainment companion for movie nights and presentations.",
+        "features": ["HD Resolution", "Built-in Speakers", "Portable Design", "Mystic Gold Color", "Wide Compatibility"],
+        "fit": "Tabletop"
+    },
+    {
+        "category_name": "Webcams",
+        "images": ["webcam1.jpg", "webcam1.jpg", "webcam1.jpg"],
+        "type": "HD Webcam",
+        "price": 59.99,
+        "discount": 8,
+        "quantity": 55,
+        "rating": 4.7,
+        "product_color": "Silver Frost",
+        "product_name": "CrystalCam HD",
+        "product_details": "Upgrade your video conferencing experience with the CrystalCam HD Webcam. The Silver Frost color adds a touch of elegance to this high-definition webcam. With autofocus, built-in microphone, and easy plug-and-play setup, the CrystalCam HD ensures clear and crisp video quality for your virtual meetings.",
+        "features": ["HD Video Quality", "Autofocus", "Built-in Microphone", "Silver Frost Color", "Plug-and-play"],
+        "fit": "Monitor"
+    },
+    {
+        "category_name": "Smart Plugs",
+        "images": ["smart_plug1.jpg", "smart_plug1.jpg", "smart_plug1.jpg"],
+        "type": "Wi-Fi Smart Plug",
+        "price": 19.99,
+        "discount": 5,
+        "quantity": 70,
+        "rating": 4.5,
+        "product_color": "Cool White",
+        "product_name": "ConnectEase SmartPlug",
+        "product_details": "Make any device smart with the ConnectEase SmartPlug. The Cool White color seamlessly blends with your home decor. With Wi-Fi connectivity, voice control compatibility, and energy monitoring, the ConnectEase SmartPlug brings convenience and efficiency to your everyday life.",
+        "features": ["Wi-Fi Connectivity", "Voice Control Compatibility", "Energy Monitoring", "Cool White Design", "Compact Size"],
+        "fit": "Wall Outlet"
+    },
+    {
+        "category_name": "In-Ear Monitors",
+        "images": ["inear_monitor1.jpg", "inear_monitor1.jpg", "inear_monitor1.jpg"],
+        "type": "Wireless",
+        "price": 129.99,
+        "discount": 10,
+        "quantity": 50,
+        "rating": 4.6,
+        "product_color": "Rose Gold",
+        "product_name": "SonicWave Air",
+        "product_details": "Immerse yourself in crystal-clear audio with the SonicWave Air Wireless In-Ear Monitors. The Rose Gold color adds a touch of elegance to your music experience. With Bluetooth connectivity, noise isolation, and a comfortable fit, the SonicWave Air is perfect for music enthusiasts on the go.",
+        "features": ["Bluetooth Connectivity", "Noise Isolation", "Comfortable Fit", "Rose Gold Color", "Portable Charging Case"],
+        "fit": "In-Ear"
+    },
+    {
+        "category_name": "Smart Mirrors",
+        "images": ["smart_mirror1.jpg", "smart_mirror1.jpg", "smart_mirror1.jpg"],
+        "type": "Interactive Mirror",
+        "price": 349.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.8,
+        "product_color": "Sapphire Blue",
+        "product_name": "MirrorTech Pro",
+        "product_details": "Upgrade your morning routine with the MirrorTech Pro Interactive Smart Mirror. The Sapphire Blue color adds a futuristic touch to your bathroom or dressing area. With a built-in display, voice commands, and fitness tracking, the MirrorTech Pro is not just a mirror but a personal assistant for your daily rituals.",
+        "features": ["Built-in Display", "Voice Commands", "Fitness Tracking", "Sapphire Blue Design", "Wall-mounted"],
+        "fit": "Bathroom"
+    },
+    {
+        "category_name": "Electric Scooters",
+        "images": ["scooter1.jpg", "scooter1.jpg", "scooter1.jpg"],
+        "type": "Foldable",
+        "price": 349.99,
+        "discount": 10,
+        "quantity": 30,
+        "rating": 4.7,
+        "product_color": "Electric Blue",
+        "product_name": "EcoGlide FoldX",
+        "product_details": "Commute in style with the EcoGlide FoldX Electric Scooter. The Electric Blue color adds a pop of color to your urban adventures. With a foldable design, long battery life, and adjustable speed, the EcoGlide FoldX is the eco-friendly and convenient way to navigate city streets.",
+        "features": ["Foldable Design", "Long Battery Life", "Adjustable Speed", "Electric Blue Color", "Lightweight"],
+        "fit": "City Streets"
+    },
+    {
+        "category_name": "Wireless Chargers",
+        "images": ["wireless_charger1.jpg", "wireless_charger1.jpg", "wireless_charger1.jpg"],
+        "type": "Qi Wireless Charger",
+        "price": 29.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.6,
+        "product_color": "Rose Quartz",
+        "product_name": "ChargeAura Qi",
+        "product_details": "Keep your devices charged effortlessly with the ChargeAura Qi Wireless Charger. The Rose Quartz color adds a touch of elegance to your workspace. With Qi wireless charging technology, fast charging capabilities, and a sleek design, the ChargeAura Qi is the perfect addition to your desk or nightstand.",
+        "features": ["Qi Wireless Charging", "Fast Charging", "Sleek Design", "Rose Quartz Color", "Anti-slip Surface"],
+        "fit": "Desk"
+    },
+    {
+        "category_name": "Smart Locks",
+        "images": ["smart_lock1.jpg", "smart_lock1.jpg", "smart_lock1.jpg"],
+        "type": "Keyless Entry",
+        "price": 149.99,
+        "discount": 12,
+        "quantity": 40,
+        "rating": 4.7,
+        "product_color": "Graphite Black",
+        "product_name": "SecureKey Pro",
+        "product_details": "Enhance your home security with the SecureKey Pro Keyless Entry Smart Lock. The Graphite Black color adds a modern touch to your door. With fingerprint recognition, smartphone control, and easy installation, the SecureKey Pro provides a convenient and secure way to protect your home.",
+        "features": ["Fingerprint Recognition", "Smartphone Control", "Keyless Entry", "Graphite Black Design", "Easy Installation"],
+        "fit": "Front Door"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance1.jpg", "appliance1.jpg", "appliance1.jpg"],
+        "type": "Smart Refrigerator",
+        "price": 1299.99,
+        "discount": 10,
+        "quantity": 20,
+        "rating": 4.8,
+        "product_color": "Stainless Steel",
+        "product_name": "CoolTech Elite",
+        "product_details": "Upgrade your kitchen with the CoolTech Elite Smart Refrigerator. The Stainless Steel finish adds a modern touch to your space. With smart temperature control, built-in touchscreen, and spacious storage, the CoolTech Elite ensures your groceries stay fresh while keeping you connected.",
+        "features": ["Smart Temperature Control", "Built-in Touchscreen", "Spacious Storage", "Stainless Steel Design", "Energy-efficient"],
+        "fit": "Kitchen"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance2.jpg", "appliance2.jpg", "appliance2.jpg"],
+        "type": "Robotic Vacuum Cleaner",
+        "price": 349.99,
+        "discount": 15,
+        "quantity": 30,
+        "rating": 4.7,
+        "product_color": "Pearl White",
+        "product_name": "CleanBot Pro",
+        "product_details": "Keep your floors spotless with the CleanBot Pro Robotic Vacuum Cleaner. The Pearl White color complements any interior. With advanced mapping technology, multiple cleaning modes, and voice control compatibility, the CleanBot Pro makes cleaning effortless and convenient.",
+        "features": ["Advanced Mapping Technology", "Multiple Cleaning Modes", "Voice Control Compatibility", "Pearl White Design", "Self-charging"],
+        "fit": "Floor"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance3.jpg", "appliance3.jpg", "appliance3.jpg"],
+        "type": "Smart Microwave Oven",
+        "price": 199.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.6,
+        "product_color": "Black Stainless",
+        "product_name": "HeatMaster Plus",
+        "product_details": "Simplify your cooking experience with the HeatMaster Plus Smart Microwave Oven. The Black Stainless color adds a touch of elegance to your kitchen. With smart cooking presets, voice commands, and sensor technology, the HeatMaster Plus is the ultimate kitchen companion.",
+        "features": ["Smart Cooking Presets", "Voice Commands", "Sensor Technology", "Black Stainless Design", "Easy-to-clean Interior"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance4.jpg", "appliance4.jpg", "appliance4.jpg"],
+        "type": "Air Purifier",
+        "price": 149.99,
+        "discount": 10,
+        "quantity": 40,
+        "rating": 4.5,
+        "product_color": "Graphite Gray",
+        "product_name": "PureAir Pro",
+        "product_details": "Breathe cleaner air with the PureAir Pro Air Purifier. The Graphite Gray color blends seamlessly with your home decor. With HEPA filtration, smart air quality monitoring, and a sleek design, the PureAir Pro ensures a healthier living environment for you and your family.",
+        "features": ["HEPA Filtration", "Smart Air Quality Monitoring", "Whisper-quiet Operation", "Graphite Gray Design", "Compact Size"],
+        "fit": "Living Room"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance5.jpg", "appliance5.jpg", "appliance5.jpg"],
+        "type": "Smart Coffee Maker",
+        "price": 79.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.7,
+        "product_color": "Matte Silver",
+        "product_name": "BrewMaster SmartCafe",
+        "product_details": "Start your day right with the BrewMaster SmartCafe Smart Coffee Maker. The Matte Silver finish adds a touch of sophistication to your kitchen. With customizable brewing settings, voice control, and a thermal carafe, the BrewMaster SmartCafe elevates your coffee experience.",
+        "features": ["Customizable Brewing Settings", "Voice Control", "Thermal Carafe", "Matte Silver Design", "Programmable Timer"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance6.jpg", "appliance6.jpg", "appliance6.jpg"],
+        "type": "Smart Dishwasher",
+        "price": 799.99,
+        "discount": 15,
+        "quantity": 20,
+        "rating": 4.8,
+        "product_color": "Slate Gray",
+        "product_name": "DishMaster Elite",
+        "product_details": "Simplify your kitchen cleanup with the DishMaster Elite Smart Dishwasher. The Slate Gray color adds a modern touch to your kitchen. With smart cleaning cycles, adjustable racks, and energy-efficient operation, the DishMaster Elite makes dishwashing hassle-free.",
+        "features": ["Smart Cleaning Cycles", "Adjustable Racks", "Energy-efficient", "Slate Gray Design", "Quiet Operation"],
+        "fit": "Kitchen"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance7.jpg", "appliance7.jpg", "appliance7.jpg"],
+        "type": "Smart Washing Machine",
+        "price": 899.99,
+        "discount": 12,
+        "quantity": 30,
+        "rating": 4.6,
+        "product_color": "Champagne Gold",
+        "product_name": "LaundryTech Ultra",
+        "product_details": "Streamline your laundry routine with the LaundryTech Ultra Smart Washing Machine. The Champagne Gold color adds a touch of luxury to your laundry room. With smart fabric care, app control, and a spacious drum, the LaundryTech Ultra takes the chore out of laundry day.",
+        "features": ["Smart Fabric Care", "App Control", "Spacious Drum", "Champagne Gold Design", "Energy-efficient"],
+        "fit": "Laundry Room"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance8.jpg", "appliance8.jpg", "appliance8.jpg"],
+        "type": "Smart Blender",
+        "price": 129.99,
+        "discount": 10,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "Ruby Red",
+        "product_name": "BlendMaster Pro",
+        "product_details": "Create delicious and healthy smoothies with the BlendMaster Pro Smart Blender. The Ruby Red color adds a pop of color to your kitchen. With pre-programmed settings, smart blending technology, and a durable design, the BlendMaster Pro is a must-have for every kitchen enthusiast.",
+        "features": ["Pre-programmed Settings", "Smart Blending Technology", "Durable Design", "Ruby Red Color", "Easy-to-clean"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance9.jpg", "appliance9.jpg", "appliance9.jpg"],
+        "type": "Smart Ceiling Fan",
+        "price": 169.99,
+        "discount": 8,
+        "quantity": 40,
+        "rating": 4.6,
+        "product_color": "Antique Bronze",
+        "product_name": "BreezeFlow SmartFan",
+        "product_details": "Stay cool and comfortable with the BreezeFlow SmartFan Smart Ceiling Fan. The Antique Bronze finish adds a classic touch to your living space. With smart controls, adjustable speeds, and energy-efficient operation, the BreezeFlow SmartFan is a stylish and practical addition to any room.",
+        "features": ["Smart Controls", "Adjustable Speeds", "Energy-efficient", "Antique Bronze Design", "Remote Control"],
+        "fit": "Living Room"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance10.jpg", "appliance10.jpg", "appliance10.jpg"],
+        "type": "Smart Toaster Oven",
+        "price": 79.99,
+        "discount": 5,
+        "quantity": 35,
+        "rating": 4.5,
+        "product_color": "Emerald Green",
+        "product_name": "ToastCraft Deluxe",
+        "product_details": "Upgrade your kitchen with the ToastCraft Deluxe Smart Toaster Oven. The Emerald Green color adds a vibrant touch to your countertop. With smart cooking presets, convection technology, and a compact design, the ToastCraft Deluxe is perfect for quick and efficient cooking.",
+        "features": ["Smart Cooking Presets", "Convection Technology", "Compact Design", "Emerald Green Color", "Easy-to-clean Interior"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance11.jpg", "appliance11.jpg", "appliance11.jpg"],
+        "type": "Smart Air Fryer",
+        "price": 119.99,
+        "discount": 10,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "Matte Black",
+        "product_name": "AirCrisp Pro",
+        "product_details": "Enjoy healthier meals with the AirCrisp Pro Smart Air Fryer. The Matte Black color adds a sleek touch to your kitchen. With smart cooking presets, adjustable temperature control, and rapid air technology, the AirCrisp Pro lets you indulge in your favorite fried foods guilt-free.",
+        "features": ["Smart Cooking Presets", "Adjustable Temperature Control", "Rapid Air Technology", "Matte Black Design", "Easy-to-clean"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance12.jpg", "appliance12.jpg", "appliance12.jpg"],
+        "type": "Smart Kettle",
+        "price": 69.99,
+        "discount": 8,
+        "quantity": 30,
+        "rating": 4.6,
+        "product_color": "Brushed Stainless",
+        "product_name": "HeatWave Express",
+        "product_details": "Boil water efficiently with the HeatWave Express Smart Kettle. The Brushed Stainless color adds a modern touch to your kitchen. With adjustable temperature settings, smart boil detection, and a stylish design, the HeatWave Express makes brewing your favorite beverages a breeze.",
+        "features": ["Adjustable Temperature Settings", "Smart Boil Detection", "Stylish Design", "Brushed Stainless Design", "Cordless Base"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance13.jpg", "appliance13.jpg", "appliance13.jpg"],
+        "type": "Smart Blender",
+        "price": 89.99,
+        "discount": 12,
+        "quantity": 35,
+        "rating": 4.8,
+        "product_color": "Arctic Blue",
+        "product_name": "BlitzBlend Pro",
+        "product_details": "Create delicious smoothies and shakes with the BlitzBlend Pro Smart Blender. The Arctic Blue color adds a refreshing touch to your kitchen. With powerful blending capabilities, multiple speed options, and a durable design, the BlitzBlend Pro is your go-to appliance for a healthy lifestyle.",
+        "features": ["Powerful Blending Capabilities", "Multiple Speed Options", "Durable Design", "Arctic Blue Color", "Easy-to-clean"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance14.jpg", "appliance14.jpg", "appliance14.jpg"],
+        "type": "Smart Rice Cooker",
+        "price": 129.99,
+        "discount": 15,
+        "quantity": 20,
+        "rating": 4.7,
+        "product_color": "Cherry Red",
+        "product_name": "RiceMaster Plus",
+        "product_details": "Cook perfect rice every time with the RiceMaster Plus Smart Rice Cooker. The Cherry Red color adds a pop of vibrancy to your kitchen. With smart cooking programs, keep-warm function, and a non-stick inner pot, the RiceMaster Plus is a must-have for rice enthusiasts.",
+        "features": ["Smart Cooking Programs", "Keep-warm Function", "Non-stick Inner Pot", "Cherry Red Design", "Digital Display"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance15.jpg", "appliance15.jpg", "appliance15.jpg"],
+        "type": "Smart Food Processor",
+        "price": 149.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.6,
+        "product_color": "Emerald Green",
+        "product_name": "ChopMaster Elite",
+        "product_details": "Simplify food preparation with the ChopMaster Elite Smart Food Processor. The Emerald Green color adds a fresh touch to your kitchen. With multiple attachments, variable speed settings, and smart pulse technology, the ChopMaster Elite is your versatile kitchen assistant.",
+        "features": ["Multiple Attachments", "Variable Speed Settings", "Smart Pulse Technology", "Emerald Green Design", "Dishwasher-safe Parts"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance16.jpg", "appliance16.jpg", "appliance16.jpg"],
+        "type": "Smart Bread Maker",
+        "price": 109.99,
+        "discount": 8,
+        "quantity": 30,
+        "rating": 4.8,
+        "product_color": "Copper Bronze",
+        "product_name": "BakeCraft Pro",
+        "product_details": "Enjoy freshly baked bread at home with the BakeCraft Pro Smart Bread Maker. The Copper Bronze color adds warmth to your kitchen. With programmable settings, delay timer, and a non-stick baking pan, the BakeCraft Pro brings the aroma of homemade bread to your kitchen.",
+        "features": ["Programmable Settings", "Delay Timer", "Non-stick Baking Pan", "Copper Bronze Design", "Viewing Window"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance17.jpg", "appliance17.jpg", "appliance17.jpg"],
+        "type": "Smart Slow Cooker",
+        "price": 79.99,
+        "discount": 10,
+        "quantity": 40,
+        "rating": 4.7,
+        "product_color": "Slate Gray",
+        "product_name": "SlowSimmer Deluxe",
+        "product_details": "Prepare hearty meals effortlessly with the SlowSimmer Deluxe Smart Slow Cooker. The Slate Gray color adds a modern touch to your kitchen. With programmable cooking times, temperature control, and a removable stoneware pot, the SlowSimmer Deluxe is your go-to for convenient cooking.",
+        "features": ["Programmable Cooking Times", "Temperature Control", "Removable Stoneware Pot", "Slate Gray Design", "Dishwasher-safe Parts"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance18.jpg", "appliance18.jpg", "appliance18.jpg"],
+        "type": "Smart Juicer",
+        "price": 129.99,
+        "discount": 12,
+        "quantity": 35,
+        "rating": 4.6,
+        "product_color": "Sunset Orange",
+        "product_name": "JuiceFlow Pro",
+        "product_details": "Kickstart your day with the JuiceFlow Pro Smart Juicer. The Sunset Orange color adds a burst of energy to your kitchen. With powerful juicing capabilities, easy-to-clean design, and multiple speed settings, the JuiceFlow Pro is a refreshing addition to your healthy lifestyle.",
+        "features": ["Powerful Juicing Capabilities", "Easy-to-clean Design", "Multiple Speed Settings", "Sunset Orange Design", "Large Juice Capacity"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance19.jpg", "appliance19.jpg", "appliance19.jpg"],
+        "type": "Smart Ice Cream Maker",
+        "price": 89.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.5,
+        "product_color": "Cool Mint",
+        "product_name": "ChillChurn Pro",
+        "product_details": "Indulge in homemade ice cream with the ChillChurn Pro Smart Ice Cream Maker. The Cool Mint color adds a refreshing touch to your kitchen. With automatic freezing, customizable recipes, and a compact design, the ChillChurn Pro brings the joy of ice cream making to your home.",
+        "features": ["Automatic Freezing", "Customizable Recipes", "Compact Design", "Cool Mint Design", "Digital Timer"],
+        "fit": "Kitchen Counter"
+    },
+    {
+        "category_name": "Home Appliances",
+        "images": ["appliance20.jpg", "appliance20.jpg", "appliance20.jpg"],
+        "type": "Smart Hand Mixer",
+        "price": 49.99,
+        "discount": 5,
+        "quantity": 45,
+        "rating": 4.7,
+        "product_color": "Lilac Purple",
+        "product_name": "MixMaster Express",
+        "product_details": "Whip up delicious treats with the MixMaster Express Smart Hand Mixer. The Lilac Purple color adds a touch of elegance to your kitchen. With variable speed settings, quick-release beaters, and a compact design, the MixMaster Express is your versatile baking companion.",
+        "features": ["Variable Speed Settings", "Quick-release Beaters", "Compact Design", "Lilac Purple Design", "Easy-to-clean"],
+        "fit": "Kitchen Counter"
+    },
+    {
+      "category_name": "Fashion",
+      "images": [
+        "https://example.com/product21_image1.jpg",
+        "https://example.com/product21_image2.jpg",
+        "https://example.com/product21_image3.jpg"
+      ],
+      "type": "Men's Leather Boots",
+      "price": 129.99,
+      "discount": 8,
+      "quantity": 90,
+      "rating": 4.7,
+      "product_color": "Dark Tan",
+      "product_name": "BootCraft Explorer",
+      "product_details": "Step out in style with the BootCraft Explorer Men's Leather Boots. Crafted from premium leather, these boots offer both comfort and durability. The dark tan color adds a touch of sophistication, making them the perfect choice for urban exploration or casual outings.",
+      "features": [
+        "Premium leather",
+        "Sturdy sole",
+        "Lace-up closure",
+        "Versatile and comfortable",
+        "Dark Tan color"
+      ],
+      "fit": "Stylish and durable"
+    },
+    {
+      "category_name": "Beauty & Glamour",
+      "images": [
+        "https://example.com/product22_image1.jpg",
+        "https://example.com/product22_image2.jpg",
+        "https://example.com/product22_image3.jpg"
+      ],
+      "type": "Men's Skincare Set",
+      "price": 64.99,
+      "discount": 0,
+      "quantity": 120,
+      "rating": 4.5,
+      "product_color": "Soothing Blue",
+      "product_name": "SkinRevitalize Pro",
+      "product_details": "Revitalize your skin with the SkinRevitalize Pro Men's Skincare Set. This comprehensive set includes a cleanser, moisturizer, and anti-aging serum, all formulated to nourish and rejuvenate your skin. The soothing blue packaging adds a touch of luxury to your grooming routine.",
+      "features": [
+        "Cleanser, moisturizer, and serum",
+        "Nourishing formula",
+        "Soothing Blue packaging",
+        "Complete skincare routine",
+        "Suitable for all skin types"
+      ],
+      "fit": "Healthy and refreshed"
+    },
+    {
+      "category_name": "Watches",
+      "images": [
+        "https://example.com/product23_image1.jpg",
+        "https://example.com/product23_image2.jpg",
+        "https://example.com/product23_image3.jpg"
+      ],
+      "type": "Classic Leather Strap Watch",
+      "price": 149.99,
+      "discount": 10,
+      "quantity": 100,
+      "rating": 4.6,
+      "product_color": "Burgundy & Gold",
+      "product_name": "TimelessCraft Heritage",
+      "product_details": "Embrace timeless elegance with the TimelessCraft Heritage Classic Leather Strap Watch. The burgundy and gold color scheme exudes sophistication, while the genuine leather strap and precise movement make it a reliable and stylish accessory for every occasion.",
+      "features": [
+        "Genuine leather strap",
+        "Classic design",
+        "Burgundy & Gold color",
+        "Precise movement",
+        "Water-resistant"
+      ],
+      "fit": "Elegant and versatile"
+    },
+    {
+      "category_name": "Fashion",
+      "images": [
+        "https://example.com/product24_image1.jpg",
+        "https://example.com/product24_image2.jpg",
+        "https://example.com/product24_image3.jpg"
+      ],
+      "type": "Men's Cargo Shorts",
+      "price": 44.99,
+      "discount": 15,
+      "quantity": 80,
+      "rating": 4.4,
+      "product_color": "Olive Green",
+      "product_name": "AdventureTech Cargo",
+      "product_details": "Stay comfortable and stylish on your outdoor adventures with the AdventureTech Cargo Men's Shorts. Made from durable cotton, these cargo shorts feature multiple pockets for convenience. The olive green color adds a touch of rugged appeal, making them a versatile choice for casual wear.",
+      "features": [
+        "Durable cotton fabric",
+        "Cargo style with multiple pockets",
+        "Comfortable fit",
+        "Olive Green color",
+        "Versatile and rugged"
+      ],
+      "fit": "Casual and functional"
+    },
+    {
+      "category_name": "Beauty & Glamour",
+      "images": [
+        "https://example.com/product25_image1.jpg",
+        "https://example.com/product25_image2.jpg",
+        "https://example.com/product25_image3.jpg"
+      ],
+      "type": "Men's Beard Grooming Kit",
+      "price": 34.99,
+      "discount": 0,
+      "quantity": 150,
+      "rating": 4.7,
+      "product_color": "Classic Black",
+      "product_name": "BeardCraft ProSet",
+      "product_details": "Craft the perfect beard with the BeardCraft ProSet Men's Beard Grooming Kit. This kit includes beard oil, balm, and a high-quality comb, all housed in a stylish black case. Keep your beard looking sharp and well-groomed with BeardCraft ProSet.",
+      "features": [
+        "Beard oil, balm, and comb",
+        "Nourishing formula",
+        "Classic Black case",
+        "Complete beard grooming",
+        "Suitable for all beard types"
+      ],
+      "fit": "Sharp and well-groomed"
+    },
+    {
+      "category_name": "Watches",
+      "images": [
+        "https://example.com/product26_image1.jpg",
+        "https://example.com/product26_image2.jpg",
+        "https://example.com/product26_image3.jpg"
+      ],
+      "type": "Aviator Pilot Watch",
+      "price": 199.99,
+      "discount": 0,
+      "quantity": 60,
+      "rating": 4.8,
+      "product_color": "Gunmetal Gray",
+      "product_name": "FlightMaster Aviator",
+      "product_details": "Take to the skies with the FlightMaster Aviator Pilot Watch. The gunmetal gray case and genuine leather strap evoke the spirit of aviation. With chronograph features and luminous hands, this watch is both functional and stylish for the modern adventurer.",
+      "features": [
+        "Chronograph features",
+        "Genuine leather strap",
+        "Gunmetal Gray case",
+        "Luminous hands",
+        "Water-resistant"
+      ],
+      "fit": "Adventurous and precise"
+    },
+    {
+      "category_name": "Fashion",
+      "images": [
+        "https://example.com/product27_image1.jpg",
+        "https://example.com/product27_image2.jpg",
+        "https://example.com/product27_image3.jpg"
+      ],
+      "type": "Men's Dress Shirt",
+      "price": 54.99,
+      "discount": 8,
+      "quantity": 100,
+      "rating": 4.5,
+      "product_color": "Sky Blue",
+      "product_name": "FormalStyle Elegance",
+      "product_details": "Elevate your formal wardrobe with the FormalStyle Elegance Men's Dress Shirt. Crafted from premium cotton, this shirt offers a tailored fit and timeless style. The sky blue color adds a touch of sophistication, making it an essential piece for any formal occasion.",
+      "features": [
+        "Premium cotton fabric",
+        "Tailored fit",
+        "Classic design",
+        "Sky Blue color",
+        "Versatile and comfortable"
+      ],
+      "fit": "Classic and refined"
+    },
+    {
+      "category_name": "Beauty & Glamour",
+      "images": [
+        "https://example.com/product28_image1.jpg",
+        "https://example.com/product28_image2.jpg",
+        "https://example.com/product28_image3.jpg"
+      ],
+      "type": "Men's Cologne Set",
+      "price": 74.99,
+      "discount": 12,
+      "quantity": 90,
+      "rating": 4.6,
+      "product_color": "Royal Gold",
+      "product_name": "ScentCraft Royale",
+      "product_details": "Indulge in luxury with the ScentCraft Royale Men's Cologne Set. This set includes three distinct fragrances in a stylish royal gold packaging. Whether you prefer a fresh, woody, or spicy scent, ScentCraft Royale offers a fragrance for every occasion.",
+      "features": [
+        "Three distinct fragrances",
+        "Royal Gold packaging",
+        "Luxurious scents",
+        "Complete cologne set",
+        "Suitable for all occasions"
+      ],
+      "fit": "Luxurious and versatile"
+    },
+    {
+      "category_name": "Watches",
+      "images": [
+        "https://example.com/product29_image1.jpg",
+        "https://example.com/product29_image2.jpg",
+        "https://example.com/product29_image3.jpg"
+      ],
+      "type": "Sporty Diver's Watch",
+      "price": 169.99,
+      "discount": 0,
+      "quantity": 80,
+      "rating": 4.7,
+      "product_color": "Navy Blue",
+      "product_name": "AquaMaster DiverX",
+      "product_details": "Dive into style with the AquaMaster DiverX Sporty Diver's Watch. Designed for aquatic adventures, this watch features a durable stainless steel case, luminous hands, and a navy blue dial. Whether you're in the water or on land, make a bold statement with AquaMaster DiverX.",
+      "features": [
+        "Durable stainless steel case",
+        "Luminous hands",
+        "Navy Blue dial",
+        "Water-resistant",
+        "Sporty and versatile"
+      ],
+      "fit": "Bold and adventurous"
+    },
+    {
+      "category_name": "Fashion",
+      "images": [
+        "https://example.com/product30_image1.jpg",
+        "https://example.com/product30_image2.jpg",
+        "https://example.com/product30_image3.jpg"
+      ],
+      "type": "Men's Polo Shirt",
+      "price": 39.99,
+      "discount": 0,
+      "quantity": 120,
+      "rating": 4.4,
+      "product_color": "Charcoal Gray",
+      "product_name": "CasualComfort Polo",
+      "product_details": "Experience casual comfort with the CasualComfort Polo Men's Shirt. Made from soft and breathable fabric, this polo shirt is perfect for everyday wear. The charcoal gray color adds a touch of versatility, making it a wardrobe staple for any casual occasion.",
+      "features": [
+        "Soft and breathable fabric",
+        "Casual and comfortable fit",
+        "Classic polo design",
+        "Charcoal Gray color",
+        "Versatile and stylish"
+      ],
+      "fit": "Casual and laid-back"
+    }
+  ]
+  
+

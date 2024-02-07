@@ -13,7 +13,8 @@ const Products = () => {
     const [selectedTypes, setSelectedTypes] = useState(new Set());
 
     useEffect(() => {
-        axios.get(`http://localhost:5000/products?category_name=${category}`).then((res) => setProducts(res.data));
+        axios.get(`http://localhost:5000/products?category_name=${category}`)
+        .then((res) => setProducts(res.data));
     }, [category]);
 
     const handlePriceLowToHigh = () => {

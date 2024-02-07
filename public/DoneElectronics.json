@@ -1,0 +1,26 @@
+[
+    {
+      "category_name": "Electronics",
+      "images": [
+        "https://m.media-amazon.com/images/I/61t3DrFmmeL._AC_UF894,1000_QL80_.jpg",
+        "https://www.titan-ice.co.za/images/detailed/40/2763-7_600x600.webp",
+        "https://romtech.co.za/wp-content/uploads/2020/07/T-TGM307_wr_02-600x600.jpg.webp"
+      ],
+      "type": "Wireless Gaming Mouse",
+      "price": 59.99,
+      "discount": 10,
+      "quantity": 120,
+      "rating": 4.7,
+      "product_color": "RGB Spectrum",
+      "product_name": "GameMaster ProMouse",
+      "product_details": "Elevate your gaming experience with the GameMaster ProMouse - a wireless gaming mouse with customizable RGB lighting. With precise tracking, programmable buttons, and ergonomic design, this mouse enhances your gaming performance. The RGB Spectrum color options add a dynamic visual element to your setup.",
+      "features": [
+        "Customizable RGB lighting",
+        "Precise tracking",
+        "Programmable buttons",
+        "Ergonomic design",
+        "Wireless connectivity"
+      ],
+      "fit": "Comfortable and responsive"
+    }
+]

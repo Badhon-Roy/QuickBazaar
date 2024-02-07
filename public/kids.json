@@ -1,0 +1,460 @@
+[
+    {
+      "category_name": "Toys & Games",
+      "images": [
+        "https://example.com/product31_image1.jpg",
+        "https://example.com/product31_image2.jpg",
+        "https://example.com/product31_image3.jpg"
+      ],
+      "type": "Building Blocks Set",
+      "price": 29.99,
+      "discount": 10,
+      "quantity": 150,
+      "rating": 4.8,
+      "product_color": "Vibrant Colors",
+      "product_name": "CreativityBlocks Deluxe",
+      "product_details": "Inspire creativity and imagination with the CreativityBlocks Deluxe Building Blocks Set. This vibrant set includes various shapes and sizes of blocks, allowing children to build and create endless structures. The vivid colors enhance visual stimulation and make learning through play exciting.",
+      "features": [
+        "Assorted shapes and sizes",
+        "Vibrant color palette",
+        "Encourages creativity",
+        "Safe and durable",
+        "Educational and fun"
+      ],
+      "fit": "Ideal for children aged 3 and above"
+    },
+    {
+      "category_name": "Kids Fashion",
+      "images": [
+        "https://example.com/product32_image1.jpg",
+        "https://example.com/product32_image2.jpg",
+      "https://example.com/product32_image3.jpg"
+      ],
+      "type": "Children's Pajama Set",
+      "price": 19.99,
+      "discount": 15,
+      "quantity": 120,
+      "rating": 4.5,
+      "product_color": "Cute Animals",
+      "product_name": "DreamWear Pajamas",
+      "product_details": "Make bedtime fun with the DreamWear Pajamas for kids. This adorable pajama set features cute animal prints, providing comfort and style for a good night's sleep. The soft and breathable fabric ensures a cozy bedtime experience for your little ones.",
+      "features": [
+        "Cute animal prints",
+        "Soft and breathable fabric",
+        "Comfortable fit",
+        "Elastic waistband",
+        "Easy care and machine washable"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Kids Furniture",
+      "images": [
+        "https://example.com/product33_image1.jpg",
+        "https://example.com/product33_image2.jpg",
+        "https://example.com/product33_image3.jpg"
+      ],
+      "type": "Kid's Desk and Chair Set",
+      "price": 69.99,
+      "discount": 8,
+      "quantity": 80,
+      "rating": 4.7,
+      "product_color": "Blue & White",
+      "product_name": "StudyBuddy Desk Set",
+      "product_details": "Create a dedicated study space for your child with the StudyBuddy Desk and Chair Set. The set features a sturdy desk with ample storage space and a comfortable chair. The blue and white color combination adds a playful touch to the learning environment.",
+      "features": [
+        "Sturdy desk with storage",
+        "Comfortable chair",
+        "Easy to assemble",
+        "Blue & White color",
+        "Ideal for homework and creative activities"
+      ],
+      "fit": "Perfect for kids aged 5-12 years"
+    },
+    {
+      "category_name": "Kids Apparel",
+      "images": [
+        "https://example.com/product34_image1.jpg",
+        "https://example.com/product34_image2.jpg",
+        "https://example.com/product34_image3.jpg"
+      ],
+      "type": "Children's Winter Jacket",
+      "price": 39.99,
+      "discount": 12,
+      "quantity": 100,
+      "rating": 4.6,
+      "product_color": "Pink",
+      "product_name": "SnowyDays Warmth",
+      "product_details": "Keep your little one warm and stylish with the SnowyDays Warmth Children's Winter Jacket. This cozy jacket features a soft fleece lining and a water-resistant outer layer to protect against cold and wet weather. The pink color adds a touch of charm to winter adventures.",
+      "features": [
+        "Soft fleece lining",
+        "Water-resistant outer layer",
+        "Zipper closure",
+        "Hooded design",
+        "Pink color"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product35_image1.jpg",
+        "https://example.com/product35_image2.jpg",
+        "https://example.com/product35_image3.jpg"
+      ],
+      "type": "Remote Control Car",
+      "price": 24.99,
+      "discount": 0,
+      "quantity": 130,
+      "rating": 4.4,
+      "product_color": "Red",
+      "product_name": "Speedster Racer",
+      "product_details": "Ignite the spirit of adventure with the Speedster Racer Remote Control Car. This fast and maneuverable car provides hours of fun for children. The easy-to-use remote control allows kids to explore and race with friends, promoting active play and excitement.",
+      "features": [
+        "Remote control operation",
+        "Fast and maneuverable",
+        "Promotes active play",
+        "Durable construction",
+        "Red color"
+      ],
+      "fit": "Suitable for children aged 6 and above"
+    },
+    {
+      "category_name": "Kids Accessories",
+      "images": [
+        "https://example.com/product36_image1.jpg",
+        "https://example.com/product36_image2.jpg",
+        "https://example.com/product36_image3.jpg"
+      ],
+      "type": "Cartoon Character Backpack",
+      "price": 18.99,
+      "discount": 10,
+      "quantity": 110,
+      "rating": 4.5,
+      "product_color": "Dinosaur",
+      "product_name": "AdventurePal Backpack",
+      "product_details": "Make going to school an adventure with the AdventurePal Cartoon Character Backpack. Featuring a fun dinosaur design, this backpack is both functional and playful. The spacious compartments and adjustable straps ensure comfort and convenience for little explorers.",
+      "features": [
+        "Fun dinosaur design",
+        "Spacious compartments",
+        "Adjustable straps",
+        "Durable and lightweight",
+        "Ideal for school and outings"
+      ],
+      "fit": "Perfect for preschool and early elementary school children"
+    },
+    {
+      "category_name": "Kids Footwear",
+      "images": [
+        "https://example.com/product37_image1.jpg",
+        "https://example.com/product37_image2.jpg",
+        "https://example.com/product37_image3.jpg"
+      ],
+      "type": "Light-Up Sneakers",
+      "price": 34.99,
+      "discount": 15,
+      "quantity": 90,
+      "rating": 4.7,
+      "product_color": "Blue & Green",
+      "product_name": "GlowSteps Sneakers",
+      "product_details": "Step into fun with the GlowSteps Light-Up Sneakers for kids. These sneakers feature vibrant LED lights in the soles that activate with each step, creating a playful and interactive experience. The blue and green color combination adds extra flair to every adventure.",
+      "features": [
+        "LED lights in soles",
+        "Interactive and fun",
+        "Hook and loop closure",
+        "Blue & Green color",
+        "Comfortable and stylish"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Kids Furniture",
+      "images": [
+        "https://example.com/product38_image1.jpg",
+        "https://example.com/product38_image2.jpg",
+        "https://example.com/product38_image3.jpg"
+      ],
+      "type": "Animal-themed Bookshelf",
+      "price": 49.99,
+      "discount": 8,
+      "quantity": 80,
+      "rating": 4.6,
+      "product_color": "Jungle Safari",
+      "product_name": "BookExplorer Shelf",
+      "product_details": "Encourage a love for reading with the BookExplorer Animal-themed Bookshelf. The jungle safari design features playful animal characters, creating an engaging and whimsical book storage solution for children's bedrooms or playrooms.",
+      "features": [
+        "Animal-themed design",
+        "Sturdy and durable",
+        "Multiple shelves",
+        "Jungle Safari color",
+        "Promotes organization and reading"
+      ],
+      "fit": "Ideal for children aged 3 and above"
+    },
+    {
+      "category_name": "Kids Apparel",
+      "images": [
+        "https://example.com/product39_image1.jpg",
+        "https://example.com/product39_image2.jpg",
+        "https://example.com/product39_image3.jpg"
+      ],
+      "type": "Kids Raincoat",
+      "price": 27.99,
+      "discount": 10,
+      "quantity": 100,
+      "rating": 4.5,
+      "product_color": "Yellow Duck",
+      "product_name": "RainyDays FunCoat",
+      "product_details": "Turn rainy days into adventures with the RainyDays FunCoat Kids Raincoat. This playful raincoat features a yellow duck design, keeping little ones dry and cheerful even in the wettest weather. The lightweight and breathable material ensure comfort during outdoor play.",
+      "features": [
+        "Yellow duck design",
+        "Water-resistant material",
+        "Hooded for extra protection",
+        "Lightweight and breathable",
+        "Easy to clean"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Toys & Games",
+      "images": [
+        "https://example.com/product40_image1.jpg",
+        "https://example.com/product40_image2.jpg",
+        "https://example.com/product40_image3.jpg"
+      ],
+      "type": "Educational Puzzle Set",
+      "price": 21.99,
+      "discount": 0,
+      "quantity": 130,
+      "rating": 4.4,
+      "product_color": "Bright & Colorful",
+      "product_name": "LearnPlay Puzzle World",
+      "product_details": "Explore the world of learning with the LearnPlay Puzzle World Educational Puzzle Set. This set includes colorful and engaging puzzles that help develop cognitive skills and spatial awareness in children. The bright and colorful designs make learning exciting and enjoyable.",
+      "features": [
+        "Educational puzzles",
+        "Bright and colorful designs",
+        "Promotes cognitive skills",
+        "Durable and safe materials",
+        "Ideal for early childhood development"
+      ],
+      "fit": "Suitable for children aged 2 and above"
+    },
+    {
+      "category_name": "Toys & Games",
+      "images": [
+        "https://example.com/product48_image1.jpg",
+        "https://example.com/product48_image2.jpg",
+        "https://example.com/product48_image3.jpg"
+      ],
+      "type": "DinoAdventure Playset",
+      "price": 29.99,
+      "discount": 10,
+      "quantity": 110,
+      "rating": 4.5,
+      "product_color": "Jurassic Green",
+      "product_name": "DinoDiscovery Explorer Kit",
+      "product_details": "Embark on a prehistoric journey with the DinoDiscovery Explorer Kit. This playset includes various dinosaur figures, a terrain mat, and accessories for imaginative play. The Jurassic green color adds an exciting touch to the dino adventure.",
+      "features": [
+        "Dinosaur playset",
+        "Terrain mat and accessories",
+        "Jurassic Green color",
+        "Encourages imaginative play",
+        "Ideal for dinosaur enthusiasts"
+      ],
+      "fit": "Suitable for children aged 4-10 years"
+    },
+    {
+      "category_name": "Kids Fashion",
+      "images": [
+        "https://example.com/product49_image1.jpg",
+        "https://example.com/product49_image2.jpg",
+        "https://example.com/product49_image3.jpg"
+      ],
+      "type": "Princess Fantasy Dress",
+      "price": 34.99,
+      "discount": 15,
+      "quantity": 90,
+      "rating": 4.8,
+      "product_color": "Royal Pink",
+      "product_name": "Enchanted Princess Gown",
+      "product_details": "Let your little one's dreams come true with the Enchanted Princess Gown. This fantasy dress features a royal pink color and intricate details, making it perfect for imaginative play, dress-up parties, or special occasions.",
+      "features": [
+        "Princess fantasy dress",
+        "Royal Pink color",
+        "Intricate details",
+        "Comfortable and stylish",
+        "Ideal for dress-up play"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Kids Furniture",
+      "images": [
+        "https://example.com/product50_image1.jpg",
+        "https://example.com/product50_image2.jpg",
+        "https://example.com/product50_image3.jpg"
+      ],
+      "type": "Space Explorer Bookshelf",
+      "price": 44.99,
+      "discount": 8,
+      "quantity": 80,
+      "rating": 4.6,
+      "product_color": "Galactic Blue",
+      "product_name": "CosmicBook Explorer Shelf",
+      "product_details": "Fuel your child's love for reading with the CosmicBook Explorer Bookshelf. Featuring a space explorer theme, this bookshelf encourages organization and sparks the imagination. The galactic blue color adds an interstellar touch to the room.",
+      "features": [
+        "Space explorer bookshelf",
+        "Sturdy and durable",
+        "Multiple shelves",
+        "Galactic Blue color",
+        "Promotes organization and reading"
+      ],
+      "fit": "Ideal for children aged 3 and above"
+    },
+    {
+      "category_name": "Kids Apparel",
+      "images": [
+        "https://example.com/product51_image1.jpg",
+        "https://example.com/product51_image2.jpg",
+        "https://example.com/product51_image3.jpg"
+      ],
+      "type": "Dinosaur Onesie Pajamas",
+      "price": 27.99,
+      "discount": 12,
+      "quantity": 100,
+      "rating": 4.7,
+      "product_color": "Dino Green",
+      "product_name": "RoarSnuggles Dino Pajamas",
+      "product_details": "Make bedtime fun with the RoarSnuggles Dino Pajamas. This dinosaur onesie features a playful dino design and soft, comfortable fabric, creating a cozy and imaginative bedtime experience for your little adventurer.",
+      "features": [
+        "Dinosaur onesie pajamas",
+        "Dino Green color",
+        "Soft and comfortable fabric",
+        "Front zipper closure",
+        "Ideal for cozy sleepovers"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product52_image1.jpg",
+        "https://example.com/product52_image2.jpg",
+        "https://example.com/product52_image3.jpg"
+      ],
+      "type": "Magic Castle Play Tent",
+      "price": 49.99,
+      "discount": 0,
+      "quantity": 120,
+      "rating": 4.5,
+      "product_color": "Enchanted Purple",
+      "product_name": "WonderCastle Play Tent",
+      "product_details": "Create a magical play space with the WonderCastle Magic Castle Play Tent. This enchanting play tent features a castle design, promoting imaginative play and storytelling. The enchanted purple color adds a touch of whimsy to playtime.",
+      "features": [
+        "Castle play tent",
+        "Promotes imaginative play",
+        "Enchanted Purple color",
+        "Easy to set up and fold",
+        "Ideal for indoor adventures"
+      ],
+      "fit": "Suitable for children aged 3-8 years"
+    },
+    {
+      "category_name": "Kids Accessories",
+      "images": [
+        "https://example.com/product53_image1.jpg",
+        "https://example.com/product53_image2.jpg",
+        "https://example.com/product53_image3.jpg"
+      ],
+      "type": "Adventure Explorer Backpack",
+      "price": 18.99,
+      "discount": 10,
+      "quantity": 110,
+      "rating": 4.6,
+      "product_color": "Explorer Green",
+      "product_name": "AdventureKid Explorer Backpack",
+      "product_details": "Fuel the spirit of adventure with the AdventureKid Explorer Backpack. This backpack features a map and compass design, encouraging little explorers to embark on exciting journeys. The explorer green color adds a sense of outdoor exploration.",
+      "features": [
+        "Adventure explorer backpack",
+        "Map and compass design",
+        "Explorer Green color",
+        "Spacious compartments",
+        "Durable and lightweight"
+      ],
+      "fit": "Perfect for preschool and early elementary school children"
+    },
+    {
+      "category_name": "Kids Footwear",
+      "images": [
+        "https://example.com/product54_image1.jpg",
+        "https://example.com/product54_image2.jpg",
+        "https://example.com/product54_image3.jpg"
+      ],
+      "type": "Glow-in-the-Dark Sneakers",
+      "price": 34.99,
+      "discount": 15,
+      "quantity": 90,
+      "rating": 4.8,
+      "product_color": "Galactic Blue",
+      "product_name": "GlowGalaxy Sneakers",
+      "product_details": "Step into a galaxy of fun with the GlowGalaxy Glow-in-the-Dark Sneakers. These sneakers feature vibrant galaxy prints and glow-in-the-dark elements, adding excitement to every step. The galactic blue color enhances the cosmic theme.",
+      "features": [
+        "Glow-in-the-dark sneakers",
+        "Galaxy prints",
+        "Galactic Blue color",
+        "Hook and loop closure",
+        "Comfortable and stylish"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    },
+    {
+      "category_name": "Kids Furniture",
+      "images": [
+        "https://example.com/product55_image1.jpg",
+        "https://example.com/product55_image2.jpg",
+        "https://example.com/product55_image3.jpg"
+      ],
+      "type": "Animal Adventure Table and Chairs",
+      "price": 39.99,
+      "discount": 8,
+      "quantity": 80,
+      "rating": 4.7,
+      "product_color": "Safari Brown",
+      "product_name": "SafariKid Table Set",
+      "product_details": "Transform playtime into a safari adventure with the SafariKid Animal Adventure Table Set. This set includes a sturdy table and chairs featuring playful safari animal designs. The safari brown color adds a touch of nature to the play area.",
+      "features": [
+        "Animal adventure table set",
+        "Sturdy and durable",
+        "Playful safari animal designs",
+        "Safari Brown color",
+        "Ideal for creative activities"
+      ],
+      "fit": "Perfect for children aged 3-8 years"
+    },
+    {
+      "category_name": "Kids Apparel",
+      "images": [
+        "https://example.com/product56_image1.jpg",
+        "https://example.com/product56_image2.jpg",
+        "https://example.com/product56_image3.jpg"
+      ],
+      "type": "Rainbow Tutu Skirt",
+      "price": 21.99,
+      "discount": 10,
+      "quantity": 100,
+      "rating": 4.6,
+      "product_color": "Vibrant Rainbow",
+      "product_name": "RainbowTwirl Tutu",
+      "product_details": "Add a burst of color to any occasion with the RainbowTwirl Tutu. This vibrant rainbow tutu skirt is perfect for dance performances, costume parties, or simply twirling with joy. The elastic waistband ensures a comfortable fit for any little dancer.",
+      "features": [
+        "Rainbow tutu skirt",
+        "Vibrant Rainbow colors",
+        "Elastic waistband",
+        "Soft and lightweight",
+        "Ideal for dress-up and play"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    }
+  ]
+  
+  

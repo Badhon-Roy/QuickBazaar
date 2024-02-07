@@ -1,0 +1,436 @@
+[
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product57_image1.jpg",
+        "https://example.com/product57_image2.jpg",
+        "https://example.com/product57_image3.jpg"
+      ],
+      "type": "Robot Explorer Kit",
+      "price": 49.99,
+      "discount": 10,
+      "quantity": 90,
+      "rating": 4.7,
+      "product_color": "Metallic Silver",
+      "product_name": "TechBot Explorer",
+      "product_details": "Inspire young minds with the TechBot Explorer Robot Kit. This kit allows children to build and program their own robot, fostering creativity and STEM skills. The metallic silver color adds a futuristic touch to the robotic adventure.",
+      "features": [
+        "Robot explorer kit",
+        "Build and program your own robot",
+        "Metallic Silver color",
+        "Encourages STEM learning",
+        "Ideal for tech enthusiasts"
+      ],
+      "fit": "Suitable for children aged 8-12 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product58_image1.jpg",
+        "https://example.com/product58_image2.jpg",
+        "https://example.com/product58_image3.jpg"
+      ],
+      "type": "Magical Unicorn Plushie",
+      "price": 24.99,
+      "discount": 15,
+      "quantity": 110,
+      "rating": 4.8,
+      "product_color": "Pastel Rainbow",
+      "product_name": "RainbowWishes Unicorn Plush",
+      "product_details": "Bring a touch of magic into playtime with the RainbowWishes Unicorn Plushie. This cuddly and enchanting unicorn features a pastel rainbow mane and is perfect for comforting hugs and imaginative adventures.",
+      "features": [
+        "Magical unicorn plushie",
+        "Pastel Rainbow colors",
+        "Soft and huggable",
+        "Ideal for comforting play",
+        "Perfect bedtime companion"
+      ],
+      "fit": "Suitable for children of all ages"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product59_image1.jpg",
+        "https://example.com/product59_image2.jpg",
+        "https://example.com/product59_image3.jpg"
+      ],
+      "type": "Adventure Explorer Binoculars",
+      "price": 14.99,
+      "discount": 0,
+      "quantity": 130,
+      "rating": 4.6,
+      "product_color": "Explorer Green",
+      "product_name": "ExploreKid Binoculars",
+      "product_details": "Encourage outdoor exploration with the ExploreKid Adventure Explorer Binoculars. These child-friendly binoculars feature a durable design and adjustable focus, making them perfect for bird-watching, nature walks, and imaginative play.",
+      "features": [
+        "Adventure explorer binoculars",
+        "Durable and child-friendly",
+        "Adjustable focus",
+        "Explorer Green color",
+        "Ideal for outdoor adventures"
+      ],
+      "fit": "Suitable for children aged 4-10 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product60_image1.jpg",
+        "https://example.com/product60_image2.jpg",
+        "https://example.com/product60_image3.jpg"
+      ],
+      "type": "Colorful Wooden Building Blocks",
+      "price": 19.99,
+      "discount": 12,
+      "quantity": 100,
+      "rating": 4.7,
+      "product_color": "Vibrant Colors",
+      "product_name": "EcoBlocks Wooden Set",
+      "product_details": "Promote creativity and eco-friendliness with the EcoBlocks Colorful Wooden Building Blocks. This set includes various shapes and sizes of wooden blocks in vibrant colors, providing endless opportunities for imaginative construction and play.",
+      "features": [
+        "Colorful wooden building blocks",
+        "Eco-friendly materials",
+        "Vibrant color palette",
+        "Encourages creativity",
+        "Safe and durable"
+      ],
+      "fit": "Ideal for children aged 3 and above"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product61_image1.jpg",
+        "https://example.com/product61_image2.jpg",
+        "https://example.com/product61_image3.jpg"
+      ],
+      "type": "Musical Instrument Set",
+      "price": 29.99,
+      "discount": 10,
+      "quantity": 120,
+      "rating": 4.5,
+      "product_color": "Rainbow",
+      "product_name": "MelodyMagic Instrument Kit",
+      "product_details": "Introduce the joy of music with the MelodyMagic Musical Instrument Set for kids. This set includes various instruments in a rainbow of colors, allowing children to explore rhythm and melody in a fun and interactive way.",
+      "features": [
+        "Musical instrument set",
+        "Colorful and vibrant",
+        "Encourages musical exploration",
+        "Rainbow color palette",
+        "Ideal for budding musicians"
+      ],
+      "fit": "Suitable for children aged 3-8 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product62_image1.jpg",
+        "https://example.com/product62_image2.jpg",
+        "https://example.com/product62_image3.jpg"
+      ],
+      "type": "Interactive Talking Robot",
+      "price": 34.99,
+      "discount": 15,
+      "quantity": 90,
+      "rating": 4.6,
+      "product_color": "Tech Blue",
+      "product_name": "TalkTech Interactive Robot",
+      "product_details": "Explore the future of play with the TalkTech Interactive Talking Robot. This robot features interactive conversations, educational content, and fun activities. The tech blue color adds a modern and futuristic touch.",
+      "features": [
+        "Interactive talking robot",
+        "Educational content",
+        "Tech Blue color",
+        "Encourages learning through play",
+        "Ideal for tech-savvy kids"
+      ],
+      "fit": "Suitable for children aged 5-12 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product63_image1.jpg",
+        "https://example.com/product63_image2.jpg",
+        "https://example.com/product63_image3.jpg"
+      ],
+      "type": "Doodle Art Drawing Board",
+      "price": 22.99,
+      "discount": 10,
+      "quantity": 100,
+      "rating": 4.8,
+      "product_color": "Creative Pink",
+      "product_name": "DoodleCraft Drawing Board",
+      "product_details": "Unleash creativity with the DoodleCraft Doodle Art Drawing Board. This drawing board allows kids to create colorful doodles and drawings without the mess of traditional art supplies. The creative pink color adds a touch of artistic flair.",
+      "features": [
+        "Doodle art drawing board",
+        "Mess-free creativity",
+        "Creative Pink color",
+        "Reusable and erasable",
+        "Ideal for on-the-go creativity"
+      ],
+      "fit": "Suitable for children aged 3 and above"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product64_image1.jpg",
+        "https://example.com/product64_image2.jpg",
+        "https://example.com/product64_image3.jpg"
+      ],
+      "type": "Adventure Puzzle Mat",
+      "price": 17.99,
+      "discount": 12,
+      "quantity": 110,
+      "rating": 4.7,
+      "product_color": "Adventure Blue",
+      "product_name": "AdventureLand Puzzle Mat",
+      "product_details": "Create a play space full of adventure with the AdventureLand Puzzle Mat. This puzzle mat features interlocking pieces with colorful designs, offering a comfortable and safe surface for playtime. The adventure blue color sparks the imagination.",
+      "features": [
+        "Adventure puzzle mat",
+        "Interlocking pieces",
+        "Adventure Blue color",
+        "Safe and comfortable",
+        "Ideal for playrooms and nurseries"
+      ],
+      "fit": "Perfect for children aged 2 and above"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product65_image1.jpg",
+        "https://example.com/product65_image2.jpg",
+        "https://example.com/product65_image3.jpg"
+      ],
+      "type": "Magic Drawing Water Mat",
+      "price": 19.99,
+      "discount": 0,
+      "quantity": 130,
+      "rating": 4.6,
+      "product_color": "Aqua Magic",
+      "product_name": "Aquafun Drawing Mat",
+      "product_details": "Encourage mess-free creativity with the Aquafun Magic Drawing Water Mat. This mat allows kids to create vibrant drawings using water, promoting artistic expression without the need for ink or paint. The aqua magic color adds a refreshing touch.",
+      "features": [
+        "Magic drawing water mat",
+        "Mess-free creativity with water",
+        "Aqua Magic color",
+        "Reusable and eco-friendly",
+        "Ideal for young artists"
+      ],
+      "fit": "Suitable for children aged 3-6 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product66_image1.jpg",
+        "https://example.com/product66_image2.jpg",
+        "https://example.com/product66_image3.jpg"
+      ],
+      "type": "Science Exploration Kit",
+      "price": 29.99,
+      "discount": 10,
+      "quantity": 120,
+      "rating": 4.5,
+      "product_color": "Scientific Blue",
+      "product_name": "SciDiscovery Science Kit",
+      "product_details": "Ignite curiosity with the SciDiscovery Science Exploration Kit. Packed with hands-on experiments and educational activities, this kit introduces children to the wonders of science. The scientific blue color adds a touch of discovery.",
+      "features": [
+        "Science exploration kit",
+        "Hands-on experiments",
+        "Scientific Blue color",
+        "Encourages STEM learning",
+        "Ideal for young scientists"
+      ],
+      "fit": "Suitable for children aged 6-12 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product67_image1.jpg",
+        "https://example.com/product67_image2.jpg",
+        "https://example.com/product67_image3.jpg"
+      ],
+      "type": "Building Blocks Castle Set",
+      "price": 34.99,
+      "discount": 15,
+      "quantity": 90,
+      "rating": 4.8,
+      "product_color": "Castle Gray",
+      "product_name": "CastleDream Building Blocks",
+      "product_details": "Construct a magical kingdom with the CastleDream Building Blocks Castle Set. This set includes castle-themed blocks for building imaginative structures. The castle gray color enhances the regal charm of the play experience.",
+      "features": [
+        "Building blocks castle set",
+        "Castle-themed blocks",
+        "Castle Gray color",
+        "Encourages creativity",
+        "Ideal for castle enthusiasts"
+      ],
+      "fit": "Suitable for children aged 4-10 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product68_image1.jpg",
+        "https://example.com/product68_image2.jpg",
+        "https://example.com/product68_image3.jpg"
+      ],
+      "type": "Outdoor Explorer Kit",
+      "price": 19.99,
+      "discount": 0,
+      "quantity": 130,
+      "rating": 4.6,
+      "product_color": "Explorer Green",
+      "product_name": "NatureExplorer Outdoor Kit",
+      "product_details": "Inspire outdoor adventures with the NatureExplorer Outdoor Explorer Kit. This kit includes essentials like a magnifying glass, compass, and binoculars, fostering a love for nature exploration. The explorer green color adds a sense of outdoor discovery.",
+      "features": [
+        "Outdoor explorer kit",
+        "Magnifying glass, compass, and binoculars",
+        "Explorer Green color",
+        "Encourages nature exploration",
+        "Perfect for camping and hiking"
+      ],
+      "fit": "Suitable for children aged 5-10 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product69_image1.jpg",
+        "https://example.com/product69_image2.jpg",
+        "https://example.com/product69_image3.jpg"
+      ],
+      "type": "Artistic Dough Set",
+      "price": 24.99,
+      "discount": 12,
+      "quantity": 100,
+      "rating": 4.7,
+      "product_color": "Artistic Palette",
+      "product_name": "DoughArt Creative Set",
+      "product_details": "Unleash artistic expression with the DoughArt Artistic Dough Set. This set includes a variety of vibrant dough colors and tools for creative sculpting and molding. The artistic palette color adds a burst of inspiration.",
+      "features": [
+        "Artistic dough set",
+        "Vibrant colors and sculpting tools",
+        "Artistic Palette color",
+        "Encourages creative expression",
+        "Ideal for young artists"
+      ],
+      "fit": "Suitable for children aged 3-8 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product70_image1.jpg",
+        "https://example.com/product70_image2.jpg",
+        "https://example.com/product70_image3.jpg"
+      ],
+      "type": "Magnetic Building Tiles Set",
+      "price": 44.99,
+      "discount": 8,
+      "quantity": 80,
+      "rating": 4.6,
+      "product_color": "Rainbow Magic",
+      "product_name": "MagiTiles Magnetic Set",
+      "product_details": "Experience the magic of magnetic construction with the MagiTiles Magnetic Building Tiles Set. This set includes colorful and versatile magnetic tiles for endless building possibilities. The rainbow magic colors add a vibrant touch.",
+      "features": [
+        "Magnetic building tiles set",
+        "Versatile and colorful tiles",
+        "Rainbow Magic colors",
+        "Encourages creative construction",
+        "Ideal for STEM learning"
+      ],
+      "fit": "Suitable for children aged 4 and above"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+      "https://example.com/product71_image1.jpg",
+      "https://example.com/product71_image2.jpg",
+      "https://example.com/product71_image3.jpg"
+      ],
+      "type": "Wooden Train Set",
+      "price": 32.99,
+      "discount": 15,
+      "quantity": 70,
+      "rating": 4.7,
+      "product_color": "Classic Wood",
+      "product_name": "ClassicRails Wooden Train Set",
+      "product_details": "Embark on a railway adventure with the ClassicRails Wooden Train Set. This set includes a variety of wooden tracks, trains, and accessories for building classic train layouts. The classic wood color adds a timeless touch.",
+      "features": [
+        "Wooden train set",
+        "Variety of tracks and accessories",
+        "Classic Wood color",
+        "Encourages imaginative play",
+        "Ideal for train enthusiasts"
+      ],
+      "fit": "Suitable for children aged 3 and above"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product72_image1.jpg",
+        "https://example.com/product72_image2.jpg",
+        "https://example.com/product72_image3.jpg"
+      ],
+      "type": "Dance and Play Mat",
+      "price": 27.99,
+      "discount": 10,
+      "quantity": 110,
+      "rating": 4.8,
+      "product_color": "Dance Party Pink",
+      "product_name": "DanceBeat Interactive Mat",
+      "product_details": "Turn any space into a dance party with the DanceBeat Dance and Play Mat. This interactive mat features music and lights, encouraging active play and creative movement. The dance party pink color adds a vibrant and energetic flair.",
+      "features": [
+        "Dance and play mat",
+        "Interactive music and lights",
+        "Dance Party Pink color",
+        "Encourages active play",
+        "Ideal for dance enthusiasts"
+      ],
+      "fit": "Suitable for children aged 4-10 years"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product73_image1.jpg",
+        "https://example.com/product73_image2.jpg",
+        "https://example.com/product73_image3.jpg"
+      ],
+      "type": "Puzzle and Board Game Collection",
+      "price": 37.99,
+      "discount": 12,
+      "quantity": 90,
+      "rating": 4.6,
+      "product_color": "Playful Patterns",
+      "product_name": "PlayPal Board Game Bundle",
+      "product_details": "Bring family fun to the forefront with the PlayPal Puzzle and Board Game Collection. This bundle includes a variety of engaging games featuring playful patterns. The vibrant colors add excitement to game nights.",
+      "features": [
+        "Puzzle and board game collection",
+        "Variety of engaging games",
+        "Playful Patterns colors",
+        "Ideal for family game nights",
+        "Promotes strategic thinking"
+      ],
+      "fit": "Suitable for children aged 6 and above"
+    },
+    {
+      "category_name": "Kids Toys",
+      "images": [
+        "https://example.com/product74_image1.jpg",
+        "https://example.com/product74_image2.jpg",
+        "https://example.com/product74_image3.jpg"
+      ],
+      "type": "Superhero Dress-Up Costume Set",
+      "price": 21.99,
+      "discount": 10,
+      "quantity": 100,
+      "rating": 4.7,
+      "product_color": "Heroic Red",
+      "product_name": "HeroKids Costume Collection",
+      "product_details": "Fuel imaginative play with the HeroKids Superhero Dress-Up Costume Set. This set includes various superhero costumes, empowering kids to become their favorite heroes. The heroic red color adds a bold and adventurous touch.",
+      "features": [
+        "Superhero dress-up costume set",
+        "Various superhero costumes",
+        "Heroic Red color",
+        "Encourages imaginative play",
+        "Ideal for costume parties"
+      ],
+      "fit": "Available in various sizes for different age groups"
+    }
+  ]
+  
+  

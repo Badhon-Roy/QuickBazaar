@@ -33,7 +33,7 @@ const Navbar = () => {
     const subTotalPrice = totalPrice?.toFixed(2);
 
     return (
-        <div className="bg-gray-300 sticky top-0 z-10">
+        <div className="bg-white sticky top-0 z-10">
             <div className="navbar max-w-[1400px] mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -73,8 +73,8 @@ const Navbar = () => {
                             </li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">
-                        <img src="https://ciseco-nextjs.vercel.app/_next/static/media/logo.14d0e71d.svg" alt="" />
+                    <a >
+                        <img className="w-[80px] object-contain" src="https://i.ibb.co/b6828Lq/Colorful-Illustrative-Online-Shop-Logo-5.png" alt="" />
                     </a>
                 </div>
                 <div className="navbar-center hidden md:flex">

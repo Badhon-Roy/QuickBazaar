@@ -1,0 +1,1034 @@
+[
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://m.media-amazon.com/images/I/61ftRB6KycL.jpg",
+      "https://m.media-amazon.com/images/I/61ftRB6KycL._AC_UF1000,1000_QL80_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRfAph-w3AnTG48n9uwGEPkcQlzAL6DW_RfU9JoaNXo0aL_0szJrbH8too58a9s48pvc&usqp=CAU"
+    ],
+    "type": "smartwatch",
+    "price": 149.99,
+    "discount": 15,
+    "quantity": 20,
+    "rating": 4.7,
+    "product_color": "black",
+    "product_name": "Samsung Galaxy Watch 4",
+    "product_details": "The Samsung Galaxy Watch 4 is a feature-packed smartwatch that seamlessly integrates with your Samsung Galaxy devices. With a stunning black finish, it not only looks great but also offers advanced health and fitness tracking, a vibrant display, and long-lasting battery life.",
+    "features": [
+      "Health and fitness tracking",
+      "Integrates with Samsung Galaxy devices",
+      "Vibrant display",
+      "Long-lasting battery life",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://gadgetmonkeybd.com/public/uploads/all/cof0MxW9RY6V5wbXng4WbxhJSlmlOyHDhSv5dAHd.png",
+      "https://m.media-amazon.com/images/I/615ekapl+pL.jpg",
+      "https://www.apple.com/newsroom/images/tile-images/Apple_airpods-pro_new-design-102819.jpg.news_app_ed.jpg"
+    ],
+    "type": "wireless earbuds",
+    "price": 99.99,
+    "discount": 10,
+    "quantity": 30,
+    "rating": 4.5,
+    "product_color": "white",
+    "product_name": "Apple AirPods Pro",
+    "product_details": "Experience immersive sound with the Apple AirPods Pro. These wireless earbuds feature active noise cancellation, a comfortable in-ear design, and seamless integration with Apple devices. The sleek white color adds a touch of elegance to your listening experience.",
+    "features": [
+      "Active noise cancellation",
+      "Comfortable in-ear design",
+      "Seamless integration with Apple devices",
+      "Wireless charging",
+      "Sweat and water-resistant"
+    ],
+    "fit": "In-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Arcticsky_2080a_euna.png",
+      "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202103/oneplus-9-leak-ishan-x675.jpg?ZoidiGxbl8JHOaasO47WHaAJg0FCcs9s?size=750:*",
+      "https://www.photographyblog.com/uploads/entryImages/_1280xAUTO_crop_center-center_none/oneplus_9_pro_review.jpg"
+    ],
+    "type": "smartphone",
+    "price": 799.99,
+    "discount": 20,
+    "quantity": 15,
+    "rating": 4.8,
+    "product_color": "blue",
+    "product_name": "OnePlus 9 Pro",
+    "product_details": "The OnePlus 9 Pro is a flagship smartphone that delivers exceptional performance. With a stunning blue color, it features a powerful camera system, a smooth 120Hz display, and fast charging capabilities. Elevate your smartphone experience with the OnePlus 9 Pro.",
+    "features": [
+      "Powerful camera system",
+      "120Hz display",
+      "Fast charging",
+      "Flagship performance",
+      "5G connectivity"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://manofmany.com/wp-content/uploads/2020/01/Black-Apple-Airpods.jpg",
+      "https://www.apple.com/v/airpods-pro/d/images/meta/og__ch3csr9zmviq_overview.png",
+      "https://www.apple.com/v/airpods-pro/i/images/meta/og__eui2mpgzwyaa_overview.png"
+    ],
+    "type": "wireless earbuds",
+    "price": 89.99,
+    "discount": 8,
+    "quantity": 30,
+    "rating": 4.5,
+    "product_color": "black",
+    "product_name": "Apple AirPods Pro",
+    "product_details": "Experience immersive sound with the Apple AirPods Pro. These wireless earbuds feature active noise cancellation, a comfortable in-ear design, and seamless integration with Apple devices. The sleek white color adds a touch of elegance to your listening experience.",
+    "features": [
+      "Active noise cancellation",
+      "Comfortable in-ear design",
+      "Seamless integration with Apple devices",
+      "Wireless charging",
+      "Sweat and water-resistant"
+    ],
+    "fit": "In-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://hnsfpau.imgix.net/5/images/detailed/147/B085G63QHT_001.jpg?fit=fill&bg=0FFF&w=1500&h=844&auto=format,compress",
+      "https://cdn.rona.ca/images/64145046_L.jpg",
+      "https://cdn.idealo.com/folder/Product/200727/9/200727951/s3_produktbild_max_6/amazon-echo-dot-4th-gen-charcoal-grey.jpg"
+    ],
+    "type": "smart speaker",
+    "price": 129.99,
+    "discount": 12,
+    "quantity": 25,
+    "rating": 4.6,
+    "product_color": "charcoal",
+    "product_name": "Amazon Echo (4th Gen)",
+    "product_details": "The Amazon Echo (4th Gen) is a versatile smart speaker that brings voice control to your home. With a stylish charcoal finish, it features improved audio quality, smart home integration, and built-in Alexa. Enjoy hands-free convenience with the Amazon Echo.",
+    "features": [
+      "Improved audio quality",
+      "Smart home integration",
+      "Built-in Alexa",
+      "Voice control",
+      "Stylish design"
+    ],
+    "fit": "Tabletop"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://i0.wp.com/strongbee-web.s3.amazonaws.com/wp-content/uploads/sites/10/2022/08/31085645/right-png.png?fit=445%2C445&ssl=1",
+      "https://m.media-amazon.com/images/I/61xXdW1CUSL._AC_UF1000,1000_QL80_.jpg",
+      "https://image.coolblue.nl/content/6d4e7e5b85f4b8bea6509c85f55b8a38"
+    ],
+    "type": "fitness tracker",
+    "price": 79.99,
+    "discount": 8,
+    "quantity": 40,
+    "rating": 4.4,
+    "product_color": "purple",
+    "product_name": "Fitbit Charge 4",
+    "product_details": "Track your fitness journey with the Fitbit Charge 4. In a vibrant purple color, this fitness tracker offers built-in GPS, heart rate monitoring, sleep tracking, and various exercise modes. Stay connected and motivated with the Fitbit Charge 4.",
+    "features": [
+      "Built-in GPS",
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Exercise modes",
+      "Smartphone notifications"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://img.freepik.com/premium-photo/isolated-fitbit-charge-4-wrist-angle-shot-fitness-tracker-feat-white-background-clean_655090-800465.jpg",
+      "https://cdn.mos.cms.futurecdn.net/uAgSmtX6zRGmnAdqunEzwH.jpg",
+      "https://shop.apcom.eu/public/content-images/ms/product/fb168sbwts-03_big.png"
+    ],
+    "type": "fitness tracker",
+    "price": 79.99,
+    "discount": 8,
+    "quantity": 40,
+    "rating": 4.4,
+    "product_color": "white",
+    "product_name": "Fitbit Charge 4",
+    "product_details": "Track your fitness journey with the Fitbit Charge 4. In a vibrant purple color, this fitness tracker offers built-in GPS, heart rate monitoring, sleep tracking, and various exercise modes. Stay connected and motivated with the Fitbit Charge 4.",
+    "features": [
+      "Built-in GPS",
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Exercise modes",
+      "Smartphone notifications"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://m.media-amazon.com/images/I/81i8wx2ObIL._AC_UF1000,1000_QL80_.jpg",
+      "https://www.digitaltrends.com/wp-content/uploads/2020/03/fitbit_charge_4_full_inbox_lineup.jpg?fit=1500%2C1000&p=1",
+      "https://cdn.mos.cms.futurecdn.net/ZD5B6ggf92bf8vtJKBcBAJ.jpg"
+    ],
+    "type": "fitness tracker",
+    "price": 79.99,
+    "discount": 8,
+    "quantity": 40,
+    "rating": 4.4,
+    "product_color": "black",
+    "product_name": "Fitbit Charge 4",
+    "product_details": "Track your fitness journey with the Fitbit Charge 4. In a vibrant purple color, this fitness tracker offers built-in GPS, heart rate monitoring, sleep tracking, and various exercise modes. Stay connected and motivated with the Fitbit Charge 4.",
+    "features": [
+      "Built-in GPS",
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Exercise modes",
+      "Smartphone notifications"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/06/Sony-WH-1000XM4-profile.jpg",
+      "https://store.sony.co.nz/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dw72e2d384/images/WH1000XM4S/WH1000XM4S.png?sw=442&sh=442&sm=fit",
+      "https://store.sony.co.nz/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dw478d903d/images/WH1000XM4S/WH1000XM4S_1.png"
+    ],
+    "type": "headphones",
+    "price": 159.99,
+    "discount": 18,
+    "quantity": 20,
+    "rating": 4.9,
+    "product_color": "silver",
+    "product_name": "Sony WH-1000XM4 Wireless Headphones",
+    "product_details": "Immerse yourself in superior sound quality with the Sony WH-1000XM4 Wireless Headphones. The sleek silver design complements the industry-leading noise cancellation, touch sensor controls, and long battery life. Elevate your listening experience with Sony.",
+    "features": [
+      "Industry-leading noise cancellation",
+      "Touch sensor controls",
+      "Long battery life",
+      "High-quality sound",
+      "Comfortable over-ear design"
+    ],
+    "fit": "Over-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://www.fossil.com/on/demandware.static/-/Library-Sites-FossilSharedLibrary/default/dwba43b244/2020/FA20/set_1005_gen5_smartwatches/gen5_lm/1005_Gen5_Learn_More_Hero6_Mobile.gif",
+      "https://m.media-amazon.com/images/I/71LXfEmoJVL._AC_UY1000_.jpg",
+      "https://i.pcmag.com/imagery/reviews/07p0VFlvtTOsJWZhqdoJzkf-3..v1571361161.jpg"
+    ],
+    "type": "smartwatch",
+    "price": 169.99,
+    "discount": 15,
+    "quantity": 18,
+    "rating": 4.7,
+    "product_color": "rose gold",
+    "product_name": "Fossil Gen 5 Carlyle Smartwatch",
+    "product_details": "Stay connected and stylish with the Fossil Gen 5 Carlyle Smartwatch. In an elegant rose gold color, this smartwatch features Wear OS by Google, heart rate tracking, GPS, and customizable watch faces. Enhance your everyday life with Fossil Gen 5.",
+    "features": [
+      "Wear OS by Google",
+      "Heart rate tracking",
+      "GPS",
+      "Customizable watch faces",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://fossil.scene7.com/is/image/FossilPartners/FTW4024_main?$sfcc_fos_large$",
+      "https://m.media-amazon.com/images/I/718JsWdpDgL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ZwcTM8Z7L._AC_UY1000_.jpg"
+    ],
+    "type": "smartwatch",
+    "price": 169.99,
+    "discount": 15,
+    "quantity": 18,
+    "rating": 4.7,
+    "product_color": "black",
+    "product_name": "Fossil Gen 5 Carlyle Smartwatch",
+    "product_details": "Stay connected and stylish with the Fossil Gen 5 Carlyle Smartwatch. In an elegant rose gold color, this smartwatch features Wear OS by Google, heart rate tracking, GPS, and customizable watch faces. Enhance your everyday life with Fossil Gen 5.",
+    "features": [
+      "Wear OS by Google",
+      "Heart rate tracking",
+      "GPS",
+      "Customizable watch faces",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fgopro-hero-9-black-action-camera-release-001.jpg?cbr=1&q=90",
+      "https://media.wired.com/photos/5f615b58d2d0ba5ef0f2303c/master/pass/Gear-hero9-black-front-SOURCE-GoPro.jpg",
+      "https://cdn.mos.cms.futurecdn.net/3NwbszmHSVSwi2nfcVgUB6.jpg"
+    ],
+    "type": "action camera",
+    "price": 249.99,
+    "discount": 20,
+    "quantity": 15,
+    "rating": 4.8,
+    "product_color": "black",
+    "product_name": "GoPro Hero 9 Black",
+    "product_details": "Capture your adventures with the GoPro Hero 9 Black. The sleek black action camera offers stunning 5K video, 20MP photos, and advanced stabilization. With a waterproof design and a front-facing display, it's perfect for recording your epic moments.",
+    "features": [
+      "5K video recording",
+      "20MP photos",
+      "Advanced stabilization",
+      "Waterproof design",
+      "Front-facing display"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://shop.samsung.com/ie/images/products/27511/14946/2000x2000/SM-G998BZKDEUA.webp",
+      "https://images.samsung.com/sg/smartphones/galaxy-s21/buy/s21_ultra_phantomblack_colorselection_720x720_img.jpg",
+      "https://assets.mspimages.in/gear/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_product_shots_3.jpg"
+    ],
+    "type": "smartphone",
+    "price": 899.99,
+    "discount": 25,
+    "quantity": 12,
+    "rating": 4.9,
+    "product_color": "black",
+    "product_name": "Samsung Galaxy S21 Ultra",
+    "product_details": "Experience the ultimate smartphone performance with the Samsung Galaxy S21 Ultra. In a sleek phantom black color, it features a powerful camera system with 108MP resolution, 8K video recording, and a stunning 6.8-inch AMOLED display.",
+    "features": [
+      "108MP camera system",
+      "8K video recording",
+      "6.8-inch AMOLED display",
+      "Powerful performance",
+      "5G connectivity"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://assets-global.website-files.com/5b44edefca321a1e2d0c2aa6/6158aa354a22b3b4d3dde1d3_Dimensions-Digital-Smart-Home-Devices-Google-Nest-Audio-3D.jpg",
+      "https://cdn.vox-cdn.com/thumbor/f0nFQtdypnmGJ9SQJWj1Ll2B-ZI=/0x0:5248x3499/1400x1400/filters:focal(2692x2433:2693x2434)/cdn.vox-cdn.com/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg",
+      "https://i.insider.com/5f74d6650ab50d00184ad61f?width=1136&format=jpeg"
+    ],
+    "type": "smart speaker",
+    "price": 149.99,
+    "discount": 12,
+    "quantity": 22,
+    "rating": 4.6,
+    "product_color": "blue",
+    "product_name": "Google Nest Audio",
+    "product_details": "Elevate your home audio experience with the Google Nest Audio. The sandstone-colored smart speaker delivers rich, powerful sound and integrates seamlessly with your Google ecosystem. With Google Assistant built-in, it's your smart home companion.",
+    "features": [
+      "Rich, powerful sound",
+      "Seamless integration with Google ecosystem",
+      "Google Assistant built-in",
+      "Voice control",
+      "Modern design"
+    ],
+    "fit": "Tabletop"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://fesports.com.au/stock/10453_7OXuid_original.jpg",
+      "https://www.garmin.com.my/m/my/g/products/vivosmart4-blue-iamge-03.png",
+      "https://www.garmin.com.my/m/my/g/products/vivosmart4-blue-iamge-05.png"
+    ],
+    "type": "fitness tracker",
+    "price": 69.99,
+    "discount": 8,
+    "quantity": 35,
+    "rating": 4.4,
+    "product_color": "teal",
+    "product_name": "Garmin Vivosmart 4",
+    "product_details": "Achieve your fitness goals with the Garmin Vivosmart 4. In a vibrant teal color, this slim fitness tracker offers advanced health monitoring, Pulse Ox sensor, Body Battery energy tracking, and a stylish design. Stay active and connected with Garmin.",
+    "features": [
+      "Advanced health monitoring",
+      "Pulse Ox sensor",
+      "Body Battery energy tracking",
+      "Slim design",
+      "Smart notifications"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://assets.bosecreative.com/transform/6831e32b-2824-4b7e-a26d-59ec2593a44a/CREA-1001_QCUH24_ThreeQuarter_Left_White_1M-F_x3a_RGB",
+      "https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dw09ef4280/images/065/20/65204224-2.jpg?sw=1000&sh=1000&sm=fit",
+      "https://www.cnet.com/a/img/resize/30dd6aa025ddf09a9b66a751b467cecb2dfeba3c/hub/2021/08/30/e452b1a8-5605-488a-ad2b-951c5ab0aef0/bose-qc45-white-smoke.jpg?auto=webp&fit=crop&height=675&width=1200"
+    ],
+    "type": "headphones",
+    "price": 129.99,
+    "discount": 15,
+    "quantity": 25,
+    "rating": 4.7,
+    "product_color": "white",
+    "product_name": "Bose QuietComfort 35 II",
+    "product_details": "Immerse yourself in superior sound quality with the Bose QuietComfort 35 II headphones. The midnight blue color complements the world-class noise cancellation, comfortable over-ear design, and long battery life. Escape into your music with Bose.",
+    "features": [
+      "World-class noise cancellation",
+      "Comfortable over-ear design",
+      "Long battery life",
+      "Premium sound quality",
+      "Voice assistant integration"
+    ],
+    "fit": "Over-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_le_midnight_blue_hero.PNG/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2016/06/bose-quietcomfort-44-1.jpg",
+      "https://assets.bosecreative.com/transform/1a189a0c-ad2b-47bb-960a-530def956f0e/quietcomfort_35_gaming_headset_silo_3_1920_1920"
+    ],
+    "type": "headphones",
+    "price": 159.99,
+    "discount": 15,
+    "quantity": 25,
+    "rating": 4.7,
+    "product_color": "black",
+    "product_name": "Bose QuietComfort 35 II",
+    "product_details": "Immerse yourself in superior sound quality with the Bose QuietComfort 35 II headphones. The midnight blue color complements the world-class noise cancellation, comfortable over-ear design, and long battery life. Escape into your music with Bose.",
+    "features": [
+      "World-class noise cancellation",
+      "Comfortable over-ear design",
+      "Long battery life",
+      "Premium sound quality",
+      "Voice assistant integration"
+    ],
+    "fit": "Over-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://media.ldlc.com/r1600/ld/products/00/05/91/02/LD0005910223_1.jpg",
+      "https://www.techdenbd.com/backend/img/product/huawei-watch-gt-3-46mm-smart-watch-buy-online-2022-04-28-626a2db907f89.jpg",
+      "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt3/img/4/huawei-watch-gt-3-42mm-watch3.png"
+    ],
+    "type": "smartwatch",
+    "price": 139.99,
+    "discount": 10,
+    "quantity": 28,
+    "rating": 4.5,
+    "product_color": "silver",
+    "product_name": "Huawei Watch GT 3",
+    "product_details": "The Huawei Watch GT 3 is a stylish smartwatch that blends fashion with functionality. In a sleek silver color, it features a vibrant AMOLED display, advanced health tracking, long battery life, and a variety of watch faces. Stay connected with Huawei.",
+    "features": [
+      "Vibrant AMOLED display",
+      "Advanced health tracking",
+      "Long battery life",
+      "Multiple watch faces",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://www1.djicdn.com/cms_uploads/ckeditor/pictures/2251/content_572c6af6e01cc5605775ae0d728c320a.jpg",
+      "https://www.cined.com/content/uploads/2023/08/DJI-Osmo-Action-4-featured2-1300x750.jpg",
+      "https://stormsend1.djicdn.com/tpc/uploads/spu/cover/e1b8110f65a5a3321fe487f0a1a061ac@retina_small.png"
+    ],
+    "type": "action camera",
+    "price": 199.99,
+    "discount": 18,
+    "quantity": 18,
+    "rating": 4.8,
+    "product_color": "black",
+    "product_name": "DJI Osmo Action Camera",
+    "product_details": "Capture stunning moments with the DJI Osmo Action Camera. The sleek white camera offers 4K video recording, RockSteady stabilization, and dual screens for easy framing. Whether you're on land or underwater, the DJI Osmo delivers exceptional footage.",
+    "features": [
+      "4K video recording",
+      "RockSteady stabilization",
+      "Dual screens",
+      "Waterproof design",
+      "Voice control"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://snapcraze.co.za/wp-content/uploads/2020/08/note-20-ultra-mystic-bronze-1.jpg",
+      "https://snapcraze.co.za/wp-content/uploads/2020/08/Samsung-Galaxy-Note-20-Mystic-Bronze-With-S-Pen.jpg",
+      "https://vipvendor.ng/wp-content/uploads/2021/05/61gjAy9vgYL.jpg"
+    ],
+    "type": "smartphone",
+    "price": 749.99,
+    "discount": 22,
+    "quantity": 15,
+    "rating": 4.9,
+    "product_color": "mystic bronze",
+    "product_name": "Samsung Galaxy Note 20 Ultra",
+    "product_details": "Unleash your creativity with the Samsung Galaxy Note 20 Ultra. In a stunning mystic bronze color, this smartphone features a powerful S Pen, pro-grade camera system, and a vibrant AMOLED display. Elevate your productivity with the Galaxy Note 20 Ultra.",
+    "features": [
+      "Powerful S Pen",
+      "Pro-grade camera system",
+      "Vibrant AMOLED display",
+      "High-performance",
+      "5G connectivity"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://i.rtings.com/assets/products/R8g7Votp/sonos-one-gen-2/design-large.jpg",
+      "https://cdn11.bigcommerce.com/s-8ek7z3h3jn/images/stencil/1280x1280/products/4584/28393/sonos-sonos-one-gen-2-or-oneg2uk1-or-white__25804.1660065354.jpg?c=1",
+      "https://www.projectors.co.uk/media/catalog/product/cache/90cf8aa233bbe36808439b7738134432/s/o/sonos-one-white.jpg"
+    ],
+    "type": "smart speaker",
+    "price": 119.99,
+    "discount": 15,
+    "quantity": 20,
+    "rating": 4.6,
+    "product_color": "chalk",
+    "product_name": "Sonos One (Gen 2)",
+    "product_details": "Immerse yourself in superior audio with the Sonos One (Gen 2) smart speaker. In a clean chalk color, it delivers rich, room-filling sound and integrates seamlessly with popular streaming services. With voice control, it's a perfect addition to your smart home setup.",
+    "features": [
+      "Rich, room-filling sound",
+      "Seamless integration with streaming services",
+      "Voice control",
+      "Modern design",
+      "Multi-room audio"
+    ],
+    "fit": "Tabletop"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://img.fruugo.com/product/1/78/974243781_max.jpg",
+      "https://www.kibotek.com/wp-content/uploads/2022/03/correa-cool-para-xiaomi-mi-band-5-mi-band-6-amazfit-band-5-liso-verde-1200x1200.jpg",
+      "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8427542117638_1.jpg"
+    ],
+    "type": "fitness tracker",
+    "price": 89.99,
+    "discount": 10,
+    "quantity": 30,
+    "rating": 4.4,
+    "product_color": "lime green",
+    "product_name": "Xiaomi Mi Band 6",
+    "product_details": "Track your fitness with the Xiaomi Mi Band 6. In a vibrant lime green color, this fitness tracker offers a large AMOLED display, heart rate monitoring, sleep tracking, and various workout modes. Stay active and stylish with the Xiaomi Mi Band 6.",
+    "features": [
+      "Large AMOLED display",
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Multiple workout modes",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://ae01.alicdn.com/kf/Hb0e43430929a46079e6aa434db7e6288P/Jabra-Elite-85h-Wireless-Noise-Canceling-Headphones-Over-Ear-Compatible-with-iPhone-Android-Built-in-Mic.jpg",
+      "https://www.jabra.sg/-/media/Images/Products/Jabra-Elite-85h/Layout/KSP6_DigitalAssistants/voice_assistants_headphones.png?la=en-SG",
+      "https://assets2.jabra.com/d/d/5/0/dd5030bb6972266a6e39255be1a8a3798eb31cc3_Jabra_Evolve2_85_Teams_02.png?w=300&h=300&auto=format,compress"
+    ],
+    "type": "headphones",
+    "price": 179.99,
+    "discount": 18,
+    "quantity": 22,
+    "rating": 4.9,
+    "product_color": "phantom gray",
+    "product_name": "Jabra Elite 85h Wireless Headphones",
+    "product_details": "Immerse yourself in premium sound quality with the Jabra Elite 85h Wireless Headphones. The sophisticated phantom gray design complements the SmartSound technology, long battery life, and comfortable over-ear fit. Elevate your listening experience with Jabra.",
+    "features": [
+      "SmartSound technology",
+      "Long battery life",
+      "Comfortable over-ear fit",
+      "Active noise cancellation",
+      "Voice assistant integration"
+    ],
+    "fit": "Over-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://ph.garmin.com/m/ph/g/products/venu-black-gold-image-01.png",
+      "https://i.gadgets360cdn.com/large/garmin_venu_2_plus_india_website_1642583471757.jpg",
+      "https://s.yimg.com/ny/api/res/1.2/yjLx7_eMvrIX1cnF40v6GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/33986310-a353-11eb-bffb-86f1bc208132"
+    ],
+    "type": "smartwatch",
+    "price": 159.99,
+    "discount": 12,
+    "quantity": 25,
+    "rating": 4.7,
+    "product_color": "black",
+    "product_name": "Garmin Venu 2",
+    "product_details": "Stay connected and active with the Garmin Venu 2 smartwatch. In an elegant gold color, it features a vibrant AMOLED display, advanced health tracking, GPS, and customizable watch faces. Elevate your fitness journey with the Garmin Venu 2.",
+    "features": [
+      "Vibrant AMOLED display",
+      "Advanced health tracking",
+      "GPS",
+      "Customizable watch faces",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://m.media-amazon.com/images/I/41l7A-9fQ7L._AC_UF1000,1000_QL80_.jpg",
+      "https://cdn.dxomark.com/wp-content/uploads/medias/post-96339/002_galaxyzfold3_5g_phantomblack_back115_thumb-1.jpg",
+      "https://image-us.samsung.com/us/smartphones/galaxy-z-fold3-5g/gallery/black/Gallery-Q2-MainKV_Foldunfold_Black-1600x1200.jpg?$product-details-jpg$"
+    ],
+    "type": "smartphone",
+    "price": 899.99,
+    "discount": 20,
+    "quantity": 15,
+    "rating": 4.8,
+    "product_color": "cosmic black",
+    "product_name": "Samsung Galaxy Z Fold 3",
+    "product_details": "Experience the future of smartphones with the Samsung Galaxy Z Fold 3. In a sleek cosmic black color, this foldable device combines a large immersive display with a compact design. Enjoy multitasking, S Pen support, and a versatile camera system.",
+    "features": [
+      "Foldable design",
+      "Immersive display",
+      "S Pen support",
+      "Versatile camera system",
+      "Powerful performance"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://ucarecdn.com/bb2173b9-7558-48d1-8ef7-4ca7df82fe6e/-/format/auto/-/preview/3000x3000/-/quality/lighter/1_01.jpg",
+      "https://appleempirebd.com/wp-content/uploads/2023/07/Amazfit-GTR-3-Pro-Smartwatch-Infinite-Black-1.webp",
+      "https://us.amazfit.com/cdn/shop/products/6391ace427ade714b70fb966024ae804.jpg?v=1633777659"
+    ],
+    "type": "smartwatch",
+    "price": 199.99,
+    "discount": 15,
+    "quantity": 18,
+    "rating": 4.7,
+    "product_color": "onyx black",
+    "product_name": "Amazfit GTR 3",
+    "product_details": "Stay active and connected with the Amazfit GTR 3 smartwatch. In an elegant onyx black color, it features a high-resolution AMOLED display, advanced health tracking, long battery life, and customizable watch faces. Elevate your fitness journey with Amazfit.",
+    "features": [
+      "High-resolution AMOLED display",
+      "Advanced health tracking",
+      "Long battery life",
+      "Customizable watch faces",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa0adb35b/JBL_Free_Hero_Black-1605x1605px.png?sw=537&sfrm=png",
+      "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw069e1898/JBL_FREE_floating1-1605x1605px.png?sw=537&sfrm=png",
+      "https://mm.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe1a3d59/JBL_FREEx_Hero_Black.png"
+    ],
+    "type": "wireless earbuds",
+    "price": 129.99,
+    "discount": 12,
+    "quantity": 25,
+    "rating": 4.6,
+    "product_color": "sapphire blue",
+    "product_name": "JBL Free X True Wireless Earbuds",
+    "product_details": "Enjoy wire-free music with the JBL Free X True Wireless Earbuds. The stylish sapphire blue earbuds deliver immersive sound, a secure fit, and hands-free calling. With a compact charging case, they are perfect for on-the-go listening.",
+    "features": [
+      "Immersive sound",
+      "Secure fit",
+      "Hands-free calling",
+      "Compact charging case",
+      "Bluetooth connectivity"
+    ],
+    "fit": "In-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://m.media-amazon.com/images/I/51DZCJVgXNL.jpg",
+      "https://kolarivision.com/wp-content/uploads/2023/06/RX0-II.jpg",
+      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2019/05/rx0-o-1024x576.jpg"
+    ],
+    "type": "action camera",
+    "price": 299.99,
+    "discount": 25,
+    "quantity": 12,
+    "rating": 4.9,
+    "product_color": "black",
+    "product_name": "Sony RX0 II Ultra-Compact Camera",
+    "product_details": "Capture stunning visuals with the Sony RX0 II Ultra-Compact Camera. In a vibrant ruby red color, this compact camera features 4K video recording, a 1-inch sensor, and advanced image stabilization. Ideal for adventurers and content creators.",
+    "features": [
+      "4K video recording",
+      "1-inch sensor",
+      "Advanced image stabilization",
+      "Waterproof design",
+      "Ultra-compact size"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://reviewed-com-res.cloudinary.com/image/fetch/s--s-NCSD-l--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1593717019000/bose-home-speaker-300-lifestyle.jpg",
+      "https://avshack.in/cdn/shop/products/1_62fb53ed-4025-4267-920d-ff55e7e21ae6.jpg?v=1648897841&width=1214",
+      "https://i.rtings.com/assets/products/IfP99THt/bose-home-speaker-300/design-large.jpg"
+    ],
+    "type": "smart speaker",
+    "price": 109.99,
+    "discount": 10,
+    "quantity": 30,
+    "rating": 4.5,
+    "product_color": "sand",
+    "product_name": "Bose Home Speaker 300",
+    "product_details": "Bring powerful sound to your home with the Bose Home Speaker 300. In a stylish sand color, this smart speaker offers room-filling audio, built-in voice assistants, and compatibility with popular streaming services. Elevate your home entertainment with Bose.",
+    "features": [
+      "Room-filling audio",
+      "Built-in voice assistants",
+      "Compatibility with streaming services",
+      "Voice control",
+      "Modern design"
+    ],
+    "fit": "Tabletop"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://www.gpscentral.ca/wp-content/uploads/Garmin_Lily_Sport_pink_1.webp",
+      "https://www.gpscentral.ca/wp-content/uploads/Garmin_Lily_Sport_pink_2.webp",
+      "https://res.garmin.com/transform/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_400,q_auto,w_400/c_pad,h_400,w_400/v1/Product_Images/en/products/010-02384-03/v/lf-xl?pgw=1"
+    ],
+    "type": "fitness tracker",
+    "price": 79.99,
+    "discount": 8,
+    "quantity": 40,
+    "rating": 4.4,
+    "product_color": "coral",
+    "product_name": "Garmin Lily Sport Fitness Tracker",
+    "product_details": "Stay active with the Garmin Lily Sport Fitness Tracker. In a vibrant coral color, this slim fitness tracker combines style with functionality, offering advanced health tracking, menstrual cycle tracking, and a sunlight-readable display. Empower your wellness journey with Garmin.",
+    "features": [
+      "Advanced health tracking",
+      "Menstrual cycle tracking",
+      "Slim design",
+      "Sunlight-readable display",
+      "Smart notifications"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://eu.sennheiser-hearing.com/cdn/shop/products/660S2.1_530x@2x.png?v=1674735602",
+      "https://avstore.in/cdn/shop/products/AVStore-Sennheiser-HD-660-S-Side.jpg?v=1613995414",
+      "https://m.media-amazon.com/images/I/71kC1BXo9PL.jpg"
+    ],
+    "type": "headphones",
+    "price": 149.99,
+    "discount": 18,
+    "quantity": 20,
+    "rating": 4.8,
+    "product_color": "graphite",
+    "product_name": "Sennheiser HD 660 S Open-Back Headphones",
+    "product_details": "Immerse yourself in audiophile-grade sound with the Sennheiser HD 660 S Open-Back Headphones. The sleek graphite design complements the open-back architecture, delivering a natural and spatial sound experience. Elevate your listening with Sennheiser.",
+    "features": [
+      "Audiophile-grade sound",
+      "Open-back architecture",
+      "Comfortable fit",
+      "Detachable cable",
+      "High-quality materials"
+    ],
+    "fit": "Over-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://bdelectronics.net/images/product/2023-02/large_PwdoD0rkCy.jpg",
+      "https://m.media-amazon.com/images/I/61dNlZy1CGL.jpg",
+      "https://www.mobileinbd.co/wp-content/uploads/2023/07/Motorola-Edge-30-Pro-Silver.jpg"
+    ],
+    "type": "smartphone",
+    "price": 749.99,
+    "discount": 22,
+    "quantity": 15,
+    "rating": 4.9,
+    "product_color": "silver",
+    "product_name": "Motorola Edge+ 5G",
+    "product_details": "Experience cutting-edge technology with the Motorola Edge+ 5G smartphone. In a sleek lunar silver color, it features a 108MP camera system, 144Hz OLED display, and powerful 5G connectivity. Stay ahead of the curve with Motorola.",
+    "features": [
+      "108MP camera system",
+      "144Hz OLED display",
+      "Powerful 5G connectivity",
+      "Long-lasting battery",
+      "Curved-edge design"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://i.gadgets360cdn.com/large/Motorola_Edge_40_Pro_Evan_Blass_big_ndtv_1678085585298.jpg",
+      "https://motorolaus.vtexassets.com/arquivos/ids/163415/Motorola-edge-pdp-render-MoonlessNight-4-zzr7nu3u.png?v=638277091240970000",
+      "https://www.mobiledokan.co/wp-content/uploads/2021/07/Motorola-Edge-20-Fusion-Electric-Graphite.jpg"
+    ],
+    "type": "smartphone",
+    "price": 842.99,
+    "discount": 25,
+    "quantity": 15,
+    "rating": 4.9,
+    "product_color": "black",
+    "product_name": "Motorola Edge+ 5G",
+    "product_details": "Experience cutting-edge technology with the Motorola Edge+ 5G smartphone. In a sleek lunar silver color, it features a 108MP camera system, 144Hz OLED display, and powerful 5G connectivity. Stay ahead of the curve with Motorola.",
+    "features": [
+      "108MP camera system",
+      "144Hz OLED display",
+      "Powerful 5G connectivity",
+      "Long-lasting battery",
+      "Curved-edge design"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://www.mobiledokan.co/wp-content/uploads/2020/03/Motorola-Edge-Plus-Blue-500x500.jpg",
+      "https://m.media-amazon.com/images/I/41aUCiPEtVL._SL500_.jpg",
+      "https://motorolaroe.vtexassets.com/arquivos/ids/156575/motorola-edge-20-pro-pdp-render-8-Baltic-blue-gq89b9ir.png?v=637630881043330000"
+    ],
+    "type": "smartphone",
+    "price": 749.99,
+    "discount": 22,
+    "quantity": 15,
+    "rating": 4.9,
+    "product_color": "blue",
+    "product_name": "Motorola Edge+ 5G",
+    "product_details": "Experience cutting-edge technology with the Motorola Edge+ 5G smartphone. In a sleek lunar silver color, it features a 108MP camera system, 144Hz OLED display, and powerful 5G connectivity. Stay ahead of the curve with Motorola.",
+    "features": [
+      "108MP camera system",
+      "144Hz OLED display",
+      "Powerful 5G connectivity",
+      "Long-lasting battery",
+      "Curved-edge design"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://leronza.com/wp-content/uploads/2020/09/24k-gold-apple-watch-series-7-with-milanese-strap.png",
+      "https://i.ytimg.com/vi/oXSr3wcQFN4/maxresdefault.jpg",
+      "https://urrem.dk/cdn/shop/products/lcw01-56-001-1-a_1200x1200.jpg?v=1689024623"
+    ],
+    "type": "smartwatch",
+    "price": 179.99,
+    "discount": 15,
+    "quantity": 22,
+    "rating": 4.6,
+    "product_color": "gold",
+    "product_name": "Apple Watch Series 7",
+    "product_details": "Stay connected and active with the Apple Watch Series 7. In an elegant gold color, this smartwatch features a larger and more durable display, advanced health tracking, and fast charging capabilities. Elevate your wrist with Apple.",
+    "features": [
+      "Larger and more durable display",
+      "Advanced health tracking",
+      "Fast charging",
+      "Customizable watch faces",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://s3.amazonaws.com/pr-prd-live-dolphin-upload-cfn/sites/260/2022/10/26001206/1_LinkBudsS_Standard_black_Earth_Blue_8000.jpg",
+      "https://s3.amazonaws.com/pr-prd-live-dolphin-upload-cfn/sites/260/2022/10/26001217/3_LinkBudsS_wearing_Earth_Blue.jpg",
+      "https://s3.amazonaws.com/pr-prd-live-dolphin-upload-cfn/sites/260/2022/10/26001247/LinkBudsS_KV-for-web_Earth_Blue.jpg"
+    ],
+    "type": "wireless earbuds",
+    "price": 109.99,
+    "discount": 12,
+    "quantity": 25,
+    "rating": 4.7,
+    "product_color": "peacock blue",
+    "product_name": "Sony WF-1000XM4 True Wireless Earbuds",
+    "product_details": "Immerse yourself in superior sound quality with the Sony WF-1000XM4 True Wireless Earbuds. The peacock blue earbuds feature industry-leading noise cancellation, high-quality audio, and long battery life. Experience wireless freedom with Sony.",
+    "features": [
+      "Industry-leading noise cancellation",
+      "High-quality audio",
+      "Long battery life",
+      "Touch controls",
+      "Compact charging case"
+    ],
+    "fit": "In-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://m.media-amazon.com/images/I/51EAegWF7vL._AC_UF1000,1000_QL80_.jpg",
+      "https://www.bdshop.com/pub/media/catalog/product/y/i/xiaomi-yi-4k-action-camera-global-version.jpg",
+      "https://oss.yitechnology.com/actioncamera4kplus/action_plus_logo.png"
+    ],
+    "type": "action camera",
+    "price": 249.99,
+    "discount": 18,
+    "quantity": 18,
+    "rating": 4.8,
+    "product_color": "steel gray",
+    "product_name": "YI 4K+ Action Camera",
+    "product_details": "Capture your adventures in stunning 4K with the YI 4K+ Action Camera. The sleek steel gray camera features electronic image stabilization, voice control, and a touchscreen display. Whether you're hiking, biking, or diving, YI has you covered.",
+    "features": [
+      "4K video recording",
+      "Electronic image stabilization",
+      "Voice control",
+      "Touchscreen display",
+      "Waterproof design"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://expressiveaudio.com/cdn/shop/products/HK-Citation300-Hero-GRAY-1605x1605px.jpg?v=1654791813",
+      "https://www.cnet.com/a/img/resize/a70bbd7ff489a49832004d7b90564670d4d07847/hub/2020/05/28/97df6523-c979-449d-b19b-851d28989ee8/harman-kardon-citation-300.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "https://www.heynowhifi.com.au/cdn/shop/products/HK-Citation300-Hero-GRAY-1605x1605px.jpg?v=1639473153&width=1800"
+    ],
+    "type": "smart speaker",
+    "price": 129.99,
+    "discount": 15,
+    "quantity": 20,
+    "rating": 4.6,
+    "product_color": "white",
+    "product_name": "Harman Kardon Citation 300 Smart Speaker",
+    "product_details": "Immerse yourself in premium sound with the Harman Kardon Citation 300 Smart Speaker. In a sophisticated twilight blue color, it features Google Assistant, multi-room audio, and a sleek fabric design. Elevate your home audio with Harman Kardon.",
+    "features": [
+      "Premium sound quality",
+      "Google Assistant",
+      "Multi-room audio",
+      "Touch controls",
+      "Sleek fabric design"
+    ],
+    "fit": "Tabletop"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://i5.walmartimages.com/asr/d630ca6c-f206-46d9-bf7e-25db114d38f4.c0504d317028cd261b5d1c1d65ac8ee0.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+      "https://eleme.lv/media/products/ecom/image/product_large_8907_5081.jpg",
+      "https://www.polar.com/sa-en/img/static/ignite-2/gallery/ignite2-side-champagne.png"
+    ],
+    "type": "fitness tracker",
+    "price": 99.99,
+    "discount": 10,
+    "quantity": 35,
+    "rating": 4.4,
+    "product_color": "white",
+    "product_name": "Polar Ignite 2 Fitness Watch",
+    "product_details": "Ignite your fitness journey with the Polar Ignite 2 Fitness Watch. In a vibrant electric green color, this watch offers advanced heart rate tracking, built-in GPS, and personalized workout guidance. Stay motivated and achieve your fitness goals with Polar.",
+    "features": [
+      "Advanced heart rate tracking",
+      "Built-in GPS",
+      "Personalized workout guidance",
+      "Sleep tracking",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/product-carousel/rose-gold/alt/rosegold-01-solo3.jpg.large.2x.jpg",
+      "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/solo3-pdp-p01-rosegold.jpg",
+      "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/product-carousel/rose-gold/alt/rosegold-05-solo3.jpg"
+    ],
+    "type": "headphones",
+    "price": 169.99,
+    "discount": 18,
+    "quantity": 22,
+    "rating": 4.9,
+    "product_color": "rose gold",
+    "product_name": "Beats Solo Pro Wireless Headphones",
+    "product_details": "Immerse yourself in premium sound with the Beats Solo Pro Wireless Headphones. The stylish rose gold headphones feature active noise cancellation, Apple H1 chip for seamless connectivity, and up to 22 hours of battery life. Elevate your listening experience with Beats.",
+    "features": [
+      "Active noise cancellation",
+      "Apple H1 chip",
+      "Up to 22 hours of battery life",
+      "On-ear controls",
+      "Foldable design"
+    ],
+    "fit": "On-Ear"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://mobilebazar.com.bd/assets/img/Xiaomi-Mi-Watch-Revolve-Black.jpg",
+      "https://m.media-amazon.com/images/I/71NPqRmWj4L.jpg",
+      "https://www.startech.com.bd/image/cache/catalog/smart-watch/xiaomi/revolve-xmwt06/revolve-xmwt06-1-500x500.jpg"
+    ],
+    "type": "smartwatch",
+    "price": 159.99,
+    "discount": 12,
+    "quantity": 25,
+    "rating": 4.7,
+    "product_color": "midnight black",
+    "product_name": "Xiaomi Mi Watch Revolve",
+    "product_details": "Stay connected and active with the Xiaomi Mi Watch Revolve. In a sleek midnight black color, this smartwatch features a vibrant AMOLED display, comprehensive health tracking, and long battery life. Elevate your fitness journey with Xiaomi.",
+    "features": [
+      "Vibrant AMOLED display",
+      "Comprehensive health tracking",
+      "Long battery life",
+      "Multiple workout modes",
+      "Water-resistant"
+    ],
+    "fit": "Wrist"
+  },
+  {
+    "category_name": "Gadgets",
+    "images": [
+      "https://images.othoba.com/images/thumbs/0523855_sjcam-sj8-pro-small-action-camera-1080p-full-hd-sport-camera-4k-12x-optical-zoom-video-camera-wifi-p.webp",
+      "https://images.othoba.com/images/thumbs/0567583_sjcam-sj8-pro-small-professional-action-camera-best-price.webp",
+      "https://images.othoba.com/images/thumbs/0567584_sjcam-sj8-pro-small-professional-action-camera-best-price.webp"
+    ],
+    "type": "action camera",
+    "price": 199.99,
+    "discount": 15,
+    "quantity": 18,
+    "rating": 4.6,
+    "product_color": "white",
+    "product_name": "SJCAM SJ8 Pro 4K Action Camera",
+    "product_details": "Capture your adventures in stunning 4K with the SJCAM SJ8 Pro Action Camera. The arctic white camera features a touchscreen display, electronic image stabilization, and a waterproof design. Whether you're skiing, biking, or snorkeling, SJCAM has you covered.",
+    "features": [
+      "4K video recording",
+      "Touchscreen display",
+      "Electronic image stabilization",
+      "Waterproof design",
+      "Wide-angle lens"
+    ],
+    "fit": "Handheld"
+  },
+  {
+    "category_name": "Home & Kitchen",
+    "images": [
+      "https://m.media-amazon.com/images/I/51GII2x5AvL.jpg",
+      "https://m.media-amazon.com/images/I/61axEmY9o8L._AC_UF1000,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/41FpRJ5RZvL.jpg"
+    ],
+    "type": "Air Fryer",
+    "price": 89.99,
+    "discount": 8,
+    "quantity": 120,
+    "rating": 4.4,
+    "product_color": "Matte Black",
+    "product_name": "CrispMaster 5000",
+    "product_details": "Enjoy guilt-free frying with the CrispMaster 5000 Air Fryer. Its rapid air circulation technology cooks your favorite meals with up to 80% less fat. The intuitive touch controls and pre-set cooking modes make it easy to achieve crispy perfection every time. Say goodbye to oil splatters and hello to healthier, tastier meals.",
+    "features": [
+      "Rapid air circulation",
+      "Intuitive touch controls",
+      "Pre-set cooking modes",
+      "Matte black finish",
+      "Easy to clean"
+    ],
+    "fit": "Compact and versatile"
+  }
+]
