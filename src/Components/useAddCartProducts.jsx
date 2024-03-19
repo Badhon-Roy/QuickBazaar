@@ -9,7 +9,7 @@ const useAddCartProducts = () => {
     const { data, refetch: cartRefetch , isLoading : addCartLoading } = useQuery({
         queryKey: ['addProducts'],
         queryFn: async () => {
-            const res = await axios.get(`http://localhost:5000/addProducts?email=${user?.email}`)
+            const res = await axios.get(`https://quick-bazaar-com-server.vercel.app/addProducts?email=${user?.email}`)
             return res.data
         }
     })

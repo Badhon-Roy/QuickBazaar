@@ -64,7 +64,7 @@ const Register = () => {
         setShowPassword(!showPassword)
     }
     return (
-        <div className="bg-[#f8fafc] min-h-[92vh]">
+        <div className="min-h-[92vh]">
             <div className="max-w-[1400px] mx-auto mt-2 py-12 md:py-24">
                 <div>
                     <h1 className="md:text-5xl text-3xl font-bold text-center mb-8">Register Here</h1>
@@ -74,7 +74,7 @@ const Register = () => {
                         <img src="https://cdni.iconscout.com/illustration/premium/thumb/online-sign-up-4489361-3723268.png" alt="" />
                     </div>
                     <div className="md:w-2/4 mx-auto px-4">
-                        <div className="card shadow-2xl bg-base-100">
+                        <div className="card BG border shadow-2xl bg-base-100">
                             <div className="card-body">
                                 <form onSubmit={handleRegister}>
                                     <div className="form-control">
@@ -104,7 +104,7 @@ const Register = () => {
                                         <div className="relative">
                                             <input type={`${showPassword ? 'text' : 'password'}`} name="password" placeholder="password" className="input input-bordered w-full" required />
 
-                                            <p className="absolute right-5 top-4 text-xl" onClick={handleShowPassword}>
+                                            <p className="absolute text-black right-5 top-4 text-xl" onClick={handleShowPassword}>
                                                 {
                                                     showPassword ? <FaRegEyeSlash></FaRegEyeSlash> : <FaRegEye></FaRegEye>
                                                 }
@@ -117,13 +117,15 @@ const Register = () => {
                                         </label>
                                     </div>
                                     <div className="form-control mt-6">
-                                        <button className="btn bg-purple-500 hover:bg-purple-600 text-xl text-white">Register</button>
+                                        <button className="BTN">
+                                            <span className="md:text-xl">Register</span>
+                                        </button>
                                     </div>
                                 </form>
                                 {
                                     errorMassage && <p className="text-red-500">{errorMassage}</p>
                                 }
-                                <p>You have an account? <Link to="/login"> <span className="text-blue-600 font-bold cursor-pointer text-[18px]">Login</span></Link> </p>
+                                <p>You have an account? <Link to="/login"> <span className="TEXT font-bold cursor-pointer text-[18px]">Login</span></Link> </p>
                             </div>
                         </div>
                     </div>

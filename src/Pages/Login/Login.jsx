@@ -44,19 +44,19 @@ const Login = () => {
         setShowPassword(!showPassword)
     }
     return (
-        <div className="bg-[#f8fafc] min-h-[92vh]">
+        <div className=" min-h-[92vh]">
             <div className="max-w-[1400px] mx-auto mt-2 py-12 md:py-24">
                 <div>
                     <h1 className="md:text-5xl text-3xl font-bold text-center mb-8">Login now!</h1>
                 </div>
                 <div className="md:flex justify-between items-center lg:px-16 md:px-8">
                     <div className="lg:w-2/5 md:w-3/4 mx-auto px-4">
-                        <div className="card shadow-2xl bg-base-100">
+                        <div className="card  shadow-2xl BG border">
                             <div className="card-body">
                                 <form onSubmit={handleLogin}>
                                     <div className="form-control">
                                         <label className="label">
-                                            <span className="label-text text-xl">Email</span>
+                                            <span className="label-text text-xl text-white">Email</span>
                                         </label>
                                         <input type="email" name="email" required placeholder="email" className="input input-bordered" />
                                     </div>
@@ -67,7 +67,7 @@ const Login = () => {
                                         <div className="relative">
                                             <input type={`${showPassword ? 'text' : 'password'}`} name="password" placeholder="password" className="input input-bordered w-full" required />
 
-                                            <p className="absolute right-5 top-4 text-xl" onClick={handleShowPassword}>
+                                            <p className="absolute right-5 top-4 text-xl text-black" onClick={handleShowPassword}>
                                                 {
                                                     showPassword ? <FaRegEyeSlash></FaRegEyeSlash> : <FaRegEye></FaRegEye>
                                                 }
@@ -80,19 +80,19 @@ const Login = () => {
                                         </label>
                                     </div>
                                     <div className="form-control mt-6">
-                                        <button className="btn bg-blue-500 hover:bg-blue-600 text-xl text-white">Login</button>
+                                        <button  className="BTN"><span className="md:text-xl">Login</span></button>
                                     </div>
                                 </form>
                                 {
                                     errorMassage && <p className="text-red-500">{errorMassage}</p>
                                 }
-                                <button onClick={handleGoogleLogin} className="border-2 font-bold hover:bg-blue-300 w-[170px] text-xl flex items-center gap-3 p-1 rounded-lg">
-                                    <img className="w-8" src="https://www.pngall.com/wp-content/uploads/13/Google-Logo-PNG-Image-180x180.png" alt="" />
-                                    Google
+                                <button onClick={handleGoogleLogin} className="BTN">
+                                    <span className="flex items-center justify-center gap-3"><img className="w-8" src="https://www.pngall.com/wp-content/uploads/13/Google-Logo-PNG-Image-180x180.png" alt="" /> <span className="text-xl font-semibold">Google</span>
+                                    </span>
                                 </button>
 
 
-                                <p>Do not have an account? <Link to="/register"> <span className="text-blue-600 font-bold cursor-pointer text-[18px]">Register</span></Link> </p>
+                                <p>Do not have an account? <Link to="/register"> <span className="TEXT font-bold cursor-pointer text-[18px]">Register</span></Link> </p>
                             </div>
                         </div>
                     </div>

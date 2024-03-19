@@ -12,6 +12,9 @@ body{
 .BG{
   background-color: #0f172a;
 }
+.TEXT{
+  color: #ffb70d;
+}
 .BTN {
   position: relative;
   padding: 8px 32px;

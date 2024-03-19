@@ -7,7 +7,7 @@ const useProducts = ({category}) => {
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const response = await axios.get(`http://localhost:5000/products?category_name=${category}`);
+                const response = await axios.get(`https://quick-bazaar-com-server.vercel.app/products?category_name=${category}`);
                 setProducts(response.data);
             } catch (error) {
                 console.error('Error fetching products:', error.message);

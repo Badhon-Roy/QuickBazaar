@@ -5,7 +5,7 @@ import swal from "sweetalert";
 const ShowAddCart = ({ product ,cartRefetch }) => {
     const { _id, category_name, images, price, product_name } = product;
     const handleDelete = () => {
-        axios.delete(`http://localhost:5000/addProducts/${_id}`)
+        axios.delete(`https://quick-bazaar-com-server.vercel.app/addProducts/${_id}`)
             .then(res => {
                 if (res.data.deletedCount > 1) {
                     console.log(`Product with ID ${_id} deleted successfully.`);

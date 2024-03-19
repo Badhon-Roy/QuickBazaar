@@ -15,13 +15,13 @@ const ProductDetails = () => {
     const [,cartRefetch] = useAddCartProducts()
 
     useEffect(() => {
-        axios.get(`http://localhost:5000/products/${id}`)
+        axios.get(`https://quick-bazaar-com-server.vercel.app/products/${id}`)
             .then(res => setProduct(res.data))
     }, [id])
     const { data, refetch, isLoading } = useQuery({
         queryKey: ['comment'],
         queryFn: async () => {
-            const res = await axios.get(`http://localhost:5000/comment?product_id=${id}`)
+            const res = await axios.get(`https://quick-bazaar-com-server.vercel.app/comment?product_id=${id}`)
             return res.data
         }
     })
@@ -84,7 +84,7 @@ const ProductDetails = () => {
             time: currentTime
 
         }
-        axios.post('http://localhost:5000/comment', commentData)
+        axios.post('https://quick-bazaar-com-server.vercel.app/comment', commentData)
             .then(res => {
                 if (res.data.insertedId) {
                     swal("Add Your Comment", "thank you 🤗", "success")
@@ -120,7 +120,7 @@ const ProductDetails = () => {
             email: user?.email,
         };
 
-        axios.post('http://localhost:5000/addProducts', productData)
+        axios.post('https://quick-bazaar-com-server.vercel.app/addProducts', productData)
             .then(res => {
                 if (res.data.insertedId) {
                     swal("Product Added", "successful 👏", "success");

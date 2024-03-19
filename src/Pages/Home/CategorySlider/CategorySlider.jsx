@@ -10,21 +10,34 @@ const CategorySlider = () => {
     return (
         <div className="max-w-[1400px] mx-auto px-8 md:py-8">
             <div className="flex justify-between items-center">
-                <h2 className="text-4xl font-bold my-8">Choose Your Category</h2>
+                <h2 className="md:text-4xl text-xl font-bold my-8">Choose Your Category</h2>
                 <Link to={'/allCategory'}>
                     <button className="BTN">
-                        <span>See more</span>
+                        <span >See more</span>
                     </button>
                 </Link>
 
 
             </div>
-            <div className="mx-4">
+            <div>
                 <Swiper
-                    slidesPerView={2.5}
-                    spaceBetween={30}
+                    spaceBetween={15}
                     modules={[Pagination]}
                     className="mySwiper"
+                    breakpoints={{
+                        0:{
+                            slidesPerView : 1.2 ,
+                        },
+                        426: {
+                            slidesPerView: 1.5,
+                        },
+                        768: {
+                            slidesPerView: 2.5,
+                        },
+                        1024: {
+                            slidesPerView: 3.5,
+                        },
+                    }}
                 >
                     {categories.map(category => (
                         <SwiperSlide key={category._id}>
@@ -34,7 +47,7 @@ const CategorySlider = () => {
                                         <img className="border-[#333c49] w-full md:h-[250px] h-[250px] object-cover rounded-t-xl" src={category?.image} alt="Shoes" />
                                     </figure>
                                     <div className="card-body">
-                                        <h2 className="card-title capitalize">{category?.category}</h2>
+                                        <h2 className="md:text-xl capitalize">{category?.category}</h2>
                                     </div>
                                 </div>
                             </Link>

@@ -17,13 +17,13 @@ const Step = () => {
             </div>
             <div className="flex flex-col justify-center items-center text-center">
                 <img className="w-[150px] rounded-2xl" src="https://ciseco-nextjs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FHIW3img.63a41796.png&w=256&q=75" alt="" />
-                <p className="bg-[#fee2e2] px-2 rounded-full text-sm text-[#b86361] mt-8 mb-4">Step 3</p>
+                <p className="bg-[#fee2e2] px-2 rounded-full text-sm text-[#b861ab] mt-8 mb-4">Step 3</p>
                 <h3 className="font-medium text-[18px] mb-2">Fast shipping</h3>
                 <p className="lg:px-5">The carrier will confirm and ship quickly to you</p>
             </div>
             <div className="flex flex-col justify-center items-center text-center">
                 <img className="w-[150px] rounded-2xl" src="https://ciseco-nextjs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FHIW4img.10d25987.png&w=256&q=75" alt="" />
-                <p className="bg-[#fee2e2] px-2 rounded-full text-sm text-[#b86361] mt-8 mb-4">Step 4</p>
+                <p className="bg-[#fee2e2] px-2 rounded-full text-sm text-[#6bd79a] mt-8 mb-4">Step 4</p>
                 <h3 className="font-medium text-[18px] mb-2">Enjoy the product</h3>
                 <p className="lg:px-5">Have fun and enjoy your 5-star quality products</p>
             </div>

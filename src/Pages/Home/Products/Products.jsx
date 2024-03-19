@@ -2,6 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Product from "../Product/Product";
+import Footer from "../../../Components/Footer";
 
 
 const Products = () => {
@@ -13,8 +14,8 @@ const Products = () => {
     const [selectedTypes, setSelectedTypes] = useState(new Set());
 
     useEffect(() => {
-        axios.get(`http://localhost:5000/products?category_name=${category}`)
-        .then((res) => setProducts(res.data));
+        axios.get(`https://quick-bazaar-com-server.vercel.app/products?category_name=${category}`)
+            .then((res) => setProducts(res.data));
     }, [category]);
 
     const handlePriceLowToHigh = () => {
@@ -66,78 +67,81 @@ const Products = () => {
     }
 
     return (
-        <div className="max-w-[1400px] mx-auto px-4">
-            <h2 className="md:text-4xl text-3xl font-medium mt-24 mb-6 uppercase">{category} Collections</h2>
-            <p className="md:w-2/4">We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.</p>
-            <div className="divider"></div>
-            <div className="md:flex gap-8 my-16">
-                <div className="md:w-1/4 border-r-2" >
+        <div>
+            <div className="max-w-[1400px] mx-auto px-4">
+                <h2 className="md:text-4xl text-3xl font-medium mt-24 mb-6 uppercase">{category} Collections</h2>
+                <p className="md:w-2/4">We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.</p>
+                <div className="divider"></div>
+                <div className="md:flex gap-8 my-16">
+                    <div className="md:w-1/4 border-r-2" >
 
-                    <h2 className="text-2xl font-medium">Category</h2>
-                    {Array.from(new Set(products.map((product) => product.type))).map((type) => (
-                        <div key={type} className="form-control flex items-start">
+                        <h2 className="text-2xl font-medium">Category</h2>
+                        {Array.from(new Set(products.map((product) => product.type))).map((type) => (
+                            <div key={type} className="form-control flex items-start">
+                                <label className="label cursor-pointer">
+                                    <input
+                                        type="checkbox"
+                                        className="checkbox checkbox-warning"
+                                        onChange={() => handleTypeFilter(type)}
+                                        checked={selectedTypes.has(type)}
+                                    />
+                                    <span className="label-text ml-5 text-white">{type}</span>
+                                </label>
+                            </div>
+                        ))}
+
+
+
+                        <h2 className="text-2xl font-medium mt-8">Sort Order</h2>
+                        <div className="form-control flex items-start">
                             <label className="label cursor-pointer">
-                                <input
-                                    type="checkbox"
-                                    className="checkbox checkbox-primary"
-                                    onChange={() => handleTypeFilter(type)}
-                                    checked={selectedTypes.has(type)}
-                                />
-                                <span className="label-text ml-5">{type}</span>
+                                <input type="checkbox" className="checkbox checkbox-warning" onChange={handlePriceLowToHigh} />
+                                <span className="label-text ml-5 text-white">Price Low - High</span>
                             </label>
                         </div>
-                    ))}
-
-
-
-                    <h2 className="text-2xl font-medium mt-8">Sort Order</h2>
-                    <div className="form-control flex items-start">
-                        <label className="label cursor-pointer">
-                            <input type="checkbox" className="checkbox checkbox-primary" onChange={handlePriceLowToHigh} />
-                            <span className="label-text ml-5">Price Low - High</span>
-                        </label>
-                    </div>
-                    <div className="form-control flex items-start">
-                        <label className="label cursor-pointer">
-                            <input type="checkbox" className="checkbox checkbox-primary" onChange={handlePriceHighToLow} />
-                            <span className="label-text ml-5">Price High - Low</span>
-                        </label>
-                    </div>
-                    <div className="form-control flex items-start">
-                        <label className="label cursor-pointer">
-                            <input type="checkbox" className="checkbox checkbox-primary" onChange={handleBestRating} />
-                            <span className="label-text ml-5">Best Rating</span>
-                        </label>
-                    </div>
-
-
-
-
-                    <h2 className="text-2xl font-medium mt-8">Color</h2>
-
-                    {Array.from(new Set(products.map((product) => product.product_color))).map((product_color) => (
-                        <div key={product_color} className="form-control flex items-start">
+                        <div className="form-control flex items-start">
                             <label className="label cursor-pointer">
-                                <input
-                                    type="checkbox"
-                                    className="checkbox checkbox-primary"
-                                    checked={selectedColor === product_color}
-                                    onChange={() => handleColorFilter(`${product_color}`)}
-                                />
-                                <span className="label-text ml-5">{product_color}</span>
+                                <input type="checkbox" className="checkbox checkbox-warning" onChange={handlePriceHighToLow} />
+                                <span className="label-text ml-5 text-white">Price High - Low</span>
                             </label>
                         </div>
-                    ))}
-                </div>
+                        <div className="form-control flex items-start">
+                            <label className="label cursor-pointer">
+                                <input type="checkbox" className="checkbox checkbox-warning" onChange={handleBestRating} />
+                                <span className="label-text ml-5 text-white">Best Rating</span>
+                            </label>
+                        </div>
 
 
-                <div className="divider md:hidden"></div>
-                <div className="md:w-3/4 grid lg:grid-cols-4 grid-cols-2 gap-5">
-                    {sortedAndFilteredProducts.map((product) => (
-                        <Product key={product?._id} product={product} />
-                    ))}
+
+
+                        <h2 className="text-2xl font-medium mt-8">Color</h2>
+
+                        {Array.from(new Set(products.map((product) => product.product_color))).map((product_color) => (
+                            <div key={product_color} className="form-control flex items-start">
+                                <label className="label cursor-pointer">
+                                    <input
+                                        type="checkbox"
+                                        className="checkbox checkbox-warning"
+                                        checked={selectedColor === product_color}
+                                        onChange={() => handleColorFilter(`${product_color}`)}
+                                    />
+                                    <span className="label-text ml-5 text-white">{product_color}</span>
+                                </label>
+                            </div>
+                        ))}
+                    </div>
+
+
+                    <div className="divider md:hidden"></div>
+                    <div className="md:w-3/4 grid lg:grid-cols-4 grid-cols-2 gap-5">
+                        {sortedAndFilteredProducts.map((product) => (
+                            <Product key={product?._id} product={product} />
+                        ))}
+                    </div>
                 </div>
             </div>
+            <Footer></Footer>
         </div>
     );
 };
