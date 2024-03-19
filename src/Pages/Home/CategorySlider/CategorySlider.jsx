@@ -1,33 +1,24 @@
-import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import { Pagination } from 'swiper/modules';
+import useCategories from "../../../Components/useCategories";
 
 const CategorySlider = () => {
-    const [categories, setCategories] = useState([]);
-
-    useEffect(() => {
-        fetchCategories();
-    }, []);
-
-    const fetchCategories = async () => {
-        try {
-            const response = await fetch('http://localhost:5000/category');
-            if (!response.ok) {
-                throw new Error('Failed to fetch categories');
-            }
-            const data = await response.json();
-            setCategories(data);
-        } catch (error) {
-            console.error('Error fetching categories:', error.message);
-        }
-    };
-
+    const {categories} = useCategories();
     return (
         <div className="max-w-[1400px] mx-auto px-8 md:py-8">
-            <h2 className="text-4xl font-bold my-8">Choose Your Category</h2>
+            <div className="flex justify-between items-center">
+                <h2 className="text-4xl font-bold my-8">Choose Your Category</h2>
+                <Link to={'/allCategory'}>
+                    <button className="BTN">
+                        <span>See more</span>
+                    </button>
+                </Link>
+
+
+            </div>
             <div className="mx-4">
                 <Swiper
                     slidesPerView={2.5}
@@ -38,9 +29,9 @@ const CategorySlider = () => {
                     {categories.map(category => (
                         <SwiperSlide key={category._id}>
                             <Link to={`/products/${category?.category}`}>
-                                <div className="shadow-lg rounded-xl my-5 border">
+                                <div className="shadow-lg rounded-xl my-5 border-2 border-[#363f4c] p-2 bg-[#20293e]">
                                     <figure>
-                                        <img className="w-full md:h-[250px] h-[250px] object-cover rounded-t-xl" src={category?.image} alt="Shoes" />
+                                        <img className="border-[#333c49] w-full md:h-[250px] h-[250px] object-cover rounded-t-xl" src={category?.image} alt="Shoes" />
                                     </figure>
                                     <div className="card-body">
                                         <h2 className="card-title capitalize">{category?.category}</h2>

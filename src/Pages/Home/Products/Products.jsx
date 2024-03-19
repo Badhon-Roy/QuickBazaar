@@ -66,7 +66,7 @@ const Products = () => {
     }
 
     return (
-        <div className="max-w-[1400px] mx-auto px-8">
+        <div className="max-w-[1400px] mx-auto px-4">
             <h2 className="md:text-4xl text-3xl font-medium mt-24 mb-6 uppercase">{category} Collections</h2>
             <p className="md:w-2/4">We not only help you design exceptional products, but also make it easy for you to share your designs with more like-minded people.</p>
             <div className="divider"></div>
@@ -132,7 +132,7 @@ const Products = () => {
 
 
                 <div className="divider md:hidden"></div>
-                <div className="md:w-3/4 grid lg:grid-cols-3 md:grid-cols-2 gap-5">
+                <div className="md:w-3/4 grid lg:grid-cols-4 grid-cols-2 gap-5">
                     {sortedAndFilteredProducts.map((product) => (
                         <Product key={product?._id} product={product} />
                     ))}

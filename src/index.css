@@ -6,4 +6,45 @@
 
 body{
   font-family: 'Poppins', sans-serif;
+  background-color: #0f172a;
+  color: white;
+}
+.BG{
+  background-color: #0f172a;
+}
+.BTN {
+  position: relative;
+  padding: 8px 32px;
+  border-radius: 10px;
+  border: 2px solid #fff;
+  background-color: transparent;
+  transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  overflow: hidden;
+}
+
+.BTN:hover {
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.5);
+}
+
+.BTN::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffb70d;
+  transition: transform 0.5s ease;
+  transform-origin: left;
+  transform: scaleX(0);
+}
+
+.BTN:hover::before {
+  transform: scaleX(1);
+}
+
+.BTN span {
+  position: relative;
+  z-index: 10;
+  color: #fff;
 }

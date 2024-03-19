@@ -16,6 +16,7 @@ import PrivateRoute from './PrivateRoute/PrivateRoute';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import Profile from './Pages/Profile/Profile';
 import ShowAddCarts from './Components/ShowAddCarts';
+import AllCategory from './Components/AllCategory';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -48,6 +49,10 @@ const router = createBrowserRouter([
       {
         path : '/showAddCarts',
         element : <ShowAddCarts></ShowAddCarts>
+      },
+      {
+        path : "/allCategory",
+        element : <AllCategory></AllCategory>
       }
     ]
   },

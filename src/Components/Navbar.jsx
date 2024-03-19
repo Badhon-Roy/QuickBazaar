@@ -33,7 +33,7 @@ const Navbar = () => {
     const subTotalPrice = totalPrice?.toFixed(2);
 
     return (
-        <div className="bg-white sticky top-0 z-10">
+        <div className="BG sticky top-0 z-10 border-b-2 border-[#333c49]">
             <div className="navbar max-w-[1400px] mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -74,7 +74,8 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <a >
-                        <img className="w-[80px] object-contain" src="https://i.ibb.co/b6828Lq/Colorful-Illustrative-Online-Shop-Logo-5.png" alt="" />
+                        <Link to={'/'}>
+                        <img className="w-[80px] object-contain" src="https://i.ibb.co/b6828Lq/Colorful-Illustrative-Online-Shop-Logo-5.png" alt="" /></Link>
                     </a>
                 </div>
                 <div className="navbar-center hidden md:flex">
