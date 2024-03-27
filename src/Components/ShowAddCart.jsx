@@ -5,12 +5,18 @@ import swal from "sweetalert";
 const ShowAddCart = ({ product ,cartRefetch }) => {
     const { _id, category_name, images, price, product_name } = product;
     const handleDelete = () => {
+        if (!_id) {
+            console.error('No product ID provided');
+            return;
+        }
         axios.delete(`https://quick-bazaar-com-server.vercel.app/addProducts/${_id}`)
             .then(res => {
-                if (res.data.deletedCount > 1) {
+                if (res.data && res.data.deletedCount > 0) {
                     console.log(`Product with ID ${_id} deleted successfully.`);
-                    swal("Cart Delete", "successful", "success")
+                    swal("Cart Delete", "successful", "success");
                     cartRefetch();
+                } else {
+                    console.log(`Product with ID ${_id} not found or not deleted.`);
                 }
             })
             .catch(error => {

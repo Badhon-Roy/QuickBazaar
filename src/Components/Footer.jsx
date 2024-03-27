@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
-        <div className="border-t-2 border-[#333c49]">
+        <div className="border-t-2 border-[#333c49] ">
             <footer className="footer p-10 max-w-[1400px] mx-auto px-8 md:py-8">
                 <aside>
                     <a >
@@ -34,7 +34,7 @@ const Footer = () => {
             </footer>
             <footer className="footer footer-center p-4 bg-gray-600 text-white">
                 <aside>
-                    <p>Copyright © 2024 - All right reserved by ACME Industries Ltd</p>
+                    <p>Copyright &copy; 2024 - All right reserved by Quick Bazaar</p>
                 </aside>
             </footer>
         </div>

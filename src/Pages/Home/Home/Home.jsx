@@ -9,12 +9,16 @@ import Footer from "../../../Components/Footer";
 
 const Home = () => {
     const [products] = useProducts({ category: 'Kids Zone' });
-    const [seeMore, setSeeMore] = useState(false)
+    const [productsOfGadgets] = useProducts({ category: 'Gadgets' });
+    const [seeMoreKidProducts, setSeeMoreKidProducts] = useState(false)
+    const [seeMoreGadgetsProducts, setSeeMoreGadgetsProducts] = useState(false)
 
-    const handleClick = (isShow) => {
-        setSeeMore(isShow)
+    const handleShowKidsProducts = (isShow) => {
+        setSeeMoreKidProducts(isShow)
     }
-    console.log(seeMore);
+    const handleShowGadgetsProducts = (isShow) => {
+        setSeeMoreGadgetsProducts(isShow)
+    }
 
     return (
         <div>
@@ -22,6 +26,69 @@ const Home = () => {
             <CategorySlider></CategorySlider>
             <Fashion></Fashion>
             <Step></Step>
+            <div className="max-w-[1400px] mx-auto lg:px-0 px-4">
+                <h2 className="mt-4 mb-8 md:text-3xl text-xl font-medium text-center ">Gadget's Corner: Discover Our Special Products!</h2>
+                {
+                    seeMoreGadgetsProducts === true ? <div className=" grid lg:grid-cols-6 md:grid-cols-4 grid-cols-2 gap-4">
+                        {
+                            productsOfGadgets?.map(product => <div key={product?._id}>
+                                <Link to={`/products/${product?.category_name}/${product?._id}`}>
+                                    <div className="border p-2 bg-[#20293e] hover:border-[#fdc816] hover:border w-full md:h-[400px] h-[350px] shadow-xl rounded ">
+                                        <figure className="relative"><img className="w-full md:h-[200px] h-[150px] object-cover rounded" src={product?.images[0]} alt="Shoes" />
+                                            {
+                                                product?.discount > 0 && <span className={`absolute top-1 left-1 px-2 rounded font-bold border border-white shadow text-white ${product?.discount > 20 ? 'bg-[#ff9902]' : 'bg-red-500'
+                                                    }`}>
+                                                    {product?.discount}%
+                                                </span>
+                                            }
+                                        </figure>
+                                        <div className="border-t pt-3">
+                                            {
+                                                product?.product_name && <h2 className="md:font-semibold">{product?.product_name.slice(0, 30)}..</h2>
+                                            }
+                                            <p className="mt-2">Type : {product?.type}</p>
+                                            <p className="text-blue-600 font-semibold">Price: ${product?.price}</p>
+                                            <p>Rating : {product?.rating}</p>
+                                        </div>
+                                    </div>
+                                </Link>
+                            </div>)
+                        }
+                    </div> : <div className=" grid lg:grid-cols-6 md:grid-cols-3 grid-cols-2 gap-4">
+                        {
+                            productsOfGadgets?.slice(0, 12).map(product => <div key={product?._id}>
+                                <Link to={`/products/${product?.category_name}/${product?._id}`}>
+                                    <div className="border p-2 bg-[#20293e] hover:border-[#fdc816] hover:border w-full md:h-[400px] h-[350px] shadow-xl rounded">
+                                        <figure className="relative"><img className="w-full md:h-[200px] h-[150px] object-cover rounded" src={product?.images[0]} alt="Shoes" />
+                                            {
+                                                product?.discount > 0 && <span className={`absolute top-1 left-1 px-2 rounded font-bold border border-white shadow text-white ${product?.discount > 20 ? 'bg-[#ff9902]' : 'bg-red-500'
+                                                    }`}>
+                                                    {product?.discount}%
+                                                </span>
+                                            }
+                                        </figure>
+                                        <div className="border-t pt-3">
+                                            {
+                                                product?.product_name && <h2 className="md:font-semibold">{product?.product_name.slice(0, 30)}..</h2>
+                                            }
+                                            <p className="mt-2">Type : {product?.type}</p>
+                                            <p className="text-blue-600 font-semibold">Price: ${product?.price}</p>
+                                            <p>Rating : {product?.rating}</p>
+                                        </div>
+                                    </div>
+                                </Link>
+                            </div>)
+                        }
+                    </div>
+                }
+                <div className="flex justify-center my-5">
+                    <button onClick={() => handleShowGadgetsProducts(!seeMoreGadgetsProducts)} className="BTN">
+                       <span> {
+                            seeMoreGadgetsProducts === true ? 'see less' : 'see more'
+                        }</span>
+                    </button>
+                </div>
+            </div>
             <div className="my-16 px-5">
                 <div className="max-w-[1400px] mx-auto md:flex justify-between items-center gap-10 md:relative">
                     <div className="flex-1 flex justify-center">
@@ -45,7 +112,7 @@ const Home = () => {
             <div className="max-w-[1400px] mx-auto lg:px-0 px-4">
                 <h2 className="mt-4 mb-8 md:text-3xl text-xl font-medium ">Kids' Corner: Discover Our Special Products!</h2>
                 {
-                    seeMore === true ? <div className=" grid lg:grid-cols-6 md:grid-cols-4 grid-cols-2 gap-4">
+                    seeMoreKidProducts === true ? <div className=" grid lg:grid-cols-6 md:grid-cols-4 grid-cols-2 gap-4">
                         {
                             products?.map(product => <div key={product?._id}>
                                 <Link to={`/products/${product?.category_name}/${product?._id}`}>
@@ -98,9 +165,9 @@ const Home = () => {
                     </div>
                 }
                 <div className="flex justify-center my-5">
-                    <button onClick={() => handleClick(!seeMore)} className="BTN">
+                    <button onClick={() => handleShowKidsProducts(!seeMoreKidProducts)} className="BTN">
                        <span> {
-                            seeMore === true ? 'see less' : 'see more'
+                            seeMoreKidProducts === true ? 'see less' : 'see more'
                         }</span>
                     </button>
                 </div>

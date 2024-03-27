@@ -25,10 +25,6 @@ body{
   overflow: hidden;
 }
 
-.BTN:hover {
-  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.5);
-}
-
 .BTN::before {
   content: '';
   position: absolute;
@@ -48,6 +44,6 @@ body{
 
 .BTN span {
   position: relative;
-  z-index: 10;
+  z-index: 8;
   color: #fff;
 }
