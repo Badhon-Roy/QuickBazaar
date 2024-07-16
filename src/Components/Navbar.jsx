@@ -141,12 +141,20 @@ const Navbar = () => {
                                     </div>
                                     <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                                         <li>
-                                            <Link to="/profile" className="justify-between">
-                                                Profile
-                                                <span className="badge">New</span>
+                                            <Link to="/dashboard" className="justify-between">
+                                                <div className="flex gap-2 items-center">
+                                                    <img className="w-[30px]" src="https://cdn-icons-png.flaticon.com/512/6065/6065481.png" alt="" />
+                                                    <h2>Dashboard</h2>
+                                                </div>
                                             </Link>
                                         </li>
-                                        <li><button onClick={handleLogOut}>Logout</button></li>
+                                        <li><button onClick={handleLogOut}>
+                                        <div className="flex gap-2 items-center">
+                                                    <img className="w-[30px]" src="https://cdn-icons-png.flaticon.com/512/9653/9653907.png" alt="" />
+                                                    <h2>Logout</h2>
+                                                </div>
+                                            
+                                            </button></li>
                                     </ul>
                                 </div> :
                                 <NavLink

@@ -17,6 +17,9 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import Profile from './Pages/Profile/Profile';
 import ShowAddCarts from './Components/ShowAddCarts';
 import AllCategory from './Components/AllCategory';
+import Dashboard from './Dashboard/Dashboard';
+import AddProducts from './Dashboard/AddProducts';
+import AllUsers from './Dashboard/AllUsers';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -43,10 +46,6 @@ const router = createBrowserRouter([
         element: <Register></Register>
       },
       {
-        path : "/profile",
-        element : <Profile></Profile>
-      },
-      {
         path : '/showAddCarts',
         element : <ShowAddCarts></ShowAddCarts>
       },
@@ -56,6 +55,24 @@ const router = createBrowserRouter([
       }
     ]
   },
+  {
+    path : "/dashboard",
+    element : <Dashboard></Dashboard>,
+    children : [
+      {
+        path : "/dashboard/addProduct",
+        element : <AddProducts></AddProducts>
+      },
+      {
+        path : "/dashboard/allUsers",
+        element : <AllUsers></AllUsers>
+      },
+      {
+        path : "/dashboard/profile",
+        element : <Profile></Profile>
+      }
+    ]
+  }
 ]);
 
 const queryClient = new QueryClient()
