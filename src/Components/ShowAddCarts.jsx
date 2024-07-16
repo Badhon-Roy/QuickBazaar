@@ -26,10 +26,24 @@ const ShowAddCarts = () => {
                             <h2 className="text-4xl font-medium text-center mb-6">ALL Cart Add : {data.length}</h2>
                             <h2 className="text-4xl font-medium text-center mb-6">Total Price : ${subTotalPrice}</h2>
                         </div>
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-                            {data.map((product) => (
-                                <ShowAddCart key={product?._id} cartRefetch={cartRefetch} product={product}></ShowAddCart>
-                            ))}
+                        <div className="flex justify-between gap-10">
+                            <div className="w-2/3">
+                                {data.map((product) => (
+                                    <ShowAddCart key={product?._id} cartRefetch={cartRefetch} product={product}></ShowAddCart>
+                                ))}
+                            </div>
+                            <div className="w-1/3">
+                                <h2>
+                                    Cash on Delivery Available
+
+                                    7 Days Replacement Policy
+
+                                    100% Money Back Guarantee
+
+                                    Purchase & Earn Points
+
+                                    100% Original Product</h2>
+                            </div>
                         </div>
                     </>
                 ) : (

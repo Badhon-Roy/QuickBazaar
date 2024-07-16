@@ -119,6 +119,8 @@ const ProductDetails = () => {
             features: product?.features,
             fit: product?.fit,
             email: user?.email,
+            discount : product?.discount,
+            quantity : product?.discount
         };
 
         axios.post('https://quick-bazaar-com-server.vercel.app/addProducts', productData)

@@ -2,8 +2,9 @@
 import axios from "axios";
 import { MdOutlineCancel } from "react-icons/md";
 import swal from "sweetalert";
-const ShowAddCart = ({ product ,cartRefetch }) => {
-    const { _id, category_name, images, price, product_name } = product;
+const ShowAddCart = ({ product, cartRefetch }) => {
+    const { _id, category_name, images, price, product_name ,discount} = product;
+    console.log(product);
     const handleDelete = () => {
         if (!_id) {
             console.error('No product ID provided');
@@ -24,21 +25,23 @@ const ShowAddCart = ({ product ,cartRefetch }) => {
             });
     };
     return (
-        <div className="flex items-center gap-2 border border-blue-400 rounded-xl relative">
-            <div className="w-1/3 border-r border-blue-300">
-                <img className="h-[150px] w-full object-cover rounded-l-xl" src={images[0]} alt="" />
+        <div className="flex gap-2 border border-blue-400 rounded-xl relative mb-10">
+            <div className=" border-r border-blue-300">
+                <img className="w-[200px] h-[150px] object-cover rounded-l-xl " src={images[0]} alt="" />
             </div>
-            <div className="w-2/3 pr-1">
+            <div className=" pr-1">
                 <button onClick={handleDelete} className=" btn-primary absolute top-1 right-1 text-2xl text-red-400">
                     <MdOutlineCancel />
                 </button>
                 {
-                    product_name && <h2 className="text-xl mb-1">{product_name.slice(0, 47)}...</h2>
+                    product_name && <h2 className="text-xl mb-1 mt-2">{product_name.slice(0, 30)}...</h2>
                 }
                 <p>Category : {category_name}</p>
-                <p>Price: ${price}</p>
+                <p className="TEXT">Price: ${price}</p>
+                <p>Discount : {discount}%</p>
 
             </div>
+
         </div>
     );
 };
