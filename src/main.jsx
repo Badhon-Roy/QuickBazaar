@@ -20,6 +20,7 @@ import AllCategory from './Components/AllCategory';
 import Dashboard from './Dashboard/Dashboard';
 import AddProducts from './Dashboard/AddProducts';
 import AllUsers from './Dashboard/AllUsers';
+import AllProducts from './Dashboard/AllProducts';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -59,6 +60,10 @@ const router = createBrowserRouter([
     path : "/dashboard",
     element : <Dashboard></Dashboard>,
     children : [
+      {
+        path : "/dashboard/allProducts",
+        element : <AllProducts></AllProducts>
+      },
       {
         path : "/dashboard/addProduct",
         element : <AddProducts></AddProducts>

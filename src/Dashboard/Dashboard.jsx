@@ -72,7 +72,22 @@ const Dashboard = () => {
                     </div>
                     <h2 className="text-xl font-bold mb-2 border-t-2 border-white pt-2">Admin Dashboard</h2>
                     <ul className="menu px-4 space-y-2 text-[18px] font-medium">
-                        
+
+                        <li>
+
+                            <NavLink
+                                to="/dashboard/allProducts"
+                                className={({ isActive, isPending }) =>
+                                    isPending ? "pending" : isActive ? "border-2 border-white rounded text-white" : ""
+                                }
+                            >
+                                <div className="flex gap-2 items-center">
+                                    <img className="w-[30px] border rounded-full border-white" src="https://cdn-icons-png.flaticon.com/512/7610/7610070.png" alt="" />
+                                    <h2>All Products</h2>
+                                </div>
+                            </NavLink>
+                        </li>
+
                         <li>
                             <NavLink
                                 to="/dashboard/profile"
