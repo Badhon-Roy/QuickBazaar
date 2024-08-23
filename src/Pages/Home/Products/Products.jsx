@@ -1,22 +1,43 @@
-import axios from "axios";
-import { useEffect, useState } from "react";
+// import axios from "axios";
+// import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Product from "../Product/Product";
 import Footer from "../../../Components/Footer";
+import useProducts from "../../../Components/useProducts";
+import { useState } from "react";
+import Lottie from "react-lottie";
+import animationData from '../../../../public/Loading Animation/Animation - 1724431087326.json';
 
 
 const Products = () => {
     const { category } = useParams();
-    const [products, setProducts] = useState([]);
     const [selectedColor, setSelectedColor] = useState(null);
     const [sortOrder, setSortOrder] = useState(null);
     const [sortByRating, setSortByRating] = useState(false);
     const [selectedTypes, setSelectedTypes] = useState(new Set());
 
-    useEffect(() => {
-        axios.get(`https://quick-bazaar-com-server.vercel.app/products?category_name=${category}`)
-            .then((res) => setProducts(res.data));
-    }, [category]);
+    const [products , isLoading , error] = useProducts({ category: `${category}` });
+
+    const defaultOptions = {
+        loop: true,
+        autoplay: true,
+        animationData: animationData,
+        rendererSettings: {
+            preserveAspectRatio: "xMidYMid slice"
+        }
+    };
+
+    if (isLoading) {
+        return <Lottie
+            options={defaultOptions}
+            height={300}
+            width={300}
+        />
+    }
+    if(error){
+        return "Error"
+    }
+
 
     const handlePriceLowToHigh = () => {
         setSortOrder("asc");

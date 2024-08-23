@@ -6,9 +6,12 @@ import CategorySlider from "../CategorySlider/CategorySlider";
 import { useState } from "react";
 import Fashion from "../../../Components/Fashion";
 import Footer from "../../../Components/Footer";
+import Lottie from "react-lottie";
+import animationData from '../../../../public/Loading Animation/Animation - 1724431087326.json';
+
 
 const Home = () => {
-    const [products] = useProducts({ category: 'Kids Zone' });
+    const [products,isLoading , error] = useProducts({ category: 'Kids Zone' });
     const [productsOfGadgets] = useProducts({ category: 'Gadgets' });
     const [seeMoreKidProducts, setSeeMoreKidProducts] = useState(false)
     const [seeMoreGadgetsProducts, setSeeMoreGadgetsProducts] = useState(false)
@@ -18,6 +21,27 @@ const Home = () => {
     }
     const handleShowGadgetsProducts = (isShow) => {
         setSeeMoreGadgetsProducts(isShow)
+    }
+
+
+    const defaultOptions = {
+        loop: true,
+        autoplay: true,
+        animationData: animationData,
+        rendererSettings: {
+            preserveAspectRatio: "xMidYMid slice"
+        }
+    };
+
+    if (isLoading) {
+        return <Lottie
+            options={defaultOptions}
+            height={300}
+            width={300}
+        />
+    }
+    if(error){
+        return "Error"
     }
 
     return (

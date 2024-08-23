@@ -4,9 +4,30 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import { Pagination } from 'swiper/modules';
 import useCategories from "../../../Components/useCategories";
+import Lottie from "react-lottie";
+import animationData from '../../../../public/Loading Animation/Animation - 1724431087326.json';
 
 const CategorySlider = () => {
-    const {categories} = useCategories();
+    const { categories, isLoading, error } = useCategories();
+    const defaultOptions = {
+        loop: true,
+        autoplay: true,
+        animationData: animationData,
+        rendererSettings: {
+            preserveAspectRatio: "xMidYMid slice"
+        }
+    };
+
+    if (isLoading) {
+        return <Lottie
+            options={defaultOptions}
+            height={300}
+            width={300}
+        />
+    }
+    if(error){
+        return "Error"
+    }
     return (
         <div className="max-w-[1400px] mx-auto px-8 md:py-8">
             <div className="flex justify-between items-center">
@@ -25,8 +46,8 @@ const CategorySlider = () => {
                     modules={[Pagination]}
                     className="mySwiper"
                     breakpoints={{
-                        0:{
-                            slidesPerView : 1.2 ,
+                        0: {
+                            slidesPerView: 1.2,
                         },
                         426: {
                             slidesPerView: 1.5,
@@ -39,8 +60,8 @@ const CategorySlider = () => {
                         },
                     }}
                 >
-                    {categories.map(category => (
-                        <SwiperSlide key={category._id}>
+                    {categories?.map(category => (
+                        <SwiperSlide key={category?._id}>
                             <Link to={`/products/${category?.category}`}>
                                 <div className="shadow-lg rounded-xl my-5 border-2 border-[#363f4c] p-2 bg-[#20293e]">
                                     <figure>
