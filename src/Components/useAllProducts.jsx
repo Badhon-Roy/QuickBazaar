@@ -14,7 +14,7 @@ const useAllProducts = () => {
         queryFn: fetchProducts
     });
 
-    return { allProducts, isLoading, error };
+    return [ allProducts, isLoading, error ];
 };
 
 export default useAllProducts;

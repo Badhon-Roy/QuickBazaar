@@ -8,7 +8,7 @@ import Lottie from "react-lottie";
 import animationData from '../../../../public/Loading Animation/Animation - 1724431087326.json';
 
 const CategorySlider = () => {
-    const { categories, isLoading, error } = useCategories();
+    const { categories, isLoading } = useCategories();
     const defaultOptions = {
         loop: true,
         autoplay: true,
@@ -24,9 +24,6 @@ const CategorySlider = () => {
             height={300}
             width={300}
         />
-    }
-    if(error){
-        return "Error"
     }
     return (
         <div className="max-w-[1400px] mx-auto px-8 md:py-8">

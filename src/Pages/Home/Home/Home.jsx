@@ -11,7 +11,7 @@ import animationData from '../../../../public/Loading Animation/Animation - 1724
 
 
 const Home = () => {
-    const [products,isLoading , error] = useProducts({ category: 'Kids Zone' });
+    const [products,isLoading] = useProducts({ category: 'Kids Zone' });
     const [productsOfGadgets] = useProducts({ category: 'Gadgets' });
     const [seeMoreKidProducts, setSeeMoreKidProducts] = useState(false)
     const [seeMoreGadgetsProducts, setSeeMoreGadgetsProducts] = useState(false)
@@ -39,9 +39,6 @@ const Home = () => {
             height={300}
             width={300}
         />
-    }
-    if(error){
-        return "Error"
     }
 
     return (

@@ -3,7 +3,7 @@ import useAllProducts from "../Components/useAllProducts";
 import AllProduct from "./AllProduct";
 
 const AllProducts = () => {
-    const [products] = useAllProducts();
+    const [ products, isLoading, error ] = useAllProducts();
     const [searchTerm, setSearchTerm] = useState('');
 
     const handleSearchChange = (event) => {
@@ -14,9 +14,15 @@ const AllProducts = () => {
         event.preventDefault();
         console.log('Searching for:', searchTerm);
     };
+    if(isLoading){
+        return "Loading"
+    }
+    if(error){
+        return "error"
+    }
 
     // Filter products based on search term
-    const filteredProducts = products.filter(product => {
+    const filteredProducts = products?.filter(product => {
         return (
             product?.product_name?.toLowerCase().includes(searchTerm.toLowerCase()) ||
             product?.product_category?.toLowerCase().includes(searchTerm.toLowerCase()) || 

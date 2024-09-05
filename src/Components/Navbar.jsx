@@ -79,7 +79,7 @@ const Navbar = () => {
                     </a>
                 </div>
                 <div className="navbar-center hidden md:flex">
-                    <ul className="menu menu-horizontal px-1">
+                    <ul className="menu-horizontal flex gap-4">
                         <li>
                             <NavLink
                                 to="/"
