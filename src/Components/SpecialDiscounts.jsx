@@ -6,7 +6,7 @@ import 'swiper/css/pagination';
 import { Autoplay, Pagination } from 'swiper/modules';
 import { Link } from "react-router-dom";
 
-const Fashion = () => {
+const SpecialDiscounts = () => {
     const [products, setProducts] = useState([])
     useEffect(() => {
         axios.get('https://quick-bazaar-com-server.vercel.app/products/discount')
@@ -27,8 +27,8 @@ const Fashion = () => {
                 }}
                 className="mySwiper"
                 breakpoints={{
-                    0:{
-                        slidesPerView : 1.5 ,
+                    0: {
+                        slidesPerView: 1.5,
                     },
                     426: {
                         slidesPerView: 2.5,
@@ -54,7 +54,10 @@ const Fashion = () => {
                                     }
                                     <p className="mt-2 text-[#ff9902]">Category: <span className="uppercase">{product?.category_name}</span></p>
                                     <p >Type : {product?.type}</p>
-                                    <p className="text-blue-600 font-semibold">Price: ${product?.price}</p>
+                                    <div className="flex items-center gap-4">
+                                        <del className="text-blue-600 font-semibold">Price: ${product?.price}</del>
+                                        <p className="text-blue-600 font-semibold">Price: ${((product?.price) - (parseFloat(product?.price) * ((parseFloat(product?.discount)) / 100))).toFixed(2)}</p>
+                                    </div>
                                     <p>Rating : {product?.rating}</p>
                                 </div>
                             </div>
@@ -66,4 +69,4 @@ const Fashion = () => {
     );
 };
 
-export default Fashion;
+export default SpecialDiscounts;
