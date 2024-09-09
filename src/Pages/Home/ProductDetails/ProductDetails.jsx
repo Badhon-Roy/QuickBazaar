@@ -63,8 +63,14 @@ const ProductDetails = () => {
         const formattedTime = currentDateObject.toLocaleTimeString();
         setCurrentTime(`${formattedTime}`);
     }, [currentDate]);
-    const { category_name, images, type, price, rating, product_color, product_name, product_details = ' ', features, fit } = product;
+    const { category_name, images, type, price, rating, product_color, product_name, product_details = ' ', features, fit, discount } = product;
 
+    const calculateDiscountedPrice = () => {
+        const totalPrice = parseFloat(price);
+        const discountPercentage = parseFloat(discount);
+        const discountedAmount = totalPrice * (discountPercentage / 100);
+        return (totalPrice - discountedAmount).toFixed(2);
+    };
 
     const [comment, setComment] = useState('');
 
@@ -119,8 +125,8 @@ const ProductDetails = () => {
             features: product?.features,
             fit: product?.fit,
             email: user?.email,
-            discount : product?.discount,
-            quantity : product?.discount
+            discount: product?.discount,
+            quantity: product?.discount
         };
 
         axios.post('https://quick-bazaar-com-server.vercel.app/addProducts', productData)
@@ -144,6 +150,8 @@ const ProductDetails = () => {
             <span className="loading loading-spinner loading-lg"></span>
         </div>
     }
+
+
 
 
     return (
@@ -185,7 +193,10 @@ const ProductDetails = () => {
                             <p className="text-xl" >Color : <span className="font-bold capitalize">{product_color}</span></p>
                         </div>
 
-                        <span className="border-2 px-2 p-1 rounded-lg TEXT font-semibold">Price: ${price}</span>
+                        <div className='flex gap-10'>
+                            <del className="border-2 px-2 p-1 rounded-lg text-[#ea0e68] font-semibold">Price: ${price}</del>
+                            <span className="border-2 px-2 p-1 rounded-lg TEXT font-semibold">Price: $  {calculateDiscountedPrice()}</span>
+                        </div>
                         <div className="flex items-center gap-1 my-4">
                             <div className="rating">
                                 <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />

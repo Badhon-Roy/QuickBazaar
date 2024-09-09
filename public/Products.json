@@ -1,29 +1,5 @@
 [
     {
-        "category_name": "",
-        "images": [
-            "",
-            "",
-            ""
-        ],
-        "type": "",
-        "price": 24.99,
-        "discount" : 8,
-        "quantity": 3,
-        "rating": 4,
-        "product_color": "",
-        "product_name": "",
-        "product_details": "",
-        "features": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "fit": ""
-    },
-    {
         "category_name": "men",
         "images": [
             "https://media.e-valy.com/cms/products/images/109ae480-bc57-4872-a401-2be3a5154c63",
@@ -885,5 +861,2028 @@
             "Available in various sizes"
         ],
         "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Electronics",
+        "images": [
+          "https://m.media-amazon.com/images/I/61t3DrFmmeL._AC_UF894,1000_QL80_.jpg",
+          "https://www.titan-ice.co.za/images/detailed/40/2763-7_600x600.webp",
+          "https://romtech.co.za/wp-content/uploads/2020/07/T-TGM307_wr_02-600x600.jpg.webp"
+        ],
+        "type": "Wireless Gaming Mouse",
+        "price": 59.99,
+        "discount": 10,
+        "quantity": 120,
+        "rating": 4.7,
+        "product_color": "RGB Spectrum",
+        "product_name": "GameMaster ProMouse",
+        "product_details": "Elevate your gaming experience with the GameMaster ProMouse - a wireless gaming mouse with customizable RGB lighting. With precise tracking, programmable buttons, and ergonomic design, this mouse enhances your gaming performance. The RGB Spectrum color options add a dynamic visual element to your setup.",
+        "features": [
+          "Customizable RGB lighting",
+          "Precise tracking",
+          "Programmable buttons",
+          "Ergonomic design",
+          "Wireless connectivity"
+        ],
+        "fit": "Comfortable and responsive"
+      },
+      {
+        "category_name": "Fashion",
+        "images": [
+          "https://shadesworld.online/65-medium_default/women-sunglasses-o-elegance.jpg",
+          "https://shokhin.com.bd/wp-content/uploads/2021/09/SWS06-2-min.png",
+          "https://shokhin.com.bd/wp-content/uploads/2021/09/SWS06-1-min.png"
+        ],
+        "type": "Women's Sunglasses",
+        "price": 49.99,
+        "discount": 15,
+        "quantity": 90,
+        "rating": 4.8,
+        "product_color": "Caramel Brown",
+        "product_name": "SunChic Elegance",
+        "product_details": "Elevate your style with the SunChic Elegance Women's Sunglasses. The Caramel Brown frames and gradient lenses exude sophistication, while the UV protection ensures your eyes stay shielded in style. Whether you're on the beach or in the city, make a statement with SunChic Elegance.",
+        "features": [
+          "Caramel Brown frames",
+          "Gradient lenses",
+          "UV protection",
+          "Elegant design",
+          "Durable construction"
+        ],
+        "fit": "Chic and comfortable"
+      },
+      {
+        "category_name": "Fashion",
+        "images": [
+          "https://ae01.alicdn.com/kf/S030fff78b2d74d3da7d14a6ea04841b5S/SANDA-Top-Luxury-Watches-Men-Military-Army-Mens-Watch-Waterproof-Sport-Wristwatch-Dual-Display-Watch-Male.jpg",
+          "https://ae01.alicdn.com/kf/S2c768b6c6fe344fda85e47e41d06a124u/SANDA-Top-Luxury-Watches-Men-Military-Army-Mens-Watch-Waterproof-Sport-Wristwatch-Dual-Display-Watch-Male.jpg",
+          "https://ae01.alicdn.com/kf/S9bd9c19ecd2d4dd6b9d7988658e501aaI/SANDA-Top-Luxury-Watches-Men-Military-Army-Mens-Watch-Waterproof-Sport-Wristwatch-Dual-Display-Watch-Male.jpg"
+        ],
+        "type": "Men's Watch",
+        "price": 169.99,
+        "discount": 12,
+        "quantity": 80,
+        "rating": 4.6,
+        "product_color": "Gunmetal Gray",
+        "product_name": "TimeMaster X2",
+        "product_details": "Make a bold statement with the TimeMaster X2 Men's Watch. The gunmetal gray stainless steel case and mesh strap exude modern elegance. With features like automatic movement, date display, and water resistance, the TimeMaster X2 is a perfect blend of style and functionality for the contemporary man.",
+        "features": [
+          "Gunmetal gray stainless steel case",
+          "Mesh strap",
+          "Automatic movement",
+          "Date display",
+          "Water-resistant"
+        ],
+        "fit": "Sleek and sophisticated"
+      },
+      {
+        "category_name": "Fashion",
+        "images": [
+          "https://www.nelsonwere.com/wp-content/uploads/2021/05/2020_11_17_______NelsonW-92.jpg",
+          "https://www.nelsonwere.com/wp-content/uploads/2021/05/2020_11_17_______NelsonW-91.jpg",
+          "https://i.etsystatic.com/29233561/r/il/225fb3/4957298489/il_340x270.4957298489_qf7b.jpg"
+        ],
+        "type": "Leather Wallet",
+        "price": 39.99,
+        "discount": 8,
+        "quantity": 150,
+        "rating": 4.4,
+        "product_color": "Chestnut Brown",
+        "product_name": "ClassicCraft Leather Wallet",
+        "product_details": "Organize your essentials with the ClassicCraft Leather Wallet. Crafted from genuine leather, this wallet offers a timeless design and durability. With multiple card slots, a clear ID window, and a bill compartment, it's both functional and stylish. The Chestnut Brown color adds a touch of sophistication.",
+        "features": [
+          "Genuine leather",
+          "Timeless design",
+          "Multiple card slots",
+          "Clear ID window",
+          "Chestnut Brown color"
+        ],
+        "fit": "Slim and elegant"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://scene7.samsclub.com/is/image/samsclub/0083211200157_A", 
+        "https://m.media-amazon.com/images/I/91tk7QWj7wL.jpg",
+         "https://m.media-amazon.com/images/I/91IRM0oDGxL.jpg"],
+        "type": "organic almonds",
+        "price": 12.99,
+        "discount": 5,
+        "quantity": 100,
+        "rating": 4.9,
+        "product_color": "natural",
+        "product_name": "Nature's Eats Organic Almonds",
+        "product_details": "Snack healthily with Nature's Eats Organic Almonds. These natural almonds are organically grown, non-GMO, and packed with nutrients. Enjoy the goodness of organic almonds with every bite.",
+        "features": ["Organically grown", "Non-GMO", "Rich in nutrients", "Versatile for cooking", "Resealable bag"],
+        "fit": "Snacking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/I/81XYy+dpezS.jpg", "https://m.media-amazon.com/images/I/817Cq0djMIL.jpg", "https://m.media-amazon.com/images/I/61SBCf15vbS.jpg"],
+        "type": "extra virgin olive oil",
+        "price": 18.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.8,
+        "product_color": "green",
+        "product_name": "Colavita Extra Virgin Olive Oil",
+        "product_details": "Enhance your culinary creations with Colavita Extra Virgin Olive Oil. This premium olive oil is cold-pressed, rich in flavor, and perfect for drizzling over salads, pasta, and more. Elevate your dishes with Colavita.",
+        "features": ["Cold-pressed", "Rich flavor profile", "Versatile for cooking", "Authentic Italian quality", "Dark glass bottle for preservation"],
+        "fit": "Cooking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/I/81Qg06jAnTL.jpg", "https://p-cdn6consumer.jmsinf.com/tmp/image-thumbnails/truroots/products/organic-originals/image-thumb__4144__auto_8424569699a9940af5f8e97070e2d54b/truroots-originals-sprouted-quinoa-product.png", "https://i.ebayimg.com/images/g/rBAAAOSwCNpk8Ma4/s-l1600.jpg"],
+        "type": "organic quinoa",
+        "price": 9.99,
+        "discount": 5,
+        "quantity": 40,
+        "rating": 4.7,
+        "product_color": "white",
+        "product_name": "TruRoots Organic Quinoa",
+        "product_details": "Add a nutritious touch to your meals with TruRoots Organic Quinoa. This white quinoa is organic, gluten-free, and cooks to perfection. Incorporate wholesome quinoa into your salads, bowls, and more.",
+        "features": ["Organic", "Gluten-free", "High protein content", "Versatile cooking options", "Resealable packaging"],
+        "fit": "Healthy Living"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://i.ebayimg.com/images/g/NgAAAOSwI-heGNfg/s-l1600.jpg", "https://cruisingcostco.files.wordpress.com/2016/08/image.jpeg?w=640", "https://sureketo.com/images/kirkland-signature-organic-creamy-peanut-butter.jpg"],
+        "type": "natural peanut butter",
+        "price": 6.99,
+        "discount": 3,
+        "quantity": 60,
+        "rating": 4.6,
+        "product_color": "brown",
+        "product_name": "Kirkland Signature Organic Peanut Butter",
+        "product_details": "Indulge in the rich taste of Kirkland Signature Organic Peanut Butter. Made from organic peanuts, this natural peanut butter is free from added sugars and preservatives. Spread it on toast or add it to your smoothies for a delicious treat.",
+        "features": ["Made from organic peanuts", "No added sugars", "No preservatives", "Creamy and smooth texture", "Bulk packaging for value"],
+        "fit": "Healthy Eating"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://i5.walmartimages.com/seo/Nature-Nate-s-Organic-Honey-100-Pure-Raw-Unfiltered-Honey-32-fl-oz-Gluten-Free-Honey_33739dbf-00cf-4062-857b-91742535780f.19a79deaa59ca1d5cc3eb34d040838f9.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF", "https://m.media-amazon.com/images/I/71y-wEpDUUL._SL1500_.jpg", "https://m.media-amazon.com/images/I/710Of48DtnL._SL1500_.jpg"],
+        "type": "organic honey",
+        "price": 14.99,
+        "discount": 7,
+        "quantity": 30,
+        "rating": 4.9,
+        "product_color": "amber",
+        "product_name": "Nature Nate's 100% Pure Organic Honey",
+        "product_details": "Sweeten your dishes with the pure goodness of Nature Nate's Organic Honey. This amber-colored honey is 100% pure, organic, and free from additives. Use it as a natural sweetener in tea, desserts, and more.",
+        "features": ["100% pure organic honey", "Rich amber color", "No additives", "Sourced from responsible beekeepers", "Squeeze bottle for easy dispensing"],
+        "fit": "Sweetening"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/I/81xkfjuUSsL.jpg", "https://m.media-amazon.com/images/I/61MUiX5r0zL._US500_.jpg", "https://m.media-amazon.com/images/I/71X7HkMeFFL.jpg"],
+        "type": "organic chia seeds",
+        "price": 8.99,
+        "discount": 4,
+        "quantity": 50,
+        "rating": 4.7,
+        "product_color": "black",
+        "product_name": "Nutiva Organic Chia Seeds",
+        "product_details": "Boost your nutrition with Nutiva Organic Chia Seeds. These black chia seeds are organic, packed with omega-3 fatty acids, and versatile for adding to smoothies, yogurt, or baking. Embrace the health benefits of chia seeds.",
+        "features": ["Organic", "Rich in omega-3 fatty acids", "Versatile for cooking and baking", "Resealable pouch", "Nutrient-dense"],
+        "fit": "Superfoods"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/91CGyUGlMEL._SL1500_.jpg", "https://c8.alamy.com/comp/BTCTHG/green-and-blacks-organic-milk-chocolate-BTCTHG.jpg", "https://www.greenandblacks.co.uk/media/catalog/product/cache/d781fed7f79dc069f26dcbeb98b1f140/0/7/07622210584724_t2.jpg"],
+        "type": "organic dark chocolate",
+        "price": 5.99,
+        "discount": 2,
+        "quantity": 80,
+        "rating": 4.8,
+        "product_color": "dark brown",
+        "product_name": "Green & Black's Organic Dark Chocolate",
+        "product_details": "Indulge in the rich and intense flavor of Green & Black's Organic Dark Chocolate. Made with high-quality organic cocoa, this dark chocolate is a delightful treat for chocolate enthusiasts. Experience the decadence of organic dark chocolate.",
+        "features": ["High-quality organic cocoa", "Intense dark chocolate flavor", "Smooth and velvety texture", "Individually wrapped pieces", "Eco-friendly packaging"],
+        "fit": "Chocolate Lovers"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/I/81kbl23161L._SL1500_.jpg", "https://m.media-amazon.com/images/I/717CCrzNlLL._SL1500_.jpg", "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFhNEVwK1RmMkwuX1NMMTUwMF8uanBn.jpg"],
+        "type": "organic coconut oil",
+        "price": 10.99,
+        "discount": 6,
+        "quantity": 40,
+        "rating": 4.7,
+        "product_color": "white",
+        "product_name": "Viva Naturals Organic Extra Virgin Coconut Oil",
+        "product_details": "Experience the versatility of Viva Naturals Organic Coconut Oil. This extra virgin coconut oil is cold-pressed, organic, and perfect for cooking, baking, or as a natural moisturizer for your skin and hair. Embrace the goodness of organic coconut oil.",
+        "features": ["Cold-pressed", "Organic", "Multi-purpose usage", "Mild coconut flavor and aroma", "Non-GMO"],
+        "fit": "Cooking & Beauty"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/I/81k7alYpC9L._AC_UF1000,1000_QL80_.jpg", "https://m.media-amazon.com/images/I/817GFalk+xL.jpg", "https://www.cuppers.ca/wp-content/uploads/2020/04/numi_gunpowder_green_tea-rotated.jpg"],
+        "type": "organic green tea",
+        "price": 7.99,
+        "discount": 4,
+        "quantity": 60,
+        "rating": 4.6,
+        "product_color": "green",
+        "product_name": "Numi Organic Tea Gunpowder Green",
+        "product_details": "Savor the refreshing taste of Numi Organic Tea Gunpowder Green. This green tea is organic, sustainably sourced, and offers a bold and smoky flavor. Enjoy a moment of calm with Numi Organic Tea.",
+        "features": ["Organic gunpowder green tea", "Sustainably sourced", "Bold and smoky flavor", "Individually wrapped tea bags", "Caffeine boost"],
+        "fit": "Tea Enthusiasts"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/jov/jov01130/y/52.jpg", "https://m.media-amazon.com/images/I/518m5YMS-8L._AC_.jpg", "https://i.ebayimg.com/images/g/1DwAAOSwBMZkUl5z/s-l400.jpg"],
+        "type": "organic pasta",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 70,
+        "rating": 4.5,
+        "product_color": "brown",
+        "product_name": "Organic Brown Rice Pasta",
+        "product_details": "Opt for a healthier pasta choice with Organic Brown Rice Pasta. Made from 100% brown rice, this pasta is gluten-free, organic, and perfect for those seeking alternative grains. Enjoy the goodness of organic brown rice pasta in your favorite dishes.",
+        "features": ["100% brown rice pasta", "Gluten-free", "Organic", "Versatile for various dishes", "Quick cooking time"],
+        "fit": "Healthy Cooking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://www.hiddenspringsmaple.com/sites/hiddenspringsmaple.com/files/images/product_categories/home-maplesyrup-2019-04.png", "https://res.cloudinary.com/nassau-candy/image/upload/c_fit,w_1000,h_1000,f_auto/v1582743720/900721.jpg", "https://m.media-amazon.com/images/I/71HWqh+RhyL._AC_UF1000,1000_QL80_.jpg"],
+        "type": "organic maple syrup",
+        "price": 11.99,
+        "discount": 5,
+        "quantity": 30,
+        "rating": 4.8,
+        "product_color": "amber",
+        "product_name": "Hidden Springs Maple Organic Syrup",
+        "product_details": "Sweeten your pancakes and waffles with the rich flavor of Hidden Springs Maple Organic Syrup. This amber-colored syrup is 100% pure, organic, and free from additives. Elevate your breakfast with the natural sweetness of organic maple syrup.",
+        "features": ["100% pure organic maple syrup", "Rich amber color", "No additives", "Sustainably sourced", "Classic glass bottle"],
+        "fit": "Breakfast Lovers"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://5.imimg.com/data5/SELLER/Default/2023/12/366799361/VB/MB/KV/97671095/organic-mixed-dry-fruit-500x500.jpg", "https://m.media-amazon.com/images/I/81-BuYOTBdL.jpg", "https://img.chemie.de/Portal/News/64e5e713012ac_79VlNvL1z.png?tr=w-1232,h-616,cm-extract,x-0,y-30:n-news_teaser"],
+        "type": "organic dried fruits",
+        "price": 14.99,
+        "discount": 7,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "assorted",
+        "product_name": "Organic Mixed Dried Fruits",
+        "product_details": "Enjoy a nutritious and flavorful snack with Organic Mixed Dried Fruits. This assortment includes organic dried apricots, figs, and dates. Packed with natural sweetness, these dried fruits are perfect for on-the-go snacking.",
+        "features": ["Assorted organic dried fruits", "Rich in natural sweetness", "No added sugars", "Resealable pouch", "Perfect for snacking"],
+        "fit": "Snacking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://images.getrecipekit.com/20231214195730-marshmallow_snowmen_recipe_thebonniefig_web3.jpg?class=16x9", "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/413S70G-GOL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg", "https://i5.walmartimages.com/asr/8776ef4f-9fdb-4c08-9799-a0eedeb47b64_1.618f3c5dd0fe237d5d6fbf6225bd45a3.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"],
+        "type": "organic coconut sugar",
+        "price": 6.99,
+        "discount": 3,
+        "quantity": 50,
+        "rating": 4.6,
+        "product_color": "brown",
+        "product_name": "Navitas Organics Organic Coconut Sugar",
+        "product_details": "Sweeten your recipes naturally with Navitas Organics Organic Coconut Sugar. This brown sugar alternative is made from the sap of coconut palms and adds a rich, caramel-like flavor to your favorite dishes. Switch to organic coconut sugar for a healthier sweetening option.",
+        "features": ["Made from coconut palm sap", "Rich caramel-like flavor", "Organic", "Low glycemic index", "Ideal for baking and cooking"],
+        "fit": "Healthy Sweetening"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://realcommissaryeats.files.wordpress.com/2013/05/dsc_0015.jpg", "https://i5.walmartimages.com/asr/060852e1-c08a-4ac8-b740-dce52651339b.fce65dc62dbdf2129fc76a1433d6ee9b.jpeg", "https://m.media-amazon.com/images/I/81XwbRW6+GL.jpg"],
+        "type": "organic almond butter",
+        "price": 9.99,
+        "discount": 4,
+        "quantity": 40,
+        "rating": 4.7,
+        "product_color": "tan",
+        "product_name": "MaraNatha Organic Almond Butter",
+        "product_details": "Spread the goodness of MaraNatha Organic Almond Butter on your favorite snacks. Made from high-quality organic almonds, this almond butter is creamy, flavorful, and free from added oils and sugars. Enjoy the pure taste of organic almond butter.",
+        "features": ["Made from organic almonds", "Creamy and flavorful", "No added oils or sugars", "Rich in nutrients", "Ideal for spreading and dipping"],
+        "fit": "Healthy Snacking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://www.lotusfoods.com/cdn/shop/products/OrganicForbiddenRice5_1_110x110@2x.png?v=1659959111", "https://m.media-amazon.com/images/I/71J8WCRA3TL.jpg", "https://m.media-amazon.com/images/I/81GWgVHFI+L.jpg"],
+        "type": "organic black rice",
+        "price": 5.99,
+        "discount": 2,
+        "quantity": 60,
+        "rating": 4.8,
+        "product_color": "black",
+        "product_name": "Lotus Foods Organic Forbidden Black Rice",
+        "product_details": "Explore the unique flavor and texture of Lotus Foods Organic Forbidden Black Rice. This heirloom rice is organic, gluten-free, and cooks to a deep purple-black color. Elevate your meals with the exotic appeal of organic forbidden black rice.",
+        "features": ["Organic", "Heirloom black rice", "Gluten-free", "Rich in antioxidants", "Distinct flavor and texture"],
+        "fit": "Exotic Cooking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://images.heb.com/is/image/HEBGrocery/001905694-1", "https://www.ispiceyou.com/cdn/shop/products/Figo6Pack-ispice_1080x.jpg?v=1661528336", "https://www.flavorseed.com/cdn/shop/products/flavor-seed-the-godfather-killer-organic-italian-seasoning-411287_1024x1024@2x.png?v=1695123748"],
+        "type": "organic dried herbs",
+        "price": 4.99,
+        "discount": 2,
+        "quantity": 70,
+        "rating": 4.6,
+        "product_color": "green",
+        "product_name": "Simply Organic Italian Seasoning",
+        "product_details": "Enhance the flavor of your dishes with Simply Organic Italian Seasoning. This blend of organic dried herbs, including basil, oregano, and thyme, adds a Mediterranean touch to your culinary creations. Elevate your cooking with the simplicity of organic dried herbs.",
+        "features": ["Organic Italian seasoning blend", "No additives or preservatives", "Versatile for various dishes", "Resealable packaging", "Authentic taste"],
+        "fit": "Cooking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://shop.healthyoptions.com.ph/cdn/shop/files/coconutmilk.jpg?v=1690271383", "https://m.media-amazon.com/images/I/91ANVPrXz-L.jpg", "https://shop.organicastore.com/web/image/product.template/20283/image_1024?unique=f24f140"],
+        "type": "organic coconut milk",
+        "price": 3.99,
+        "discount": 2,
+        "quantity": 80,
+        "rating": 4.7,
+        "product_color": "white",
+        "product_name": "Native Forest Organic Coconut Milk",
+        "product_details": "Add creaminess to your recipes with Native Forest Organic Coconut Milk. This coconut milk is organic, non-GMO, and perfect for curries, smoothies, and desserts. Experience the richness of organic coconut milk in your culinary creations.",
+        "features": ["Organic", "Non-GMO", "Rich and creamy", "No additives", "BPA-free can"],
+        "fit": "Cooking & Baking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/I/81ODwbSSHGL.jpg", "https://img.freepik.com/premium-photo/food-drink-diet-nutrition-health-care-concept-raw-organic-orange-turmeric-root-powder-curcuma-longa-cooking-table-indian-oriental-low-cholesterol-spices-copy-space-background_419307-1698.jpg?w=2000", "https://www.pureleven.com/wp-content/uploads/2023/09/36.jpg"],
+        "type": "organic turmeric powder",
+        "price": 7.99,
+        "discount": 3,
+        "quantity": 50,
+        "rating": 4.8,
+        "product_color": "yellow",
+        "product_name": "Organic India Turmeric Powder",
+        "product_details": "Harness the health benefits of turmeric with Organic India Turmeric Powder. This vibrant yellow powder is organic, rich in curcumin, and ideal for adding a warm and earthy flavor to your dishes. Embrace the golden goodness of organic turmeric powder.",
+        "features": ["Organic turmeric powder", "Rich in curcumin", "Anti-inflammatory properties", "Versatile for cooking and beverages", "Resealable pouch"],
+        "fit": "Healthy Cooking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e45eebf52c01a7345694d2c_00647671000047-glamor-frontpackageglamor-2020-02-11t16-16-02-sm-g970u-quality-90-1-20-1-user-5dc87eef7383b82129237e56-bgpl-432134._FMwebp__SR600,600_.jpg", "https://www.gardenfreshgourmet.com/app/uploads/2022/11/GFG-Website_Product_Salsa_ScreaminHot.png", "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/5e45eebf52c01a7345694d2b_00647671000047-glamor-nutritionglamor-2020-02-11t16-16-02-sm-g970u-quality-90-1-20-1-user-5dc87eef7383b82129237e56-gnac-752168._FMwebp__SR600,600_.jpg"],
+        "type": "organic salsa",
+        "price": 4.99,
+        "discount": 2,
+        "quantity": 60,
+        "rating": 4.7,
+        "product_color": "red",
+        "product_name": "Organic Garden Fresh Salsa",
+        "product_details": "Add a burst of flavor to your snacks with Organic Garden Fresh Salsa. Made with organic tomatoes, peppers, and spices, this salsa is perfect for dipping chips or topping your favorite dishes. Enjoy the freshness of organic garden salsa.",
+        "features": ["Made with organic tomatoes and peppers", "No artificial preservatives", "Mild heat level", "Perfect for dipping and topping", "Authentic garden taste"],
+        "fit": "Snacking"
+      },
+      {
+        "category_name": "Food and Groceries",
+        "images": ["https://i5.walmartimages.com/asr/95a90d65-b2e6-4aff-949e-f1992244ffc0.4d74c4e27d89057348dac1ce48c9e70c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/933ac835-05f3-4524-8d5a-e7cd71123e7a.286b4990dd00f60d3b654c68d5429621.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://m.media-amazon.com/images/I/81Hxk-jCWBL.jpg"],
+        "type": "organic ground coffee",
+        "price": 9.99,
+        "discount": 4,
+        "quantity": 40,
+        "rating": 4.6,
+        "product_color": "brown",
+        "product_name": "Ethical Bean Organic Ground Coffee",
+        "product_details": "Start your day with the rich aroma and bold flavor of Ethical Bean Organic Ground Coffee. This dark roast coffee is organic, fair trade, and perfect for brewing a cup of high-quality coffee. Experience the ethical and delicious choice of organic ground coffee.",
+        "features": ["Dark roast", "Organic and fair trade", "Bold and rich flavor", "Ground coffee for easy brewing", "Eco-friendly packaging"],
+        "fit": "Coffee Enthusiasts"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://m.media-amazon.com/images/I/61ftRB6KycL.jpg",
+          "https://m.media-amazon.com/images/I/61ftRB6KycL._AC_UF1000,1000_QL80_.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRfAph-w3AnTG48n9uwGEPkcQlzAL6DW_RfU9JoaNXo0aL_0szJrbH8too58a9s48pvc&usqp=CAU"
+        ],
+        "type": "smartwatch",
+        "price": 149.99,
+        "discount": 15,
+        "quantity": 20,
+        "rating": 4.7,
+        "product_color": "black",
+        "product_name": "Samsung Galaxy Watch 4",
+        "product_details": "The Samsung Galaxy Watch 4 is a feature-packed smartwatch that seamlessly integrates with your Samsung Galaxy devices. With a stunning black finish, it not only looks great but also offers advanced health and fitness tracking, a vibrant display, and long-lasting battery life.",
+        "features": [
+          "Health and fitness tracking",
+          "Integrates with Samsung Galaxy devices",
+          "Vibrant display",
+          "Long-lasting battery life",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://gadgetmonkeybd.com/public/uploads/all/cof0MxW9RY6V5wbXng4WbxhJSlmlOyHDhSv5dAHd.png",
+          "https://m.media-amazon.com/images/I/615ekapl+pL.jpg",
+          "https://www.apple.com/newsroom/images/tile-images/Apple_airpods-pro_new-design-102819.jpg.news_app_ed.jpg"
+        ],
+        "type": "wireless earbuds",
+        "price": 99.99,
+        "discount": 10,
+        "quantity": 30,
+        "rating": 4.5,
+        "product_color": "white",
+        "product_name": "Apple AirPods Pro",
+        "product_details": "Experience immersive sound with the Apple AirPods Pro. These wireless earbuds feature active noise cancellation, a comfortable in-ear design, and seamless integration with Apple devices. The sleek white color adds a touch of elegance to your listening experience.",
+        "features": [
+          "Active noise cancellation",
+          "Comfortable in-ear design",
+          "Seamless integration with Apple devices",
+          "Wireless charging",
+          "Sweat and water-resistant"
+        ],
+        "fit": "In-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Arcticsky_2080a_euna.png",
+          "https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202103/oneplus-9-leak-ishan-x675.jpg?ZoidiGxbl8JHOaasO47WHaAJg0FCcs9s?size=750:*",
+          "https://www.photographyblog.com/uploads/entryImages/_1280xAUTO_crop_center-center_none/oneplus_9_pro_review.jpg"
+        ],
+        "type": "smartphone",
+        "price": 799.99,
+        "discount": 20,
+        "quantity": 15,
+        "rating": 4.8,
+        "product_color": "blue",
+        "product_name": "OnePlus 9 Pro",
+        "product_details": "The OnePlus 9 Pro is a flagship smartphone that delivers exceptional performance. With a stunning blue color, it features a powerful camera system, a smooth 120Hz display, and fast charging capabilities. Elevate your smartphone experience with the OnePlus 9 Pro.",
+        "features": [
+          "Powerful camera system",
+          "120Hz display",
+          "Fast charging",
+          "Flagship performance",
+          "5G connectivity"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://manofmany.com/wp-content/uploads/2020/01/Black-Apple-Airpods.jpg",
+          "https://www.apple.com/v/airpods-pro/d/images/meta/og__ch3csr9zmviq_overview.png",
+          "https://www.apple.com/v/airpods-pro/i/images/meta/og__eui2mpgzwyaa_overview.png"
+        ],
+        "type": "wireless earbuds",
+        "price": 89.99,
+        "discount": 8,
+        "quantity": 30,
+        "rating": 4.5,
+        "product_color": "black",
+        "product_name": "Apple AirPods Pro",
+        "product_details": "Experience immersive sound with the Apple AirPods Pro. These wireless earbuds feature active noise cancellation, a comfortable in-ear design, and seamless integration with Apple devices. The sleek white color adds a touch of elegance to your listening experience.",
+        "features": [
+          "Active noise cancellation",
+          "Comfortable in-ear design",
+          "Seamless integration with Apple devices",
+          "Wireless charging",
+          "Sweat and water-resistant"
+        ],
+        "fit": "In-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://hnsfpau.imgix.net/5/images/detailed/147/B085G63QHT_001.jpg?fit=fill&bg=0FFF&w=1500&h=844&auto=format,compress",
+          "https://cdn.rona.ca/images/64145046_L.jpg",
+          "https://cdn.idealo.com/folder/Product/200727/9/200727951/s3_produktbild_max_6/amazon-echo-dot-4th-gen-charcoal-grey.jpg"
+        ],
+        "type": "smart speaker",
+        "price": 129.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.6,
+        "product_color": "charcoal",
+        "product_name": "Amazon Echo (4th Gen)",
+        "product_details": "The Amazon Echo (4th Gen) is a versatile smart speaker that brings voice control to your home. With a stylish charcoal finish, it features improved audio quality, smart home integration, and built-in Alexa. Enjoy hands-free convenience with the Amazon Echo.",
+        "features": [
+          "Improved audio quality",
+          "Smart home integration",
+          "Built-in Alexa",
+          "Voice control",
+          "Stylish design"
+        ],
+        "fit": "Tabletop"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://i0.wp.com/strongbee-web.s3.amazonaws.com/wp-content/uploads/sites/10/2022/08/31085645/right-png.png?fit=445%2C445&ssl=1",
+          "https://m.media-amazon.com/images/I/61xXdW1CUSL._AC_UF1000,1000_QL80_.jpg",
+          "https://image.coolblue.nl/content/6d4e7e5b85f4b8bea6509c85f55b8a38"
+        ],
+        "type": "fitness tracker",
+        "price": 79.99,
+        "discount": 8,
+        "quantity": 40,
+        "rating": 4.4,
+        "product_color": "purple",
+        "product_name": "Fitbit Charge 4",
+        "product_details": "Track your fitness journey with the Fitbit Charge 4. In a vibrant purple color, this fitness tracker offers built-in GPS, heart rate monitoring, sleep tracking, and various exercise modes. Stay connected and motivated with the Fitbit Charge 4.",
+        "features": [
+          "Built-in GPS",
+          "Heart rate monitoring",
+          "Sleep tracking",
+          "Exercise modes",
+          "Smartphone notifications"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://img.freepik.com/premium-photo/isolated-fitbit-charge-4-wrist-angle-shot-fitness-tracker-feat-white-background-clean_655090-800465.jpg",
+          "https://cdn.mos.cms.futurecdn.net/uAgSmtX6zRGmnAdqunEzwH.jpg",
+          "https://shop.apcom.eu/public/content-images/ms/product/fb168sbwts-03_big.png"
+        ],
+        "type": "fitness tracker",
+        "price": 79.99,
+        "discount": 8,
+        "quantity": 40,
+        "rating": 4.4,
+        "product_color": "white",
+        "product_name": "Fitbit Charge 4",
+        "product_details": "Track your fitness journey with the Fitbit Charge 4. In a vibrant purple color, this fitness tracker offers built-in GPS, heart rate monitoring, sleep tracking, and various exercise modes. Stay connected and motivated with the Fitbit Charge 4.",
+        "features": [
+          "Built-in GPS",
+          "Heart rate monitoring",
+          "Sleep tracking",
+          "Exercise modes",
+          "Smartphone notifications"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://m.media-amazon.com/images/I/81i8wx2ObIL._AC_UF1000,1000_QL80_.jpg",
+          "https://www.digitaltrends.com/wp-content/uploads/2020/03/fitbit_charge_4_full_inbox_lineup.jpg?fit=1500%2C1000&p=1",
+          "https://cdn.mos.cms.futurecdn.net/ZD5B6ggf92bf8vtJKBcBAJ.jpg"
+        ],
+        "type": "fitness tracker",
+        "price": 79.99,
+        "discount": 8,
+        "quantity": 40,
+        "rating": 4.4,
+        "product_color": "black",
+        "product_name": "Fitbit Charge 4",
+        "product_details": "Track your fitness journey with the Fitbit Charge 4. In a vibrant purple color, this fitness tracker offers built-in GPS, heart rate monitoring, sleep tracking, and various exercise modes. Stay connected and motivated with the Fitbit Charge 4.",
+        "features": [
+          "Built-in GPS",
+          "Heart rate monitoring",
+          "Sleep tracking",
+          "Exercise modes",
+          "Smartphone notifications"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/06/Sony-WH-1000XM4-profile.jpg",
+          "https://store.sony.co.nz/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dw72e2d384/images/WH1000XM4S/WH1000XM4S.png?sw=442&sh=442&sm=fit",
+          "https://store.sony.co.nz/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dw478d903d/images/WH1000XM4S/WH1000XM4S_1.png"
+        ],
+        "type": "headphones",
+        "price": 159.99,
+        "discount": 18,
+        "quantity": 20,
+        "rating": 4.9,
+        "product_color": "silver",
+        "product_name": "Sony WH-1000XM4 Wireless Headphones",
+        "product_details": "Immerse yourself in superior sound quality with the Sony WH-1000XM4 Wireless Headphones. The sleek silver design complements the industry-leading noise cancellation, touch sensor controls, and long battery life. Elevate your listening experience with Sony.",
+        "features": [
+          "Industry-leading noise cancellation",
+          "Touch sensor controls",
+          "Long battery life",
+          "High-quality sound",
+          "Comfortable over-ear design"
+        ],
+        "fit": "Over-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://www.fossil.com/on/demandware.static/-/Library-Sites-FossilSharedLibrary/default/dwba43b244/2020/FA20/set_1005_gen5_smartwatches/gen5_lm/1005_Gen5_Learn_More_Hero6_Mobile.gif",
+          "https://m.media-amazon.com/images/I/71LXfEmoJVL._AC_UY1000_.jpg",
+          "https://i.pcmag.com/imagery/reviews/07p0VFlvtTOsJWZhqdoJzkf-3..v1571361161.jpg"
+        ],
+        "type": "smartwatch",
+        "price": 169.99,
+        "discount": 15,
+        "quantity": 18,
+        "rating": 4.7,
+        "product_color": "rose gold",
+        "product_name": "Fossil Gen 5 Carlyle Smartwatch",
+        "product_details": "Stay connected and stylish with the Fossil Gen 5 Carlyle Smartwatch. In an elegant rose gold color, this smartwatch features Wear OS by Google, heart rate tracking, GPS, and customizable watch faces. Enhance your everyday life with Fossil Gen 5.",
+        "features": [
+          "Wear OS by Google",
+          "Heart rate tracking",
+          "GPS",
+          "Customizable watch faces",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://fossil.scene7.com/is/image/FossilPartners/FTW4024_main?$sfcc_fos_large$",
+          "https://m.media-amazon.com/images/I/718JsWdpDgL._AC_SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71ZwcTM8Z7L._AC_UY1000_.jpg"
+        ],
+        "type": "smartwatch",
+        "price": 169.99,
+        "discount": 15,
+        "quantity": 18,
+        "rating": 4.7,
+        "product_color": "black",
+        "product_name": "Fossil Gen 5 Carlyle Smartwatch",
+        "product_details": "Stay connected and stylish with the Fossil Gen 5 Carlyle Smartwatch. In an elegant rose gold color, this smartwatch features Wear OS by Google, heart rate tracking, GPS, and customizable watch faces. Enhance your everyday life with Fossil Gen 5.",
+        "features": [
+          "Wear OS by Google",
+          "Heart rate tracking",
+          "GPS",
+          "Customizable watch faces",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F09%2Fgopro-hero-9-black-action-camera-release-001.jpg?cbr=1&q=90",
+          "https://media.wired.com/photos/5f615b58d2d0ba5ef0f2303c/master/pass/Gear-hero9-black-front-SOURCE-GoPro.jpg",
+          "https://cdn.mos.cms.futurecdn.net/3NwbszmHSVSwi2nfcVgUB6.jpg"
+        ],
+        "type": "action camera",
+        "price": 249.99,
+        "discount": 20,
+        "quantity": 15,
+        "rating": 4.8,
+        "product_color": "black",
+        "product_name": "GoPro Hero 9 Black",
+        "product_details": "Capture your adventures with the GoPro Hero 9 Black. The sleek black action camera offers stunning 5K video, 20MP photos, and advanced stabilization. With a waterproof design and a front-facing display, it's perfect for recording your epic moments.",
+        "features": [
+          "5K video recording",
+          "20MP photos",
+          "Advanced stabilization",
+          "Waterproof design",
+          "Front-facing display"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://shop.samsung.com/ie/images/products/27511/14946/2000x2000/SM-G998BZKDEUA.webp",
+          "https://images.samsung.com/sg/smartphones/galaxy-s21/buy/s21_ultra_phantomblack_colorselection_720x720_img.jpg",
+          "https://assets.mspimages.in/gear/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_product_shots_3.jpg"
+        ],
+        "type": "smartphone",
+        "price": 899.99,
+        "discount": 25,
+        "quantity": 12,
+        "rating": 4.9,
+        "product_color": "black",
+        "product_name": "Samsung Galaxy S21 Ultra",
+        "product_details": "Experience the ultimate smartphone performance with the Samsung Galaxy S21 Ultra. In a sleek phantom black color, it features a powerful camera system with 108MP resolution, 8K video recording, and a stunning 6.8-inch AMOLED display.",
+        "features": [
+          "108MP camera system",
+          "8K video recording",
+          "6.8-inch AMOLED display",
+          "Powerful performance",
+          "5G connectivity"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://assets-global.website-files.com/5b44edefca321a1e2d0c2aa6/6158aa354a22b3b4d3dde1d3_Dimensions-Digital-Smart-Home-Devices-Google-Nest-Audio-3D.jpg",
+          "https://cdn.vox-cdn.com/thumbor/f0nFQtdypnmGJ9SQJWj1Ll2B-ZI=/0x0:5248x3499/1400x1400/filters:focal(2692x2433:2693x2434)/cdn.vox-cdn.com/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg",
+          "https://i.insider.com/5f74d6650ab50d00184ad61f?width=1136&format=jpeg"
+        ],
+        "type": "smart speaker",
+        "price": 149.99,
+        "discount": 12,
+        "quantity": 22,
+        "rating": 4.6,
+        "product_color": "blue",
+        "product_name": "Google Nest Audio",
+        "product_details": "Elevate your home audio experience with the Google Nest Audio. The sandstone-colored smart speaker delivers rich, powerful sound and integrates seamlessly with your Google ecosystem. With Google Assistant built-in, it's your smart home companion.",
+        "features": [
+          "Rich, powerful sound",
+          "Seamless integration with Google ecosystem",
+          "Google Assistant built-in",
+          "Voice control",
+          "Modern design"
+        ],
+        "fit": "Tabletop"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://fesports.com.au/stock/10453_7OXuid_original.jpg",
+          "https://www.garmin.com.my/m/my/g/products/vivosmart4-blue-iamge-03.png",
+          "https://www.garmin.com.my/m/my/g/products/vivosmart4-blue-iamge-05.png"
+        ],
+        "type": "fitness tracker",
+        "price": 69.99,
+        "discount": 8,
+        "quantity": 35,
+        "rating": 4.4,
+        "product_color": "teal",
+        "product_name": "Garmin Vivosmart 4",
+        "product_details": "Achieve your fitness goals with the Garmin Vivosmart 4. In a vibrant teal color, this slim fitness tracker offers advanced health monitoring, Pulse Ox sensor, Body Battery energy tracking, and a stylish design. Stay active and connected with Garmin.",
+        "features": [
+          "Advanced health monitoring",
+          "Pulse Ox sensor",
+          "Body Battery energy tracking",
+          "Slim design",
+          "Smart notifications"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://assets.bosecreative.com/transform/6831e32b-2824-4b7e-a26d-59ec2593a44a/CREA-1001_QCUH24_ThreeQuarter_Left_White_1M-F_x3a_RGB",
+          "https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dw09ef4280/images/065/20/65204224-2.jpg?sw=1000&sh=1000&sm=fit",
+          "https://www.cnet.com/a/img/resize/30dd6aa025ddf09a9b66a751b467cecb2dfeba3c/hub/2021/08/30/e452b1a8-5605-488a-ad2b-951c5ab0aef0/bose-qc45-white-smoke.jpg?auto=webp&fit=crop&height=675&width=1200"
+        ],
+        "type": "headphones",
+        "price": 129.99,
+        "discount": 15,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "white",
+        "product_name": "Bose QuietComfort 35 II",
+        "product_details": "Immerse yourself in superior sound quality with the Bose QuietComfort 35 II headphones. The midnight blue color complements the world-class noise cancellation, comfortable over-ear design, and long battery life. Escape into your music with Bose.",
+        "features": [
+          "World-class noise cancellation",
+          "Comfortable over-ear design",
+          "Long battery life",
+          "Premium sound quality",
+          "Voice assistant integration"
+        ],
+        "fit": "Over-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_le_midnight_blue_hero.PNG/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+          "https://www.trustedreviews.com/wp-content/uploads/sites/54/2016/06/bose-quietcomfort-44-1.jpg",
+          "https://assets.bosecreative.com/transform/1a189a0c-ad2b-47bb-960a-530def956f0e/quietcomfort_35_gaming_headset_silo_3_1920_1920"
+        ],
+        "type": "headphones",
+        "price": 159.99,
+        "discount": 15,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "black",
+        "product_name": "Bose QuietComfort 35 II",
+        "product_details": "Immerse yourself in superior sound quality with the Bose QuietComfort 35 II headphones. The midnight blue color complements the world-class noise cancellation, comfortable over-ear design, and long battery life. Escape into your music with Bose.",
+        "features": [
+          "World-class noise cancellation",
+          "Comfortable over-ear design",
+          "Long battery life",
+          "Premium sound quality",
+          "Voice assistant integration"
+        ],
+        "fit": "Over-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://media.ldlc.com/r1600/ld/products/00/05/91/02/LD0005910223_1.jpg",
+          "https://www.techdenbd.com/backend/img/product/huawei-watch-gt-3-46mm-smart-watch-buy-online-2022-04-28-626a2db907f89.jpg",
+          "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt3/img/4/huawei-watch-gt-3-42mm-watch3.png"
+        ],
+        "type": "smartwatch",
+        "price": 139.99,
+        "discount": 10,
+        "quantity": 28,
+        "rating": 4.5,
+        "product_color": "silver",
+        "product_name": "Huawei Watch GT 3",
+        "product_details": "The Huawei Watch GT 3 is a stylish smartwatch that blends fashion with functionality. In a sleek silver color, it features a vibrant AMOLED display, advanced health tracking, long battery life, and a variety of watch faces. Stay connected with Huawei.",
+        "features": [
+          "Vibrant AMOLED display",
+          "Advanced health tracking",
+          "Long battery life",
+          "Multiple watch faces",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://www1.djicdn.com/cms_uploads/ckeditor/pictures/2251/content_572c6af6e01cc5605775ae0d728c320a.jpg",
+          "https://www.cined.com/content/uploads/2023/08/DJI-Osmo-Action-4-featured2-1300x750.jpg",
+          "https://stormsend1.djicdn.com/tpc/uploads/spu/cover/e1b8110f65a5a3321fe487f0a1a061ac@retina_small.png"
+        ],
+        "type": "action camera",
+        "price": 199.99,
+        "discount": 18,
+        "quantity": 18,
+        "rating": 4.8,
+        "product_color": "black",
+        "product_name": "DJI Osmo Action Camera",
+        "product_details": "Capture stunning moments with the DJI Osmo Action Camera. The sleek white camera offers 4K video recording, RockSteady stabilization, and dual screens for easy framing. Whether you're on land or underwater, the DJI Osmo delivers exceptional footage.",
+        "features": [
+          "4K video recording",
+          "RockSteady stabilization",
+          "Dual screens",
+          "Waterproof design",
+          "Voice control"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://snapcraze.co.za/wp-content/uploads/2020/08/note-20-ultra-mystic-bronze-1.jpg",
+          "https://snapcraze.co.za/wp-content/uploads/2020/08/Samsung-Galaxy-Note-20-Mystic-Bronze-With-S-Pen.jpg",
+          "https://vipvendor.ng/wp-content/uploads/2021/05/61gjAy9vgYL.jpg"
+        ],
+        "type": "smartphone",
+        "price": 749.99,
+        "discount": 22,
+        "quantity": 15,
+        "rating": 4.9,
+        "product_color": "mystic bronze",
+        "product_name": "Samsung Galaxy Note 20 Ultra",
+        "product_details": "Unleash your creativity with the Samsung Galaxy Note 20 Ultra. In a stunning mystic bronze color, this smartphone features a powerful S Pen, pro-grade camera system, and a vibrant AMOLED display. Elevate your productivity with the Galaxy Note 20 Ultra.",
+        "features": [
+          "Powerful S Pen",
+          "Pro-grade camera system",
+          "Vibrant AMOLED display",
+          "High-performance",
+          "5G connectivity"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://i.rtings.com/assets/products/R8g7Votp/sonos-one-gen-2/design-large.jpg",
+          "https://cdn11.bigcommerce.com/s-8ek7z3h3jn/images/stencil/1280x1280/products/4584/28393/sonos-sonos-one-gen-2-or-oneg2uk1-or-white__25804.1660065354.jpg?c=1",
+          "https://www.projectors.co.uk/media/catalog/product/cache/90cf8aa233bbe36808439b7738134432/s/o/sonos-one-white.jpg"
+        ],
+        "type": "smart speaker",
+        "price": 119.99,
+        "discount": 15,
+        "quantity": 20,
+        "rating": 4.6,
+        "product_color": "chalk",
+        "product_name": "Sonos One (Gen 2)",
+        "product_details": "Immerse yourself in superior audio with the Sonos One (Gen 2) smart speaker. In a clean chalk color, it delivers rich, room-filling sound and integrates seamlessly with popular streaming services. With voice control, it's a perfect addition to your smart home setup.",
+        "features": [
+          "Rich, room-filling sound",
+          "Seamless integration with streaming services",
+          "Voice control",
+          "Modern design",
+          "Multi-room audio"
+        ],
+        "fit": "Tabletop"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://img.fruugo.com/product/1/78/974243781_max.jpg",
+          "https://www.kibotek.com/wp-content/uploads/2022/03/correa-cool-para-xiaomi-mi-band-5-mi-band-6-amazfit-band-5-liso-verde-1200x1200.jpg",
+          "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8427542117638_1.jpg"
+        ],
+        "type": "fitness tracker",
+        "price": 89.99,
+        "discount": 10,
+        "quantity": 30,
+        "rating": 4.4,
+        "product_color": "lime green",
+        "product_name": "Xiaomi Mi Band 6",
+        "product_details": "Track your fitness with the Xiaomi Mi Band 6. In a vibrant lime green color, this fitness tracker offers a large AMOLED display, heart rate monitoring, sleep tracking, and various workout modes. Stay active and stylish with the Xiaomi Mi Band 6.",
+        "features": [
+          "Large AMOLED display",
+          "Heart rate monitoring",
+          "Sleep tracking",
+          "Multiple workout modes",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://ae01.alicdn.com/kf/Hb0e43430929a46079e6aa434db7e6288P/Jabra-Elite-85h-Wireless-Noise-Canceling-Headphones-Over-Ear-Compatible-with-iPhone-Android-Built-in-Mic.jpg",
+          "https://www.jabra.sg/-/media/Images/Products/Jabra-Elite-85h/Layout/KSP6_DigitalAssistants/voice_assistants_headphones.png?la=en-SG",
+          "https://assets2.jabra.com/d/d/5/0/dd5030bb6972266a6e39255be1a8a3798eb31cc3_Jabra_Evolve2_85_Teams_02.png?w=300&h=300&auto=format,compress"
+        ],
+        "type": "headphones",
+        "price": 179.99,
+        "discount": 18,
+        "quantity": 22,
+        "rating": 4.9,
+        "product_color": "phantom gray",
+        "product_name": "Jabra Elite 85h Wireless Headphones",
+        "product_details": "Immerse yourself in premium sound quality with the Jabra Elite 85h Wireless Headphones. The sophisticated phantom gray design complements the SmartSound technology, long battery life, and comfortable over-ear fit. Elevate your listening experience with Jabra.",
+        "features": [
+          "SmartSound technology",
+          "Long battery life",
+          "Comfortable over-ear fit",
+          "Active noise cancellation",
+          "Voice assistant integration"
+        ],
+        "fit": "Over-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://ph.garmin.com/m/ph/g/products/venu-black-gold-image-01.png",
+          "https://i.gadgets360cdn.com/large/garmin_venu_2_plus_india_website_1642583471757.jpg",
+          "https://s.yimg.com/ny/api/res/1.2/yjLx7_eMvrIX1cnF40v6GA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/33986310-a353-11eb-bffb-86f1bc208132"
+        ],
+        "type": "smartwatch",
+        "price": 159.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "black",
+        "product_name": "Garmin Venu 2",
+        "product_details": "Stay connected and active with the Garmin Venu 2 smartwatch. In an elegant gold color, it features a vibrant AMOLED display, advanced health tracking, GPS, and customizable watch faces. Elevate your fitness journey with the Garmin Venu 2.",
+        "features": [
+          "Vibrant AMOLED display",
+          "Advanced health tracking",
+          "GPS",
+          "Customizable watch faces",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://m.media-amazon.com/images/I/41l7A-9fQ7L._AC_UF1000,1000_QL80_.jpg",
+          "https://cdn.dxomark.com/wp-content/uploads/medias/post-96339/002_galaxyzfold3_5g_phantomblack_back115_thumb-1.jpg",
+          "https://image-us.samsung.com/us/smartphones/galaxy-z-fold3-5g/gallery/black/Gallery-Q2-MainKV_Foldunfold_Black-1600x1200.jpg?$product-details-jpg$"
+        ],
+        "type": "smartphone",
+        "price": 899.99,
+        "discount": 20,
+        "quantity": 15,
+        "rating": 4.8,
+        "product_color": "cosmic black",
+        "product_name": "Samsung Galaxy Z Fold 3",
+        "product_details": "Experience the future of smartphones with the Samsung Galaxy Z Fold 3. In a sleek cosmic black color, this foldable device combines a large immersive display with a compact design. Enjoy multitasking, S Pen support, and a versatile camera system.",
+        "features": [
+          "Foldable design",
+          "Immersive display",
+          "S Pen support",
+          "Versatile camera system",
+          "Powerful performance"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://ucarecdn.com/bb2173b9-7558-48d1-8ef7-4ca7df82fe6e/-/format/auto/-/preview/3000x3000/-/quality/lighter/1_01.jpg",
+          "https://appleempirebd.com/wp-content/uploads/2023/07/Amazfit-GTR-3-Pro-Smartwatch-Infinite-Black-1.webp",
+          "https://us.amazfit.com/cdn/shop/products/6391ace427ade714b70fb966024ae804.jpg?v=1633777659"
+        ],
+        "type": "smartwatch",
+        "price": 199.99,
+        "discount": 15,
+        "quantity": 18,
+        "rating": 4.7,
+        "product_color": "onyx black",
+        "product_name": "Amazfit GTR 3",
+        "product_details": "Stay active and connected with the Amazfit GTR 3 smartwatch. In an elegant onyx black color, it features a high-resolution AMOLED display, advanced health tracking, long battery life, and customizable watch faces. Elevate your fitness journey with Amazfit.",
+        "features": [
+          "High-resolution AMOLED display",
+          "Advanced health tracking",
+          "Long battery life",
+          "Customizable watch faces",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa0adb35b/JBL_Free_Hero_Black-1605x1605px.png?sw=537&sfrm=png",
+          "https://mm.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw069e1898/JBL_FREE_floating1-1605x1605px.png?sw=537&sfrm=png",
+          "https://mm.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwfe1a3d59/JBL_FREEx_Hero_Black.png"
+        ],
+        "type": "wireless earbuds",
+        "price": 129.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.6,
+        "product_color": "sapphire blue",
+        "product_name": "JBL Free X True Wireless Earbuds",
+        "product_details": "Enjoy wire-free music with the JBL Free X True Wireless Earbuds. The stylish sapphire blue earbuds deliver immersive sound, a secure fit, and hands-free calling. With a compact charging case, they are perfect for on-the-go listening.",
+        "features": [
+          "Immersive sound",
+          "Secure fit",
+          "Hands-free calling",
+          "Compact charging case",
+          "Bluetooth connectivity"
+        ],
+        "fit": "In-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://m.media-amazon.com/images/I/51DZCJVgXNL.jpg",
+          "https://kolarivision.com/wp-content/uploads/2023/06/RX0-II.jpg",
+          "https://www.trustedreviews.com/wp-content/uploads/sites/54/2019/05/rx0-o-1024x576.jpg"
+        ],
+        "type": "action camera",
+        "price": 299.99,
+        "discount": 25,
+        "quantity": 12,
+        "rating": 4.9,
+        "product_color": "black",
+        "product_name": "Sony RX0 II Ultra-Compact Camera",
+        "product_details": "Capture stunning visuals with the Sony RX0 II Ultra-Compact Camera. In a vibrant ruby red color, this compact camera features 4K video recording, a 1-inch sensor, and advanced image stabilization. Ideal for adventurers and content creators.",
+        "features": [
+          "4K video recording",
+          "1-inch sensor",
+          "Advanced image stabilization",
+          "Waterproof design",
+          "Ultra-compact size"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://reviewed-com-res.cloudinary.com/image/fetch/s--s-NCSD-l--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1593717019000/bose-home-speaker-300-lifestyle.jpg",
+          "https://avshack.in/cdn/shop/products/1_62fb53ed-4025-4267-920d-ff55e7e21ae6.jpg?v=1648897841&width=1214",
+          "https://i.rtings.com/assets/products/IfP99THt/bose-home-speaker-300/design-large.jpg"
+        ],
+        "type": "smart speaker",
+        "price": 109.99,
+        "discount": 10,
+        "quantity": 30,
+        "rating": 4.5,
+        "product_color": "sand",
+        "product_name": "Bose Home Speaker 300",
+        "product_details": "Bring powerful sound to your home with the Bose Home Speaker 300. In a stylish sand color, this smart speaker offers room-filling audio, built-in voice assistants, and compatibility with popular streaming services. Elevate your home entertainment with Bose.",
+        "features": [
+          "Room-filling audio",
+          "Built-in voice assistants",
+          "Compatibility with streaming services",
+          "Voice control",
+          "Modern design"
+        ],
+        "fit": "Tabletop"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://www.gpscentral.ca/wp-content/uploads/Garmin_Lily_Sport_pink_1.webp",
+          "https://www.gpscentral.ca/wp-content/uploads/Garmin_Lily_Sport_pink_2.webp",
+          "https://res.garmin.com/transform/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.0,f_auto,h_400,q_auto,w_400/c_pad,h_400,w_400/v1/Product_Images/en/products/010-02384-03/v/lf-xl?pgw=1"
+        ],
+        "type": "fitness tracker",
+        "price": 79.99,
+        "discount": 8,
+        "quantity": 40,
+        "rating": 4.4,
+        "product_color": "coral",
+        "product_name": "Garmin Lily Sport Fitness Tracker",
+        "product_details": "Stay active with the Garmin Lily Sport Fitness Tracker. In a vibrant coral color, this slim fitness tracker combines style with functionality, offering advanced health tracking, menstrual cycle tracking, and a sunlight-readable display. Empower your wellness journey with Garmin.",
+        "features": [
+          "Advanced health tracking",
+          "Menstrual cycle tracking",
+          "Slim design",
+          "Sunlight-readable display",
+          "Smart notifications"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://eu.sennheiser-hearing.com/cdn/shop/products/660S2.1_530x@2x.png?v=1674735602",
+          "https://avstore.in/cdn/shop/products/AVStore-Sennheiser-HD-660-S-Side.jpg?v=1613995414",
+          "https://m.media-amazon.com/images/I/71kC1BXo9PL.jpg"
+        ],
+        "type": "headphones",
+        "price": 149.99,
+        "discount": 18,
+        "quantity": 20,
+        "rating": 4.8,
+        "product_color": "graphite",
+        "product_name": "Sennheiser HD 660 S Open-Back Headphones",
+        "product_details": "Immerse yourself in audiophile-grade sound with the Sennheiser HD 660 S Open-Back Headphones. The sleek graphite design complements the open-back architecture, delivering a natural and spatial sound experience. Elevate your listening with Sennheiser.",
+        "features": [
+          "Audiophile-grade sound",
+          "Open-back architecture",
+          "Comfortable fit",
+          "Detachable cable",
+          "High-quality materials"
+        ],
+        "fit": "Over-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://bdelectronics.net/images/product/2023-02/large_PwdoD0rkCy.jpg",
+          "https://m.media-amazon.com/images/I/61dNlZy1CGL.jpg",
+          "https://www.mobileinbd.co/wp-content/uploads/2023/07/Motorola-Edge-30-Pro-Silver.jpg"
+        ],
+        "type": "smartphone",
+        "price": 749.99,
+        "discount": 22,
+        "quantity": 15,
+        "rating": 4.9,
+        "product_color": "silver",
+        "product_name": "Motorola Edge+ 5G",
+        "product_details": "Experience cutting-edge technology with the Motorola Edge+ 5G smartphone. In a sleek lunar silver color, it features a 108MP camera system, 144Hz OLED display, and powerful 5G connectivity. Stay ahead of the curve with Motorola.",
+        "features": [
+          "108MP camera system",
+          "144Hz OLED display",
+          "Powerful 5G connectivity",
+          "Long-lasting battery",
+          "Curved-edge design"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://i.gadgets360cdn.com/large/Motorola_Edge_40_Pro_Evan_Blass_big_ndtv_1678085585298.jpg",
+          "https://motorolaus.vtexassets.com/arquivos/ids/163415/Motorola-edge-pdp-render-MoonlessNight-4-zzr7nu3u.png?v=638277091240970000",
+          "https://www.mobiledokan.co/wp-content/uploads/2021/07/Motorola-Edge-20-Fusion-Electric-Graphite.jpg"
+        ],
+        "type": "smartphone",
+        "price": 842.99,
+        "discount": 25,
+        "quantity": 15,
+        "rating": 4.9,
+        "product_color": "black",
+        "product_name": "Motorola Edge+ 5G",
+        "product_details": "Experience cutting-edge technology with the Motorola Edge+ 5G smartphone. In a sleek lunar silver color, it features a 108MP camera system, 144Hz OLED display, and powerful 5G connectivity. Stay ahead of the curve with Motorola.",
+        "features": [
+          "108MP camera system",
+          "144Hz OLED display",
+          "Powerful 5G connectivity",
+          "Long-lasting battery",
+          "Curved-edge design"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://www.mobiledokan.co/wp-content/uploads/2020/03/Motorola-Edge-Plus-Blue-500x500.jpg",
+          "https://m.media-amazon.com/images/I/41aUCiPEtVL._SL500_.jpg",
+          "https://motorolaroe.vtexassets.com/arquivos/ids/156575/motorola-edge-20-pro-pdp-render-8-Baltic-blue-gq89b9ir.png?v=637630881043330000"
+        ],
+        "type": "smartphone",
+        "price": 749.99,
+        "discount": 22,
+        "quantity": 15,
+        "rating": 4.9,
+        "product_color": "blue",
+        "product_name": "Motorola Edge+ 5G",
+        "product_details": "Experience cutting-edge technology with the Motorola Edge+ 5G smartphone. In a sleek lunar silver color, it features a 108MP camera system, 144Hz OLED display, and powerful 5G connectivity. Stay ahead of the curve with Motorola.",
+        "features": [
+          "108MP camera system",
+          "144Hz OLED display",
+          "Powerful 5G connectivity",
+          "Long-lasting battery",
+          "Curved-edge design"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://leronza.com/wp-content/uploads/2020/09/24k-gold-apple-watch-series-7-with-milanese-strap.png",
+          "https://i.ytimg.com/vi/oXSr3wcQFN4/maxresdefault.jpg",
+          "https://urrem.dk/cdn/shop/products/lcw01-56-001-1-a_1200x1200.jpg?v=1689024623"
+        ],
+        "type": "smartwatch",
+        "price": 179.99,
+        "discount": 15,
+        "quantity": 22,
+        "rating": 4.6,
+        "product_color": "gold",
+        "product_name": "Apple Watch Series 7",
+        "product_details": "Stay connected and active with the Apple Watch Series 7. In an elegant gold color, this smartwatch features a larger and more durable display, advanced health tracking, and fast charging capabilities. Elevate your wrist with Apple.",
+        "features": [
+          "Larger and more durable display",
+          "Advanced health tracking",
+          "Fast charging",
+          "Customizable watch faces",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://s3.amazonaws.com/pr-prd-live-dolphin-upload-cfn/sites/260/2022/10/26001206/1_LinkBudsS_Standard_black_Earth_Blue_8000.jpg",
+          "https://s3.amazonaws.com/pr-prd-live-dolphin-upload-cfn/sites/260/2022/10/26001217/3_LinkBudsS_wearing_Earth_Blue.jpg",
+          "https://s3.amazonaws.com/pr-prd-live-dolphin-upload-cfn/sites/260/2022/10/26001247/LinkBudsS_KV-for-web_Earth_Blue.jpg"
+        ],
+        "type": "wireless earbuds",
+        "price": 109.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "peacock blue",
+        "product_name": "Sony WF-1000XM4 True Wireless Earbuds",
+        "product_details": "Immerse yourself in superior sound quality with the Sony WF-1000XM4 True Wireless Earbuds. The peacock blue earbuds feature industry-leading noise cancellation, high-quality audio, and long battery life. Experience wireless freedom with Sony.",
+        "features": [
+          "Industry-leading noise cancellation",
+          "High-quality audio",
+          "Long battery life",
+          "Touch controls",
+          "Compact charging case"
+        ],
+        "fit": "In-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://m.media-amazon.com/images/I/51EAegWF7vL._AC_UF1000,1000_QL80_.jpg",
+          "https://www.bdshop.com/pub/media/catalog/product/y/i/xiaomi-yi-4k-action-camera-global-version.jpg",
+          "https://oss.yitechnology.com/actioncamera4kplus/action_plus_logo.png"
+        ],
+        "type": "action camera",
+        "price": 249.99,
+        "discount": 18,
+        "quantity": 18,
+        "rating": 4.8,
+        "product_color": "steel gray",
+        "product_name": "YI 4K+ Action Camera",
+        "product_details": "Capture your adventures in stunning 4K with the YI 4K+ Action Camera. The sleek steel gray camera features electronic image stabilization, voice control, and a touchscreen display. Whether you're hiking, biking, or diving, YI has you covered.",
+        "features": [
+          "4K video recording",
+          "Electronic image stabilization",
+          "Voice control",
+          "Touchscreen display",
+          "Waterproof design"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://expressiveaudio.com/cdn/shop/products/HK-Citation300-Hero-GRAY-1605x1605px.jpg?v=1654791813",
+          "https://www.cnet.com/a/img/resize/a70bbd7ff489a49832004d7b90564670d4d07847/hub/2020/05/28/97df6523-c979-449d-b19b-851d28989ee8/harman-kardon-citation-300.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "https://www.heynowhifi.com.au/cdn/shop/products/HK-Citation300-Hero-GRAY-1605x1605px.jpg?v=1639473153&width=1800"
+        ],
+        "type": "smart speaker",
+        "price": 129.99,
+        "discount": 15,
+        "quantity": 20,
+        "rating": 4.6,
+        "product_color": "white",
+        "product_name": "Harman Kardon Citation 300 Smart Speaker",
+        "product_details": "Immerse yourself in premium sound with the Harman Kardon Citation 300 Smart Speaker. In a sophisticated twilight blue color, it features Google Assistant, multi-room audio, and a sleek fabric design. Elevate your home audio with Harman Kardon.",
+        "features": [
+          "Premium sound quality",
+          "Google Assistant",
+          "Multi-room audio",
+          "Touch controls",
+          "Sleek fabric design"
+        ],
+        "fit": "Tabletop"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://i5.walmartimages.com/asr/d630ca6c-f206-46d9-bf7e-25db114d38f4.c0504d317028cd261b5d1c1d65ac8ee0.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+          "https://eleme.lv/media/products/ecom/image/product_large_8907_5081.jpg",
+          "https://www.polar.com/sa-en/img/static/ignite-2/gallery/ignite2-side-champagne.png"
+        ],
+        "type": "fitness tracker",
+        "price": 99.99,
+        "discount": 10,
+        "quantity": 35,
+        "rating": 4.4,
+        "product_color": "white",
+        "product_name": "Polar Ignite 2 Fitness Watch",
+        "product_details": "Ignite your fitness journey with the Polar Ignite 2 Fitness Watch. In a vibrant electric green color, this watch offers advanced heart rate tracking, built-in GPS, and personalized workout guidance. Stay motivated and achieve your fitness goals with Polar.",
+        "features": [
+          "Advanced heart rate tracking",
+          "Built-in GPS",
+          "Personalized workout guidance",
+          "Sleep tracking",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/product-carousel/rose-gold/alt/rosegold-01-solo3.jpg.large.2x.jpg",
+          "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/solo3-pdp-p01-rosegold.jpg",
+          "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/product-carousel/rose-gold/alt/rosegold-05-solo3.jpg"
+        ],
+        "type": "headphones",
+        "price": 169.99,
+        "discount": 18,
+        "quantity": 22,
+        "rating": 4.9,
+        "product_color": "rose gold",
+        "product_name": "Beats Solo Pro Wireless Headphones",
+        "product_details": "Immerse yourself in premium sound with the Beats Solo Pro Wireless Headphones. The stylish rose gold headphones feature active noise cancellation, Apple H1 chip for seamless connectivity, and up to 22 hours of battery life. Elevate your listening experience with Beats.",
+        "features": [
+          "Active noise cancellation",
+          "Apple H1 chip",
+          "Up to 22 hours of battery life",
+          "On-ear controls",
+          "Foldable design"
+        ],
+        "fit": "On-Ear"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://mobilebazar.com.bd/assets/img/Xiaomi-Mi-Watch-Revolve-Black.jpg",
+          "https://m.media-amazon.com/images/I/71NPqRmWj4L.jpg",
+          "https://www.startech.com.bd/image/cache/catalog/smart-watch/xiaomi/revolve-xmwt06/revolve-xmwt06-1-500x500.jpg"
+        ],
+        "type": "smartwatch",
+        "price": 159.99,
+        "discount": 12,
+        "quantity": 25,
+        "rating": 4.7,
+        "product_color": "midnight black",
+        "product_name": "Xiaomi Mi Watch Revolve",
+        "product_details": "Stay connected and active with the Xiaomi Mi Watch Revolve. In a sleek midnight black color, this smartwatch features a vibrant AMOLED display, comprehensive health tracking, and long battery life. Elevate your fitness journey with Xiaomi.",
+        "features": [
+          "Vibrant AMOLED display",
+          "Comprehensive health tracking",
+          "Long battery life",
+          "Multiple workout modes",
+          "Water-resistant"
+        ],
+        "fit": "Wrist"
+      },
+      {
+        "category_name": "Gadgets",
+        "images": [
+          "https://images.othoba.com/images/thumbs/0523855_sjcam-sj8-pro-small-action-camera-1080p-full-hd-sport-camera-4k-12x-optical-zoom-video-camera-wifi-p.webp",
+          "https://images.othoba.com/images/thumbs/0567583_sjcam-sj8-pro-small-professional-action-camera-best-price.webp",
+          "https://images.othoba.com/images/thumbs/0567584_sjcam-sj8-pro-small-professional-action-camera-best-price.webp"
+        ],
+        "type": "action camera",
+        "price": 199.99,
+        "discount": 15,
+        "quantity": 18,
+        "rating": 4.6,
+        "product_color": "white",
+        "product_name": "SJCAM SJ8 Pro 4K Action Camera",
+        "product_details": "Capture your adventures in stunning 4K with the SJCAM SJ8 Pro Action Camera. The arctic white camera features a touchscreen display, electronic image stabilization, and a waterproof design. Whether you're skiing, biking, or snorkeling, SJCAM has you covered.",
+        "features": [
+          "4K video recording",
+          "Touchscreen display",
+          "Electronic image stabilization",
+          "Waterproof design",
+          "Wide-angle lens"
+        ],
+        "fit": "Handheld"
+      },
+      {
+        "category_name": "Home and Kitchen",
+        "images": [
+          "https://m.media-amazon.com/images/I/51GII2x5AvL.jpg",
+          "https://m.media-amazon.com/images/I/61axEmY9o8L._AC_UF1000,1000_QL80_.jpg",
+          "https://m.media-amazon.com/images/I/41FpRJ5RZvL.jpg"
+        ],
+        "type": "Air Fryer",
+        "price": 89.99,
+        "discount": 8,
+        "quantity": 120,
+        "rating": 4.4,
+        "product_color": "Matte Black",
+        "product_name": "CrispMaster 5000",
+        "product_details": "Enjoy guilt-free frying with the CrispMaster 5000 Air Fryer. Its rapid air circulation technology cooks your favorite meals with up to 80% less fat. The intuitive touch controls and pre-set cooking modes make it easy to achieve crispy perfection every time. Say goodbye to oil splatters and hello to healthier, tastier meals.",
+        "features": [
+          "Rapid air circulation",
+          "Intuitive touch controls",
+          "Pre-set cooking modes",
+          "Matte black finish",
+          "Easy to clean"
+        ],
+        "fit": "Compact and versatile"
+      },
+      {
+        "category_name": "Home and Kitchen",
+        "images": [
+          "https://thegermanoutlet.com/cdn/shop/products/RUBYREDBlender1_1024x.png?v=1651442054",
+          "https://ufesa-eshop.es/1003-home_default/jar-blender-bs4717-ruby-red.jpg",
+          "https://electrobousfiha.com/15542-home_default/blender-15l-500w-plastique-ufesa.jpg"
+        ],
+        "type": "Blender",
+        "price": 79.99,
+        "discount": 12,
+        "quantity": 100,
+        "rating": 4.5,
+        "product_color": "Ruby Red",
+        "product_name": "BlendMaster Ultra",
+        "product_details": "Create delicious and nutritious smoothies with the BlendMaster Ultra Blender. Equipped with a powerful motor and stainless steel blades, this blender effortlessly blends fruits, vegetables, and ice. The sleek Ruby Red design adds a pop of color to your kitchen, making it both functional and stylish.",
+        "features": [
+          "Powerful motor",
+          "Stainless steel blades",
+          "Ruby Red design",
+          "Multiple speed settings",
+          "Easy to clean"
+        ],
+        "fit": "Versatile and efficient"
+      },
+      {
+        "category_name": "Home and Kitchen",
+        "images": [
+          "https://www.grindmaster.com/wp-content/uploads/2020/02/coffee-grinders-300x300.jpg",
+          "https://www.plantbasedpros.com/wp-content/uploads/2021/11/131-890bsblack.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7BAtMQGhuON58pIlN9f7kfd0gLJHng7QCOBEeOQxCmri00IgbIPsJo-vdLGHNuByPSM&usqp=CAU"
+        ],
+        "type": "Coffee Grinder",
+        "price": 49.99,
+        "discount": 8,
+        "quantity": 100,
+        "rating": 4.7,
+        "product_color": "Brushed Stainless Steel",
+        "product_name": "GrindMaster Pro",
+        "product_details": "Enhance your coffee experience with the GrindMaster Pro Coffee Grinder. Featuring adjustable grind settings and durable stainless steel blades, this grinder ensures a consistent and precise grind for your favorite coffee beans. The sleek brushed stainless steel design adds a touch of elegance to your kitchen.",
+        "features": [
+          "Adjustable grind settings",
+          "Stainless steel blades",
+          "Brushed stainless steel design",
+          "Compact and efficient",
+          "Easy to clean"
+        ],
+        "fit": "Modern and versatile"
+      },
+      {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Bebble_Tear_Free_Shampoo_And_Body_Wash_4-Bebble-6b2f4-266333.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Bebble_Tear_Free_Shampoo_And_Body_Wash_4-Bebble-a743f-266333.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Bebble_Tear_Free_Shampoo_And_Body_Wash_4-Bebble-d0a80-266333.jpg"
+        ],
+        "type": "Baby Body Washes",
+        "price": 1799,
+        "discount": 15,
+        "quantity": 3,
+        "rating": 4,
+        "product_color": "blue",
+        "product_name": "Bebble Tear Free Shampoo And Body Wash-400ml",
+        "product_details": "For many, many years we have been working together with mothers, listening to your wishes, needs and problems at various stages of your babies’ development. We know that the care for your little one is more than a routine; it is an expression of love and dedication. With our products, we pass on our knowledge and expertise in the use of herbs and natural oils, hypoallergenic formulas and mild yet effective ingredients. For over 60 years we have been successfully developing daily skincare products, for babies as well as parents and older children.",
+        "features": [
+            "Gentle-to-eye formula Delicately cleans baby's hair & skin Provides soothing effect"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/D_nee_kids_head_and_body_bath_gummi_show-D_Nee-e0f7e-237663.jpeg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/D_nee_kids_head_and_body_bath_red_gummi_-D_Nee-1de1b-262590.jpeg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/D_nee_kids_head_and_body_bath_red_gummi_-D_Nee-ab275-262588.jpeg"
+        ],
+        "type": "Baby Body Washes",
+        "price": 770,
+        "discount": 13,
+        "quantity": 3,
+        "rating": 5,
+        "product_color": "blue",
+        "product_name": "D-nee kids head and body bath gummi shower gel with fresh fragrance in 400 ml - 22C-0346",
+        "product_details": "• Gently and effectively cleanses and moisturizes baby'sdelicate skin and scalp.• Perfect solution to keep baby's skin naturally healthy andprotect baby's skin against irritation.• Enriched with natural organic extract to give extranourishment and soothe baby's sensitive skin. Free from harsh chemicals such as Paraben, Sulphates andcoloring agents. PH balanced for baby's skin. Hypoallergenic.• Proven safe on sensitive skin.",
+        "features": [
+            "Gentle-to-eye formula Delicately cleans baby's hair & skin Provides soothing effect"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Johnsons_Baby_Skincare_Cream_Milk_Rice_1-Johnson__Johnsons-a08ab-249228.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Johnsons_Baby_Skincare_Cream_Milk_Rice_1-Johnson__Johnsons-e3996-249228.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Johnsons_Baby_Skincare_Cream_Milk_Rice_1-Johnson__Johnsons-58d6c-249228.jpg"
+        ],
+        "type": "Baby Body Washes",
+        "price": 770,
+        "discount": 13,
+        "quantity": 3,
+        "rating": 5,
+        "product_color": "blue",
+        "product_name": "Johnson's Baby Skincare Cream Milk Rice (100 gm)",
+        "product_details": "• Free of parabens, phthalates, sulfates or dye.• pH-balanced, hypoallergenic, and pediatrician-tested.• Contains milk proteins, rice extracts, vitamins, and minerals.• Clinically proven to be mild, helps keep baby’s skin soft and smooth.• Best when used together with Johnson’s Milk Rice Lotion.• Ideal for both mom and baby.How to Use: You can use it anytime you bathe your baby. Also use on a soft wet washcloth for in-between bath wash-ups.• Wet baby’s hair and body with warm water. Apply top-to-toe® with your hand or washcloth.Gently lather, rinse and snuggle",
+        "features": [
+            "Gentle-to-eye formula Delicately cleans baby's hair & skin Provides soothing effect"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Jhonsons_Baby_Top_to_toe_bath_200ml-Johnson__Johnsons-d00be-249215.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Jhonsons_Baby_Top_to_toe_bath_200ml-Johnson__Johnsons-52d94-249215.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Jhonsons_Baby_Top_to_toe_bath_200ml-Johnson__Johnsons-a5cac-249215.jpg"
+        ],
+        "type": "Baby Body Washes",
+        "price": 432,
+        "discount": 15,
+        "quantity": 1,
+        "rating": 1,
+        "product_color": "yellow",
+        "product_name": "Jhonson's Baby Top to toe bath (200ml) - 79603561",
+        "product_details": "• Johnson's Baby Top to Toe bath is as mild as pure water.• Johnson's baby bath is Hospital's choice for baby's 1st bath.• Perfectly pH balanced for newborn skin.• Johnson's baby bath is 100 percent soap free.•Hypoallergenic and clinically mildness proven.• Recommended by doctors.• No Parabens, No Sulfates, No Dye.• Every Johnson’s product passes a 5-level safety assurance process and has No harmful chemicals.",
+        "features": [
+            "Gentle-to-eye formula Delicately cleans baby's hair & skin Provides soothing effect"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Baby_Soft_Baby_Lotion_100_ml-Baby_Soft-16c62-361270.png",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Jhonsons_Baby_Top_to_toe_bath_200ml-Johnson__Johnsons-52d94-249215.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Jhonsons_Baby_Top_to_toe_bath_200ml-Johnson__Johnsons-a5cac-249215.jpg"
+        ],
+        "type": "Baby Body Washes",
+        "price": 190,
+        "discount": 0,
+        "quantity": 10,
+        "rating": 5,
+        "product_color": "white",
+        "product_name": "Baby Soft Baby Lotion 100ml - AN8Q",
+        "product_details": "Baby Soft Baby Lotion1. Infused with natural ingredients- CoconutMilk and Saffron2. pH balanced, non-greasy formulation3. Long-lasting moisture 4. Soothing fragrance,free of paraben and color5. Made safe with BSTI standards",
+        "features": [
+            "Easy to Use  Good Quality."
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Meril_Baby_Lotion_200ml-Meril-d8bc1-239886.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Meril_Baby_Lotion_200ml-Meril-8c1cc-239886.jpg"
+        ],
+        "type": "Baby Lotions and Creams",
+        "price": 320,
+        "discount": 0,
+        "quantity": 1,
+        "rating": 0,
+        "product_color": "white",
+        "product_name": "Meril Baby Lotion - 200ml - M-101-105545",
+        "product_details": "Meril is a brand that offers products for children, which are highly recommended by doctors and trusted by mothers. Their products are designed to meet the needs of Bangladeshi children while taking into consideration the climate and environment. One of their popular products is a sweetly fragranced, gentle skincare solution that can be applied all over the body throughout the year. This product aims to make the experience more pleasant for both the mother and child. It's important to note that there is no cash-back offer available for this product.",
+        "features": [
+            "Easy to Use  Good Quality."
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Kodomo_Baby_Lotion_200ml-Kodomo-0954e-240806.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Kodomo_Baby_Lotion_200ml-Kodomo-0954e-240806.jpg"
+        ],
+        "type": "Baby Lotions and Creams",
+        "price": 633,
+        "discount": 0,
+        "quantity": 1,
+        "rating": 0,
+        "product_color": "gray",
+        "product_name": "Kodomo Baby Lotion 200ml",
+        "product_details": "Kodomo is a Japanese company that believes in keeping all baby products free from harmful products and natural.Kodomo Baby Lotion has been formulated to keep a baby’s skin moisturized and soft.A baby’s skin is learning to work as inside a mother’s womb it depended on mother’s fluid to keep it moist.It is anti-rash and non allergenic. Kodomo lotion absorbs quickly.",
+        "features": [
+            "Good Quality."
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Johnsons_Baby_Cream_100gm-Johnson__Johnsons-e77fa-249205.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Johnsons_Baby_Cream_100gm-Johnsons-578fe-249205.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Johnsons_Baby_Cream_100gm-Johnsons-d2fd3-249205.jpg"
+        ],
+        "type": "Baby Lotions and Creams",
+        "price": 317,
+        "discount": 0,
+        "quantity": 1,
+        "rating": 1,
+        "product_color": "rose",
+        "product_name": "Johnson's Baby Cream (100gm) - 79603583",
+        "product_details": "2 out of 3 babies have dry skin. Baby skin is 3 times thinner than adult skin and hence loses moisture very fast. The NEW JOHNSON’S® Baby Cream which Nourishes and hydrates up to 24 hours and helps keep Baby skin soft and gentle all day long.Its fast absorbing formula contains rich emollients that help moisturize and preserve baby skin’s natural softness to protect your baby from chapped knees, rubbed elbows and tender noses.• Clinically Proven Mild• 100 percent Gentle Care. From Day 1.• Baby soft skin. All day long.• Recommended by Doctors• pH Balanced and Hypoallergenic• No added parabens, sulphates or dyes• Made with only purposeful ingredients• Transparent. Mild. Visibly Pure.",
+        "features": [
+            "• Clinically Proven Mild• 100% Gentle Care. From Day 1.• Baby soft skin. All day long.• Recommended by Doctors• pH Balanced & Hypoallergenic• No added parabens, sulphates or dyes"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/DIY_Airplane_kit-Bitsy-7915c-262731.jpeg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/DIY_Airplane_kit-Bitsy-fb3af-262731.jpeg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Alor_Jholok-OnnoRokom_BigganBaksho-61b2c-109603.png"
+        ],
+        "type": "Kids Toys and Games",
+        "price": 950,
+        "discount": 20,
+        "quantity": 1,
+        "rating": 5,
+        "product_color": "white",
+        "product_name": "Bitsy Diy Airplane Kit",
+        "product_details": "STEAM (Science, Technology, Engineering, Arts, and Math) toy: Makes learning and exploring fun for your child.- Stimulates curiosity and creativity: Helps your child learn basic principles of simple circuits, motors, mechanics, and engineering.- Great gift for birthdays, EIDs, and holidays.",
+        "features": [
+            "ASTM and EN71 certified (American and European safety standards).",
+            "product_code"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Pyramid_Magic_Rubiks_Cube_3x3x3_1_pcs-Hrid-45263-204454.jpeg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Pyramid_Magic_Rubiks_Cube_3x3x3_1_pcs-Not_Applicable-d62b5-204454.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Pyramid_Magic_Rubiks_Cube_3x3x3_1_pcs-Not_Applicable-59d27-204454.jpg"
+        ],
+        "type": "Kids Toys and Games",
+        "price": 250,
+        "discount": 15,
+        "quantity": 17,
+        "rating": 5,
+        "product_color": "blue",
+        "product_name": "Pyramid Magic Rubik's Cube (3x3x3)-1 pcs",
+        "product_details": "The Pyramid Magic Rubik's Cube - on a journey of learning, creativity, and brain exercise with the Non-Brand Magic Rubik's Cube. A timeless and iconic puzzle, this cube is not just a toy; it's a gateway to developing intelligence, fostering creativity, and providing endless hours of entertainment.Innovative Design for All Ages Crafted from durable and safe plastic, the Non-Brand Magic Rubik's Cube features a mixed color scheme, adding an element of excitement to the puzzle-solving experience. With dimensions of 3.5 x 3.5 x 3.5 cm, it's compact, making it ideal for both young minds and adults alike.",
+        "features": [
+            "For elders exercise their brain"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Baobaohao_Baby_Stroller_Light_Weight_722-Baobaohao-2c803-258740.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Baobaohao_Baby_Stroller_Light_Weight_722-Baobaohao-2016c-258740.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Baobaohao_Baby_Stroller_Light_Weight_722-Baobaohao-25d56-258740.jpg"
+        ],
+        "type": "Baby Strollers and Prams",
+        "price": 5400,
+        "discount": 0,
+        "quantity": 1,
+        "rating": 10,
+        "product_color": "black",
+        "product_name": "Baobaohao Baby Stroller Light Weight 722",
+        "product_details": "BAOBAOHAO Baby Stroller 722C The BaoBaoHao 722C trolley below gives parents an ideal hint that makes baby care easier and more convenient Productswith prominent features such as back post many positions, fabric ventilation air cool, seat belt 3 sure, large wheels with brake lock rear, .not only help baby Comfortable, comfortable, but also bring safety and convenience in each trip.Vehicles made from safe materials, sure bring good durability according to time use, help parents save maximum cost.",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Baby_Stroller_711_Pram_Red-Not_Applicable-d5f93-282528.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Baby_Stroller_711_Pram_Red-Not_Applicable-c8bc0-282528.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Baby_Stroller_711_Pram_Red-Not_Applicable-cf59a-282528.jpg"
+        ],
+        "type": "Baby Strollers and Prams",
+        "price": 4935,
+        "discount": 20,
+        "quantity": 1,
+        "rating": 10,
+        "product_color": "red",
+        "product_name": "Baby Stroller 711 Pram- Red",
+        "product_details": "For Today's Parents: One-hand easy fold design makes this Simplicity stroller easy to carry combined with three height adjustment handle, which gives this stroller a parent-friendly design To advance the protection and ease of movement front wheels are designed with suspension, improvised by toe-tap linked brakes on rear wheels and swivel lock on front wheels, so that you enjoy the walk as much as your baby does The five-point safety harness belt with padded bumper bar that is covered with saliva tested fabric keeps your baby securely protected",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Mothercare_Jive_Stroller-Mothercare-0b37a-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Strollers and Prams",
+        "price": 6935,
+        "discount": 10,
+        "quantity": 1,
+        "rating": 10,
+        "product_color": "blue",
+        "product_name": "Mothercare Jive Stroller - RI 402286",
+        "product_details": "The mothercare jive stroller is a great value lightweight stroller in fun designs that your toddler will love.The Mothercare Jive folds compactly in an umbrella-style fold and is ideal for day trips and holidays.The jive stroller's multi-position seat is easy to adjust to suit your baby and lockable front swivel wheels provide easy manoeuvrability.The shopping basket offers storage space for all of baby's essentials and the moulded handles offer added comfort when pushing.",
+        "features": [
+            "1)5-point safety buckle 2)adjustable shoulder harness.3) Multi-position seat."
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Chu_Chu_Single_Container_Nipple-ChuChu-2fba1-333734.png",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Feeding",
+        "price": 40,
+        "discount": 15,
+        "quantity": 10,
+        "rating": 10,
+        "product_color": "blue",
+        "product_name": "Chu Chu Single Container Nipple",
+        "product_details": "Introducing the Chu Chu Single Container Nipple – a convenient and essential accessory for baby feeding. This single container nipple is designed to offer a hassle-free solution for storing and feeding liquids to your baby. Crafted with care and safety in mind, the Chu Chu Single Container Nipple ensures a smooth and comfortable feeding experience for both you and your little one. Elevate your baby care routine with Chu Chu – your trusted choice for practical and reliable feeding solutions.",
+        "features": [
+            "Designed to resemble breast feeding and help form baby’s palate by improving suction.Variable flow teats can provide all three rates. Have to simply turn the slit of teat to different angles to baby’s mouth.Made from high quali Volatile and nitrosamine safe."
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Chu_Chu_Double_Container_Nipple-ChuChu-34001-333735.png",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Feeding",
+        "price": 70,
+        "discount": 15,
+        "quantity": 10,
+        "rating": 4,
+        "product_color": "white",
+        "product_name": "Chu Chu Double Container Nipple",
+        "product_details": "Introducing the Chu Chu Double Container Nipple – an innovative and convenient solution for baby feeding. This double container nipple is designed to provide a seamless way to store and feed liquids to your baby. With two compartments, it offers added versatility for storing different types of liquids or mixing formulas. Crafted with quality and ease of use in mind, the Chu Chu Double Container Nipple ensures a comfortable and efficient feeding experience for both you and your baby. Elevate your baby care routine with Chu Chu – your go-to option for practical and flexible feeding solutions.",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Twinkle_Baby_Feeder_240ml-Twinkle-8829d-238787.png",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Feeding",
+        "price": 200,
+        "discount": 30,
+        "quantity": 25,
+        "rating": 10,
+        "product_color": "white",
+        "product_name": "Twinkle Baby Feeder 240ml - HP16",
+        "product_details": "Twinkle Baby Feeders and Nipples are created with high quality food certified silicone materials with translucent patterns. It offers utmost safety for baby and ease for mother. Cute patterns on feeder bottles with vivid colors enhance baby’s visual sense and are perfectly safe for newborns.Anti-Colic.Silicone Nipple. Ultra-Light.",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Twinkle_Baby_Spoon_Feeder_160_ml-Twinkle-c3e98-238791.png",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Feeding",
+        "price": 200,
+        "discount": 30,
+        "quantity": 20,
+        "rating": 12,
+        "product_color": "white",
+        "product_name": "Twinkle Baby Spoon Feeder 160ml - HP98",
+        "product_details": "Twinkle Baby Feeders and Nipples are created with high quality food certified silicone materials with translucent patterns. It offers utmost safety for baby and ease for mother. Cute patterns on feeder bottles with vivid colors enhance baby’s visual sense and are perfectly safe for newborns.Anti-Colic.Silicone Nipple. Ultra-Light.",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Meril_Baby_Powder_100_gm-Square_Toiletries_Ltd-bcca9-239896.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Powders",
+        "price": 110,
+        "discount": 10,
+        "quantity": 5,
+        "rating": 10,
+        "product_color": "white",
+        "product_name": "Meril Baby Powder - 100 gm - M-101-50865",
+        "product_details": "Meril Baby Powder is a high-quality baby powder designed to provide gentle care and protection to your little one's delicate skin. It comes in a convenient 100 gm pack and is made by the well-known brand Meril, which is known for producing a wide range of baby care products.As a baby powder, Meril Baby Powder is specially formulated to help keep your baby's skin dry, soft, and smooth. It is made with carefully selected ingredients that are gentle and non-irritating to your baby's delicate skin, making it a great choice for parents who are concerned about using safe and effective products on their babies.What's more, Meril Baby Powder is very easy to use. Simply smooth it all over your baby's body, paying extra attention to sensitive areas, and apply it at nappy change or whenever your baby feels damp. This will help keep your baby feeling fresh and comfortable throughout the day.Overall, if you're looking for a high-quality baby powder that is gentle, effective, and easy to use, the Meril Baby Powder is definitely worth considering. Its carefully selected ingredients and gentle formula make it a great choice for parents who want to ensure their baby's delicate skin is well taken care of.",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Kodomo_Baby_Powder_Extra_Mild_200_gm-Kodomo-0eded-241127.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Powders",
+        "price": 320,
+        "discount": 0,
+        "quantity": 5,
+        "rating": 10,
+        "product_color": "white",
+        "product_name": "Kodomo Baby Powder Extra Mild 100 gm",
+        "product_details": "Kodomo Baby Powder Extra Mild specially formulated for your baby's delicate skin. This talcum-free powder provides a soft and comforting touch, helping to keep your baby dry, fresh, and comfortable throughout the day. The extra mild formula of the baby powder is designed to minimize the risk of skin irritation, making it suitable for daily use. It absorbs excess moisture, helping to prevent diaper rash and skin chafing, while also providing a gentle and refreshing fragrance.With its fine texture, the Kodomo Baby Powder Extra Mild is easy to apply and provides a smooth and silky feel on your baby's skin. It helps to keep your baby's skin dry and cool, maintaining a comfortable and healthy environment. Simply apply a small amount of the powder onto your baby's skin, focusing on areas prone to moisture, and gently pat it in for a fresh and dry feeling. Kodomo is a trusted brand known for its dedication to providing safe and gentle products for babies.With its commitment to quality and care, you can trust Kodomo Baby Powder Extra Mild to keep your baby's skin happy, protected, and comfortable. Choose Kodomo Baby Powder Extra Mild for a gentle and soothing experience for your baby's delicate skin. Enjoy the softness and freshness that this powder provides, and keep your baby dry and comfortable throughout the day.",
+        "features": [
+            ""
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Kodomo_Baby_Powder_Extra_Mild_50_gm-Kodomo-f6570-272042.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Powders",
+        "price": 170,
+        "discount": 10,
+        "quantity": 5,
+        "rating": 1,
+        "product_color": "white",
+        "product_name": "Kodomo Baby Powder Extra Mild 100 gm",
+        "product_details": "Baby’s skin is much more sensitive than adults and hence more prone to irritation. Baby Powder offers long lasting freshness and skin comfort to your baby’s delicate skin Protects your baby’s skin from excess moisture and leaves it soft and smooth.Helps eliminate friction while keeping the skin cool and comfortable.Made of millions of tiny, round, slippery plates that glide over each other, helping ease skin-irritation caused by coarse talc.Safe to use baby powder and provides a soothing comfort to your child With delicate floral fragrance 100 Percent clinically proven mild and gentle Dermatologist-tested and hypoallergenic. No Parabens, No Sulfates, No Dye",
+        "features": [
+            "Easy to Use Good Quality.Extra Mild"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Kids Zone",
+        "images": [
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/Kodomo_Baby_Powder_Natural_Soft_Protecti-Kodomo-ed079-240858.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-5fb99-257499.jpg",
+            "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Mothercare_Jive_Stroller-Mothercare-9fcb7-257499.jpg"
+        ],
+        "type": "Baby Powders",
+        "price": 175,
+        "discount": 10,
+        "quantity": 2,
+        "rating": 1,
+        "product_color": "white",
+        "product_name": "Kodomo Baby Powder Natural Soft Protection 50gm",
+        "product_details": "Flavor:Gentle Soft During these ages,children love to do outdooractivities,but their sensitive skin might be attacked by mosquitoes or insects.Kodomo Natural Soft Protection is formulated with orange and citronella oil that are known as a mosquitoes repellent.Made from purest and finest high quality talc for smooth,satin-like feel on skin Anti – rash formula tested to be non-allergic,offering soothing protection from external irritant Keeps babies free from dampness and perspiration",
+        "features": [
+            "Easy to Use Good Quality.Extra Mild"
+        ],
+        "fit": "Regular Fit"
+    },
+    {
+        "category_name": "Sports and Outdoors",
+        "images": [
+          "https://static-01.daraz.com.bd/p/f10cd18dd02195c692b5d8cfe61aa046.jpg",
+          "https://static-01.daraz.pk/original/bbbf1850ff32d6e220161b935891c2da.jpg",
+          "https://ruperhat.com/wp-content/uploads/2021/08/New-Eco-Friendly-Yoga-Mat-8mm-Blue-2-2-Feet-324x324.webp"
+        ],
+        "type": "Yoga Mat",
+        "price": 34.99,
+        "discount": 10,
+        "quantity": 150,
+        "rating": 4.5,
+        "product_color": "Ocean Blue",
+        "product_name": "ZenFlex EcoMat",
+        "product_details": "Immerse yourself in tranquility during your yoga sessions with the ZenFlex EcoMat. Made from eco-friendly TPE material, this non-slip mat provides excellent grip and support. The Ocean Blue color adds a touch of serenity to your practice. Roll out the ZenFlex EcoMat and find your inner peace.",
+        "features": [
+          "Eco-friendly TPE material",
+          "Non-slip surface",
+          "Ocean Blue color",
+          "Lightweight and portable",
+          "Easy to clean"
+        ],
+        "fit": "Comfortable and supportive"
+      },
+      {
+        "category_name": "Sports and Outdoors",
+        "images": [
+          "https://rukminim2.flixcart.com/image/850/1000/j7p2tu80/tent/h/t/8/arpenaz-8293539-quechua-original-imaexv2gz8nu6b2z.jpeg?q=20&crop=false",
+          "https://m.media-amazon.com/images/I/61bd1g+GCmL._AC_UF894,1000_QL80_.jpg",
+          "https://i.ebayimg.com/images/g/YIAAAOSws3FjV9lt/s-l1200.webp"
+        ],
+        "type": "Camping Tent",
+        "price": 199.99,
+        "discount": 15,
+        "quantity": 60,
+        "rating": 4.9,
+        "product_color": "Forest Green",
+        "product_name": "AdventureXplorer Tent",
+        "product_details": "Embark on unforgettable outdoor adventures with the AdventureXplorer Tent. This spacious and durable tent is designed for comfort and protection in the great outdoors. The Forest Green color blends seamlessly with nature, and the easy setup makes it ideal for camping enthusiasts seeking reliable shelter.",
+        "features": [
+          "Spacious and durable",
+          "Forest Green color",
+          "Easy setup",
+          "Weather-resistant",
+          "Ventilation windows"
+        ],
+        "fit": "Comfortable and reliable"
+      },
+      {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://smartdeal.com.bd/public/uploads/all/v4MHFUOUz8PBDN8d0et3co1PjqUW4sfLUYFgZkBr.jpg", "https://us.soundcore.com/cdn/shop/files/A3873Z11_TD01_V1.jpg?v=1704208718", "https://shokz.com.au/cdn/shop/files/BK-2_1000x.webp?v=1701078025"],
+        "type": "In-Ear",
+        "price": 24.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.5,
+        "product_color": "Black",
+        "product_name": "Premium Wireless Earbuds",
+        "product_details": "High-quality wireless earbuds with advanced features.",
+        "features": ["Noise Cancellation", "Bluetooth 5.0", "Water-resistant", "Long Battery Life", "Touch Controls"],
+        "fit": "In-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://hottipsusa.com/cdn/shop/products/Pro_Overear_Wireless_Headphones_Main_White_websize_1024x1024.jpg?v=1670266033", "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/studiopro-wireless/pdp/product-carousel/sandstone/alt/sandstone-01-cnet.jpg", "https://assets.bosecreative.com/transform/90080bcf-32aa-4fa6-b724-74862cf9a7e4/SF_PDP_GALLERY_AIRFLYPRO_WHITE_QCUH_WHITE-1?quality=100&io=width:816,height:667,transform:fit&io=width:816,height:667,transform:fit"],
+        "type": "Over-Ear",
+        "price": 49.99,
+        "discount": 12,
+        "quantity": 30,
+        "rating": 4.2,
+        "product_color": "White",
+        "product_name": "Pro Wireless Over-Ear Headphones",
+        "product_details": "Immerse yourself in superior sound quality with our Pro Wireless Over-Ear Headphones.",
+        "features": ["Active Noise Cancellation", "Bluetooth 5.0", "Foldable Design", "Extended Battery Life", "Touch Controls"],
+        "fit": "Over-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://aajkinbo.net/wp-content/uploads/2022/10/Airpods-Pro-Black-Edition-on-a-white-background.jpg", "https://image-us.samsung.com/SamsungUS/home/easy-asset/05172022/SDSAC-4253-BudsPro_Black-03-PDP-GALLERY-TV-1600x1200.jpg?$product-details-jpg$", "https://images.samsung.com/is/image/samsung/p6pim/bd/sm-r190nzkaasa/gallery/bd-galaxy-buds-pro-r190-sm-r190nzkaasa-467032607?$650_519_PNG$"],
+        "type": "In-Ear",
+        "price": 59.99,
+        "discount": 15,
+        "quantity": 100,
+        "rating": 4.7,
+        "product_color": "Midnight Black",
+        "product_name": "HarmonyPods Pro",
+        "product_details": "Experience the next level of audio quality with HarmonyPods Pro. These in-ear wireless earbuds redefine your music listening experience with advanced features and sleek design. Enjoy crystal-clear sound, enhanced bass, and seamless connectivity with Bluetooth 5.0. The sleek Midnight Black color adds a touch of elegance to your style. With touch controls, water-resistant design, and a long-lasting battery, HarmonyPods Pro are your perfect companion for daily use.",
+        "features": ["Noise Cancellation", "Bluetooth 5.0", "Water-resistant", "Long Battery Life", "Touch Controls"],
+        "fit": "In-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://blueant.com.au/cdn/shop/products/pumpsoul-category_650x650_2x_1024x_fc1f7a61-a1ad-456d-8bcf-cbe94b1f806f_1024x.jpg?v=1604895821", "https://blueant.com.au/cdn/shop/products/pumpzone-product-blackrosegold_1_697x697_2x_1024x_f3e60ccc-4e26-4b8e-be9b-2e543878e421_1024x.jpg?v=1604622261", "https://esoftskills.com/reviews/wp-content/uploads/2023/10/infurture-rose-gold-active-noise-cancelling-headphones-with-microphone-wireless-over-ear-bluetooth-deep-bass-memory-foam-853x1024.jpg"],
+        "type": "Over-Ear",
+        "price": 129.99,
+        "discount": 20,
+        "quantity": 50,
+        "rating": 4.8,
+        "product_color": "Black",
+        "product_name": "EleganceTunes Over-Ear",
+        "product_details": "Immerse yourself in elegance and superior sound quality with EleganceTunes Over-Ear headphones. Designed for audiophiles, these headphones deliver a rich and immersive audio experience. The Rose Gold color and premium build exude sophistication and style. Active Noise Cancellation, Bluetooth 5.0, foldable design, and extended battery life make these headphones perfect for travel and daily use.",
+        "features": ["Active Noise Cancellation", "Bluetooth 5.0", "Foldable Design", "Extended Battery Life", "Touch Controls"],
+        "fit": "Over-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://m.media-amazon.com/images/I/51PbyjVSxsL._AC_UF894,1000_QL80_.jpg", "https://z.nooncdn.com/products/tr:n-t_400/v1532436473/N15724202A_1.jpg", "https://happyplugs.com/cdn/shop/products/HappyPlugsPlayPinkGold1_2d9424d7-36ca-4ffd-8597-25cb1a06bfc9_800x.jpg?v=1660797812"],
+        "type": "Over-Ear",
+        "price": 168.45,
+        "discount": 20,
+        "quantity": 50,
+        "rating": 4.8,
+        "product_color": "Rose Gold",
+        "product_name": "EleganceTunes Over-Ear",
+        "product_details": "Immerse yourself in elegance and superior sound quality with EleganceTunes Over-Ear headphones. Designed for audiophiles, these headphones deliver a rich and immersive audio experience. The Rose Gold color and premium build exude sophistication and style. Active Noise Cancellation, Bluetooth 5.0, foldable design, and extended battery life make these headphones perfect for travel and daily use.",
+        "features": ["Active Noise Cancellation", "Bluetooth 5.0", "Foldable Design", "Extended Battery Life", "Touch Controls"],
+        "fit": "Over-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://m.media-amazon.com/images/I/61kEIlTobxL.jpg", "https://m.media-amazon.com/images/I/51a86IY8D0L._AC_UF894,1000_QL80_.jpg", "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a384bb8b-4410-499d-980e-30ec200b496d.__CR613,0,800,600_PT0_SX600_V1___.png"],
+        "type": "In-Ear",
+        "price": 24.99,
+        "discount": 8,
+        "quantity": 50,
+        "rating": 4.5,
+        "product_color": "Rose Gold",
+        "product_name": "Premium Wireless Earbuds",
+        "product_details": "High-quality wireless earbuds with advanced features.",
+        "features": ["Noise Cancellation", "Bluetooth 5.0", "Water-resistant", "Long Battery Life", "Touch Controls"],
+        "fit": "In-Ear"
+    },
+    {
+        "category_name": "Wireless Earbuds",
+        "images": ["https://m.media-amazon.com/images/I/31ZiqahEefL._AC_.jpg", "https://canada.crutchfieldonline.com/ImageHandler/trim/750/457/products/2019/25/018/g018QC352RG-F.jpg", "https://www.beatsbydre.com/content/dam/beats/web/product/headphones/solo3-wireless/pdp/solo3-pdp-p01-rosegold.jpg"],
+        "type": "Over-Ear",
+        "price": 49.99,
+        "discount": 12,
+        "quantity": 30,
+        "rating": 4.2,
+        "product_color": "Rose Gold",
+        "product_name": "Pro Wireless Over-Ear Headphones",
+        "product_details": "Immerse yourself in superior sound quality with our Pro Wireless Over-Ear Headphones.",
+        "features": ["Active Noise Cancellation", "Bluetooth 5.0", "Foldable Design", "Extended Battery Life", "Touch Controls"],
+        "fit": "Over-Ear"
     }
 ]
