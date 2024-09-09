@@ -49,16 +49,6 @@
     }
   ]
 
-  [ 
-    {
-    "category": "Food and Groceries",
-    "category": "Gadgets",
-    "category": "Kids Zone",
-    "category": "Wireless Earbuds",
-    "category": "Fashion",
-    "category": "Sports and Outdoors",
-    "category": "Electronics",
-    "category": "Home and Kitchen",
-  }
-]
+
+  ["category" : "Fashion", "Food and Groceries" , ,"Home and Kitchen"]
   
